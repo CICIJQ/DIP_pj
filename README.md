@@ -1,25 +1,24 @@
 # DIP_pj
 
-This repository is a GitHub-friendly export of the local `dip_pj` workspace.
-It now contains:
+这是本地 `dip_pj` 工作区整理后的 GitHub 发布版仓库。
 
-- code for the `ERRNet/` and `DSRNet/` subprojects
-- released experiment summaries and qualitative comparison outputs
-- a small set of directly tracked lightweight checkpoints for convenience
+当前仓库中包含：
 
-Large datasets, heavyweight checkpoints, and full raw result dumps are still
-kept external. See [ASSET_MANIFEST.md](./ASSET_MANIFEST.md) for the exact
-download-and-placement instructions.
+- `ERRNet/` 与 `DSRNet/` 两个子项目的代码
+- 已整理好的实验摘要、定性对比图和 released results
+- 一小部分适合直接托管在 GitHub 上的轻量权重与 checkpoint
 
-Included subprojects:
+大体积数据集、重量级 checkpoint，以及完整原始结果输出仍然放在仓库外部。
+具体需要下载哪些文件、下载后该放到哪里，请看 [ASSET_MANIFEST.md](./ASSET_MANIFEST.md)。
 
-- `ERRNet/`: ERRNet-based reflection removal experiments, ablations, RDNet integration, and RDNet-refiner code.
-- `DSRNet/`: DSRNet-related training and evaluation code used in the same project workspace.
+仓库中的主要子项目：
 
-Important repository policy:
+- `ERRNet/`：基于 ERRNet 的去反射实验、消融、RDNet 接入，以及 RDNet-refiner 代码
+- `DSRNet/`：同一项目工作区中使用到的 DSRNet 训练与评测代码
 
-- benchmark-fair RDNet refiner results are included
-- the non-fair `all_paired` / mixed-test-training RDNet refiner run is intentionally excluded
+当前仓库遵循的结果发布原则：
 
-See each subproject's own `README.md` and released-results notes for setup,
-usage, and result interpretation details.
+- 保留 benchmark-fair 的 RDNet refiner 结果
+- 明确排除非公平的 `all_paired` / 混入测试集训练版本
+
+具体的使用方式、结果说明和子项目背景，请分别查看各子目录下的 `README.md` 与 released results 说明文件。

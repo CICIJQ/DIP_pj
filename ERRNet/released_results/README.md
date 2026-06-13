@@ -1,47 +1,45 @@
 # Released Results
 
-This directory contains a compact, Git-friendly export of the main
-experiment artifacts produced in this project.
+这个目录保存的是本项目主要实验结果的精简版、GitHub 友好版导出。
 
-The earlier release snapshot was RDNet-heavy. This export now includes
-both the historical ERRNet experiments and the later RDNet-based branch.
+早期发布快照里，RDNet 相关内容偏多；现在这份导出已经同时补齐了：
 
-Included here:
+- 历史 ERRNet 主线实验
+- 后续基于 RDNet 的替换与 refinement 实验
 
-- `errnet_mainline/`: benchmark summaries for the main ERRNet variants
-  (`eval_baseline`, `eval_improved_loss`, `eval_attn_rebalanced`,
-  `eval_ours`, `eval_transformer`, `eval_transformer_cascade_v2_latest`,
-  `eval_prior_stage2_best_full`, `errnet_naf_refiner_improved_best`)
-- `errnet_tta/`: TTA benchmark summaries for the main ERRNet variants
-- `errnet_prior_search/`: prior-probe and prior-stage2 sweep summaries
-- `errnet_ensemble/`: compact summaries from the ensemble-search experiments
-- `errnet_qualitative/`: qualitative outputs, ranking tables, panels, and
-  self-collected comparison images for the ERRNet line
-- `training/errnet_mainline/` and `training/errnet_prior/`: compact loss
-  logs and prior evaluation histories
-- `training/checkpoint_configs/`: small `opt.txt`, `metrics.txt`, and related
-  training metadata copied from local checkpoint folders
-- `dataset_manifests/`: small exported dataset manifests used by the
-  fair RDNet-refiner training path
-- `legacy_stage2_real20/`: small legacy summary for the original
-  stage-1/stage-2 ERRNet pipeline on `real20`
-- `rdnet_ablation/`, `rdnet_naf_refiner_fair_eval_gpu/`,
-  `rdnet_naf_confgate_fair_eval_gpu/`, `rdnet_rca_eval/`,
-  `rdnet_naf_refiner_posthoc_mask_eval_gpu/`, and `training/rdnet_*`: the
-  later RDNet replacement experiments and refiner runs
+这里包含的内容：
 
-Explicitly excluded:
+- `errnet_mainline/`：ERRNet 主线模型的 benchmark 摘要
+  - 包括 `eval_baseline`、`eval_improved_loss`、`eval_attn_rebalanced`、
+    `eval_ours`、`eval_transformer`、`eval_transformer_cascade_v2_latest`、
+    `eval_prior_stage2_best_full`、`errnet_naf_refiner_improved_best`
+- `errnet_tta/`：ERRNet 主线模型的 TTA 结果摘要
+- `errnet_prior_search/`：prior-probe 与 prior-stage2 的搜索结果摘要
+- `errnet_ensemble/`：ensemble-search 相关实验的精简摘要
+- `errnet_qualitative/`：ERRNet 线的定性图、排名表、面板图与自采图对比
+- `training/errnet_mainline/` 与 `training/errnet_prior/`：训练日志与 prior 历史记录
+- `training/checkpoint_configs/`：从本地 checkpoint 目录提取的小型 `opt.txt`、`metrics.txt`、`loss_log` 等配置痕迹
+- `dataset_manifests/`：fair RDNet-refiner 训练用到的小型数据清单
+- `legacy_stage2_real20/`：早期 stage-1/stage-2 ERRNet 流程在 `real20` 上的简要摘要
+- `rdnet_ablation/`、`rdnet_naf_refiner_fair_eval_gpu/`、
+  `rdnet_naf_confgate_fair_eval_gpu/`、`rdnet_rca_eval/`、
+  `rdnet_naf_refiner_posthoc_mask_eval_gpu/` 与 `training/rdnet_*`
+  - 这些是后续 RDNet 替换与 refinement 相关实验的精简结果
 
-- the non-fair mixed benchmark-training RDNet refiner run
+这里明确不保留：
+
+- 非公平的 mixed benchmark-training RDNet refiner 结果
 - `ERRNet/results/rdnet_naf_refiner_full_eval`
 
-Not included here:
+这里仍未包含：
 
-- full benchmark image dumps for every large evaluation run
-- checkpoints and model weights
-- raw datasets
-- tensorboard logs and other large intermediate artifacts
+- 每个大型评测目录下的完整逐图像输出图
+- 全部 checkpoint 与大模型权重
+- 原始数据集
+- tensorboard 日志及其他大型中间文件
 
-Refer to the main `ERRNet/` documentation for code details. The files in
-this folder are intended to preserve the result tables, summaries, and
-qualitative comparisons cited in the project analysis.
+更详细的代码背景请查看 `ERRNet/` 主目录说明。这个目录的定位是：
+
+- 保留论文/报告里会引用到的结果表格
+- 保留关键摘要与定性对比
+- 但不把所有大体积原始输出都直接塞进 GitHub
