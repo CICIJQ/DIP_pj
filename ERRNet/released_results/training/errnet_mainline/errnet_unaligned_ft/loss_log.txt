@@ -1,0 +1,1599 @@
+================ Training Loss (Tue May 19 15:54:17 2026) ================
+(epoch: 60, iters: 464000, time: 0.107) G: 0.974 D: 0.586 CX: 0.208 
+================ Training Loss (Tue May 19 15:54:57 2026) ================
+(epoch: 60, iters: 464000, time: 0.090) G: 0.972 D: 0.559 CX: 0.208 
+(epoch: 60, iters: 464100, time: 0.099) G: 2.580 D: 0.079 CX: 0.070 
+(epoch: 60, iters: 464200, time: 0.116) IPixel: 0.009 VGG: 2.041 G: 1.960 D: 0.154 
+(epoch: 60, iters: 464300, time: 0.091) G: 0.641 D: 0.844 CX: 0.062 
+(epoch: 60, iters: 464400, time: 0.093) IPixel: 0.016 VGG: 1.500 G: 0.607 D: 0.815 
+(epoch: 60, iters: 464500, time: 0.102) IPixel: 0.006 VGG: 1.285 G: 0.382 D: 1.291 
+(epoch: 60, iters: 464600, time: 0.096) IPixel: 0.011 VGG: 1.538 G: 1.167 D: 0.390 
+(epoch: 60, iters: 464700, time: 0.088) IPixel: 0.004 VGG: 1.896 G: 0.563 D: 1.031 
+(epoch: 60, iters: 464800, time: 0.094) G: 2.881 D: 0.061 CX: 0.153 
+(epoch: 60, iters: 464900, time: 0.095) G: 3.485 D: 0.031 CX: 0.174 
+(epoch: 60, iters: 465000, time: 0.089) G: 0.633 D: 0.852 CX: 0.199 
+(epoch: 60, iters: 465100, time: 0.093) IPixel: 0.022 VGG: 2.009 G: 0.755 D: 0.679 
+(epoch: 60, iters: 465200, time: 0.093) G: 1.989 D: 0.154 CX: 0.290 
+(epoch: 60, iters: 465300, time: 0.087) IPixel: 0.014 VGG: 2.480 G: 3.141 D: 0.045 
+(epoch: 60, iters: 465400, time: 0.095) IPixel: 0.010 VGG: 2.110 G: 2.098 D: 0.132 
+(epoch: 60, iters: 465500, time: 0.092) G: 0.817 D: 0.616 CX: 0.142 
+(epoch: 60, iters: 465600, time: 0.105) G: 1.697 D: 0.225 CX: 0.222 
+(epoch: 60, iters: 465700, time: 0.090) G: 0.843 D: 0.595 CX: 0.156 
+(epoch: 60, iters: 465800, time: 0.085) G: 1.337 D: 0.316 CX: 0.137 
+(epoch: 60, iters: 465900, time: 0.090) G: 1.784 D: 0.188 CX: 0.253 
+(epoch: 60, iters: 466000, time: 0.090) G: 0.317 D: 1.445 CX: 0.140 
+(epoch: 60, iters: 466100, time: 0.094) IPixel: 0.004 VGG: 1.395 G: 5.365 D: 0.005 
+(epoch: 60, iters: 466200, time: 0.093) G: 0.369 D: 1.270 CX: 0.121 
+(epoch: 60, iters: 466300, time: 0.091) G: 4.163 D: 0.016 CX: 0.267 
+(epoch: 60, iters: 466400, time: 0.089) G: 0.241 D: 2.092 CX: 0.276 
+(epoch: 60, iters: 466500, time: 0.094) IPixel: 0.009 VGG: 1.441 G: 4.060 D: 0.017 
+(epoch: 60, iters: 466600, time: 0.093) G: 0.302 D: 1.440 CX: 0.142 
+(epoch: 60, iters: 466700, time: 0.090) IPixel: 0.012 VGG: 1.636 G: 0.907 D: 0.542 
+(epoch: 60, iters: 466800, time: 0.090) IPixel: 0.004 VGG: 1.322 G: 0.727 D: 0.692 
+(epoch: 60, iters: 466900, time: 0.087) IPixel: 0.004 VGG: 1.331 G: 1.634 D: 0.230 
+(epoch: 60, iters: 467000, time: 0.092) IPixel: 0.005 VGG: 1.596 G: 0.744 D: 0.671 
+(epoch: 60, iters: 467100, time: 0.089) G: 1.481 D: 0.267 CX: 0.165 
+(epoch: 60, iters: 467200, time: 0.089) IPixel: 0.008 VGG: 1.349 G: 0.499 D: 1.009 
+(epoch: 60, iters: 467300, time: 0.092) IPixel: 0.010 VGG: 1.379 G: 0.541 D: 0.941 
+(epoch: 60, iters: 467400, time: 0.093) G: 0.552 D: 0.916 CX: 0.285 
+(epoch: 60, iters: 467500, time: 0.094) G: 0.062 D: 3.706 CX: 0.146 
+(epoch: 60, iters: 467600, time: 0.090) G: 3.316 D: 0.037 CX: 0.153 
+(epoch: 60, iters: 467700, time: 0.100) IPixel: 0.008 VGG: 1.539 G: 0.164 D: 2.210 
+(epoch: 60, iters: 467800, time: 0.099) IPixel: 0.010 VGG: 1.638 G: 0.289 D: 1.550 
+(epoch: 60, iters: 467900, time: 0.085) G: 0.654 D: 0.942 CX: 0.264 
+(epoch: 60, iters: 468000, time: 0.090) G: 1.033 D: 0.449 CX: 0.167 
+(epoch: 60, iters: 468100, time: 0.091) IPixel: 0.009 VGG: 1.976 G: 0.887 D: 0.596 
+(epoch: 60, iters: 468200, time: 0.093) IPixel: 0.004 VGG: 1.914 G: 2.650 D: 0.082 
+(epoch: 60, iters: 468300, time: 0.089) IPixel: 0.009 VGG: 1.675 G: 1.443 D: 0.287 
+(epoch: 60, iters: 468400, time: 0.090) G: 0.328 D: 1.343 CX: 0.220 
+(epoch: 60, iters: 468500, time: 0.094) IPixel: 0.006 VGG: 1.684 G: 1.790 D: 0.189 
+(epoch: 60, iters: 468600, time: 0.064) IPixel: 0.025 VGG: 2.771 G: 2.151 D: 0.128 
+(epoch: 60, iters: 468700, time: 0.097) G: 0.742 D: 0.657 CX: 0.087 
+(epoch: 60, iters: 468800, time: 0.090) IPixel: 0.010 VGG: 2.282 G: 0.703 D: 0.703 
+(epoch: 60, iters: 468900, time: 0.089) IPixel: 0.007 VGG: 1.830 G: 1.423 D: 0.287 
+(epoch: 60, iters: 469000, time: 0.087) G: 0.626 D: 0.828 CX: 0.106 
+(epoch: 60, iters: 469100, time: 0.091) G: 0.839 D: 0.609 CX: 0.095 
+(epoch: 60, iters: 469200, time: 0.091) IPixel: 0.009 VGG: 1.022 G: 0.571 D: 0.911 
+(epoch: 60, iters: 469300, time: 0.089) G: 1.279 D: 0.360 CX: 0.152 
+(epoch: 60, iters: 469400, time: 0.086) G: 0.519 D: 1.076 CX: 0.181 
+(epoch: 60, iters: 469500, time: 0.089) G: 1.722 D: 0.220 CX: 0.126 
+(epoch: 60, iters: 469600, time: 0.086) G: 1.202 D: 0.383 CX: 0.140 
+(epoch: 60, iters: 469700, time: 0.093) IPixel: 0.006 VGG: 1.489 G: 2.759 D: 0.069 
+(epoch: 60, iters: 469800, time: 0.105) IPixel: 0.005 VGG: 1.753 G: 0.268 D: 1.719 
+(epoch: 60, iters: 469900, time: 0.099) IPixel: 0.017 VGG: 1.974 G: 1.099 D: 0.491 
+(epoch: 60, iters: 470000, time: 0.093) G: 0.793 D: 0.724 CX: 0.165 
+(epoch: 60, iters: 470100, time: 0.102) IPixel: 0.029 VGG: 2.128 G: 1.279 D: 0.341 
+(epoch: 60, iters: 470200, time: 0.091) IPixel: 0.007 VGG: 1.855 G: 1.793 D: 0.187 
+(epoch: 60, iters: 470300, time: 0.087) IPixel: 0.007 VGG: 1.037 G: 0.357 D: 1.275 
+(epoch: 60, iters: 470400, time: 0.092) IPixel: 0.016 VGG: 2.036 G: 0.742 D: 0.706 
+(epoch: 60, iters: 470500, time: 0.090) G: 0.401 D: 1.159 CX: 0.097 
+(epoch: 60, iters: 470600, time: 0.094) IPixel: 0.009 VGG: 1.706 G: 1.275 D: 0.342 
+(epoch: 60, iters: 470700, time: 0.104) IPixel: 0.012 VGG: 2.301 G: 1.185 D: 0.378 
+(epoch: 60, iters: 470800, time: 0.090) G: 1.761 D: 0.203 CX: 0.209 
+(epoch: 60, iters: 470900, time: 0.087) G: 0.930 D: 0.522 CX: 0.137 
+(epoch: 60, iters: 471000, time: 0.091) G: 0.187 D: 2.155 CX: 0.068 
+(epoch: 60, iters: 471100, time: 0.092) IPixel: 0.006 VGG: 2.137 G: 1.395 D: 0.290 
+(epoch: 60, iters: 471200, time: 0.092) G: 0.805 D: 0.619 CX: 0.160 
+(epoch: 60, iters: 471300, time: 0.090) G: 0.757 D: 0.702 CX: 0.138 
+(epoch: 60, iters: 471400, time: 0.091) G: 5.658 D: 0.003 CX: 0.147 
+(epoch: 60, iters: 471500, time: 0.093) IPixel: 0.005 VGG: 2.155 G: 1.346 D: 0.322 
+(epoch: 60, iters: 471600, time: 0.095) IPixel: 0.009 VGG: 2.449 G: 0.659 D: 0.777 
+(epoch: 60, iters: 471700, time: 0.086) IPixel: 0.005 VGG: 1.104 G: 0.428 D: 1.176 
+(epoch: 60, iters: 471800, time: 0.090) IPixel: 0.007 VGG: 1.726 G: 4.720 D: 0.009 
+(epoch: 60, iters: 471900, time: 0.089) G: 0.359 D: 1.312 CX: 0.158 
+(epoch: 61, iters: 472000, time: 0.095) G: 0.558 D: 0.981 CX: 0.168 
+(epoch: 61, iters: 472100, time: 0.090) IPixel: 0.007 VGG: 2.268 G: 0.629 D: 0.832 
+(epoch: 61, iters: 472200, time: 0.091) G: 2.075 D: 0.139 CX: 0.253 
+(epoch: 61, iters: 472300, time: 0.091) G: 1.207 D: 0.368 CX: 0.164 
+(epoch: 61, iters: 472400, time: 0.105) IPixel: 0.006 VGG: 1.433 G: 1.976 D: 0.160 
+(epoch: 61, iters: 472500, time: 0.095) IPixel: 0.007 VGG: 1.227 G: 0.443 D: 1.091 
+(epoch: 61, iters: 472600, time: 0.092) G: 0.666 D: 0.776 CX: 0.252 
+(epoch: 61, iters: 472700, time: 0.087) IPixel: 0.007 VGG: 2.029 G: 0.514 D: 1.007 
+(epoch: 61, iters: 472800, time: 0.093) IPixel: 0.008 VGG: 1.519 G: 2.685 D: 0.069 
+(epoch: 61, iters: 472900, time: 0.095) IPixel: 0.016 VGG: 2.108 G: 4.378 D: 0.013 
+(epoch: 61, iters: 473000, time: 0.091) IPixel: 0.012 VGG: 1.466 G: 0.830 D: 0.611 
+(epoch: 61, iters: 473100, time: 0.096) IPixel: 0.008 VGG: 2.342 G: 1.023 D: 0.463 
+(epoch: 61, iters: 473200, time: 0.098) IPixel: 0.015 VGG: 1.957 G: 0.921 D: 0.526 
+(epoch: 61, iters: 473300, time: 0.090) G: 1.610 D: 0.234 CX: 0.165 
+(epoch: 61, iters: 473400, time: 0.106) IPixel: 0.006 VGG: 2.158 G: 1.250 D: 0.354 
+(epoch: 61, iters: 473500, time: 0.091) IPixel: 0.006 VGG: 1.592 G: 1.039 D: 0.468 
+(epoch: 61, iters: 473600, time: 0.093) G: 1.214 D: 0.374 CX: 0.255 
+(epoch: 61, iters: 473700, time: 0.089) G: 0.837 D: 0.614 CX: 0.153 
+(epoch: 61, iters: 473800, time: 0.094) G: 0.463 D: 1.074 CX: 0.162 
+(epoch: 61, iters: 473900, time: 0.088) G: 0.824 D: 0.590 CX: 0.234 
+(epoch: 61, iters: 474000, time: 0.092) IPixel: 0.012 VGG: 1.556 G: 0.795 D: 0.633 
+(epoch: 61, iters: 474100, time: 0.085) G: 0.601 D: 0.859 CX: 0.098 
+(epoch: 61, iters: 474200, time: 0.092) IPixel: 0.007 VGG: 2.142 G: 1.586 D: 0.233 
+(epoch: 61, iters: 474300, time: 0.089) G: 2.996 D: 0.050 CX: 0.198 
+(epoch: 61, iters: 474400, time: 0.094) G: 0.270 D: 1.550 CX: 0.086 
+(epoch: 61, iters: 474500, time: 0.093) IPixel: 0.004 VGG: 1.518 G: 1.533 D: 0.260 
+(epoch: 61, iters: 474600, time: 0.092) IPixel: 0.006 VGG: 1.843 G: 2.570 D: 0.079 
+(epoch: 61, iters: 474700, time: 0.096) IPixel: 0.009 VGG: 1.971 G: 1.136 D: 0.404 
+(epoch: 61, iters: 474800, time: 0.093) G: 0.330 D: 1.402 CX: 0.234 
+(epoch: 61, iters: 474900, time: 0.095) G: 0.465 D: 1.064 CX: 0.193 
+(epoch: 61, iters: 475000, time: 0.091) G: 2.218 D: 0.117 CX: 0.183 
+(epoch: 61, iters: 475100, time: 0.090) IPixel: 0.009 VGG: 1.284 G: 0.636 D: 0.769 
+(epoch: 61, iters: 475200, time: 0.093) G: 0.925 D: 0.537 CX: 0.254 
+(epoch: 61, iters: 475300, time: 0.089) G: 0.615 D: 0.896 CX: 0.243 
+(epoch: 61, iters: 475400, time: 0.090) G: 0.587 D: 0.903 CX: 0.142 
+(epoch: 61, iters: 475500, time: 0.096) IPixel: 0.006 VGG: 1.022 G: 1.692 D: 0.226 
+(epoch: 61, iters: 475600, time: 0.088) G: 1.137 D: 0.406 CX: 0.134 
+(epoch: 61, iters: 475700, time: 0.093) G: 1.103 D: 0.427 CX: 0.189 
+(epoch: 61, iters: 475800, time: 0.092) G: 3.905 D: 0.021 CX: 0.235 
+(epoch: 61, iters: 475900, time: 0.088) IPixel: 0.011 VGG: 2.301 G: 2.566 D: 0.083 
+(epoch: 61, iters: 476000, time: 0.087) G: 0.389 D: 1.327 CX: 0.219 
+(epoch: 61, iters: 476100, time: 0.096) G: 1.663 D: 0.226 CX: 0.286 
+(epoch: 61, iters: 476200, time: 0.090) G: 0.705 D: 0.796 CX: 0.219 
+(epoch: 61, iters: 476300, time: 0.089) G: 0.905 D: 0.533 CX: 0.114 
+(epoch: 61, iters: 476400, time: 0.089) G: 1.133 D: 0.405 CX: 0.203 
+(epoch: 61, iters: 476500, time: 0.094) IPixel: 0.006 VGG: 0.962 G: 2.276 D: 0.111 
+(epoch: 61, iters: 476600, time: 0.087) G: 0.602 D: 0.883 CX: 0.210 
+(epoch: 61, iters: 476700, time: 0.092) IPixel: 0.008 VGG: 1.181 G: 0.351 D: 1.331 
+(epoch: 61, iters: 476800, time: 0.093) IPixel: 0.012 VGG: 1.881 G: 0.961 D: 0.496 
+(epoch: 61, iters: 476900, time: 0.090) IPixel: 0.016 VGG: 1.973 G: 1.005 D: 0.474 
+(epoch: 61, iters: 477000, time: 0.089) IPixel: 0.006 VGG: 1.339 G: 0.208 D: 1.745 
+(epoch: 61, iters: 477100, time: 0.089) IPixel: 0.011 VGG: 1.543 G: 0.933 D: 0.518 
+(epoch: 61, iters: 477200, time: 0.086) IPixel: 0.005 VGG: 1.190 G: 2.475 D: 0.088 
+(epoch: 61, iters: 477300, time: 0.096) IPixel: 0.006 VGG: 2.042 G: 0.812 D: 0.610 
+(epoch: 61, iters: 477400, time: 0.091) G: 2.633 D: 0.076 CX: 0.336 
+(epoch: 61, iters: 477500, time: 0.087) G: 2.197 D: 0.119 CX: 0.152 
+(epoch: 61, iters: 477600, time: 0.087) IPixel: 0.007 VGG: 1.399 G: 0.433 D: 1.105 
+(epoch: 61, iters: 477700, time: 0.087) G: 2.540 D: 0.083 CX: 0.162 
+(epoch: 61, iters: 477800, time: 0.087) IPixel: 0.014 VGG: 1.952 G: 0.574 D: 0.882 
+(epoch: 61, iters: 477900, time: 0.091) IPixel: 0.023 VGG: 1.853 G: 0.768 D: 0.642 
+(epoch: 61, iters: 478000, time: 0.087) G: 2.780 D: 0.068 CX: 0.205 
+(epoch: 61, iters: 478100, time: 0.087) G: 1.425 D: 0.285 CX: 0.194 
+(epoch: 61, iters: 478200, time: 0.087) IPixel: 0.005 VGG: 1.242 G: 0.342 D: 1.371 
+(epoch: 61, iters: 478300, time: 0.086) IPixel: 0.008 VGG: 0.905 G: 1.272 D: 0.443 
+(epoch: 61, iters: 478400, time: 0.085) G: 1.989 D: 0.153 CX: 0.145 
+(epoch: 61, iters: 478500, time: 0.085) G: 1.833 D: 0.189 CX: 0.193 
+(epoch: 61, iters: 478600, time: 0.086) IPixel: 0.009 VGG: 2.183 G: 1.518 D: 0.264 
+(epoch: 61, iters: 478700, time: 0.092) IPixel: 0.009 VGG: 2.161 G: 0.971 D: 0.545 
+(epoch: 61, iters: 478800, time: 0.090) G: 0.464 D: 1.046 CX: 0.141 
+(epoch: 61, iters: 478900, time: 0.086) G: 2.589 D: 0.084 CX: 0.100 
+(epoch: 61, iters: 479000, time: 0.086) G: 0.491 D: 1.293 CX: 0.160 
+(epoch: 61, iters: 479100, time: 0.095) IPixel: 0.003 VGG: 1.725 G: 0.809 D: 0.613 
+(epoch: 61, iters: 479200, time: 0.092) IPixel: 0.005 VGG: 1.676 G: 1.349 D: 0.314 
+(epoch: 61, iters: 479300, time: 0.090) IPixel: 0.025 VGG: 1.346 G: 0.846 D: 0.569 
+(epoch: 61, iters: 479400, time: 0.094) G: 1.420 D: 0.296 CX: 0.237 
+(epoch: 61, iters: 479500, time: 0.090) IPixel: 0.009 VGG: 1.111 G: 1.138 D: 0.397 
+(epoch: 61, iters: 479600, time: 0.086) G: 1.259 D: 0.377 CX: 0.175 
+(epoch: 61, iters: 479700, time: 0.090) IPixel: 0.006 VGG: 1.172 G: 0.267 D: 1.607 
+(epoch: 61, iters: 479800, time: 0.093) IPixel: 0.009 VGG: 2.190 G: 1.100 D: 0.559 
+(epoch: 62, iters: 479900, time: 0.088) G: 0.204 D: 2.357 CX: 0.069 
+(epoch: 62, iters: 480000, time: 0.087) G: 0.677 D: 0.776 CX: 0.182 
+(epoch: 62, iters: 480100, time: 0.090) G: 1.112 D: 0.419 CX: 0.154 
+(epoch: 62, iters: 480200, time: 0.085) IPixel: 0.006 VGG: 1.381 G: 0.618 D: 0.851 
+(epoch: 62, iters: 480300, time: 0.096) IPixel: 0.006 VGG: 1.902 G: 1.537 D: 0.258 
+(epoch: 62, iters: 480400, time: 0.084) G: 0.868 D: 0.578 CX: 0.257 
+(epoch: 62, iters: 480500, time: 0.098) IPixel: 0.010 VGG: 1.165 G: 0.662 D: 0.771 
+(epoch: 62, iters: 480600, time: 0.091) G: 0.127 D: 2.712 CX: 0.291 
+(epoch: 62, iters: 480700, time: 0.093) G: 2.288 D: 0.112 CX: 0.152 
+(epoch: 62, iters: 480800, time: 0.090) G: 1.098 D: 0.426 CX: 0.206 
+(epoch: 62, iters: 480900, time: 0.096) IPixel: 0.017 VGG: 2.690 G: 0.826 D: 0.596 
+(epoch: 62, iters: 481000, time: 0.095) G: 0.794 D: 0.682 CX: 0.119 
+(epoch: 62, iters: 481100, time: 0.094) IPixel: 0.016 VGG: 1.893 G: 0.981 D: 0.484 
+(epoch: 62, iters: 481200, time: 0.091) IPixel: 0.010 VGG: 1.181 G: 1.090 D: 0.428 
+(epoch: 62, iters: 481300, time: 0.095) IPixel: 0.017 VGG: 1.651 G: 0.586 D: 0.877 
+(epoch: 62, iters: 481400, time: 0.091) G: 0.679 D: 0.739 CX: 0.178 
+(epoch: 62, iters: 481500, time: 0.091) G: 0.694 D: 0.726 CX: 0.210 
+(epoch: 62, iters: 481600, time: 0.091) G: 0.580 D: 0.885 CX: 0.128 
+(epoch: 62, iters: 481700, time: 0.085) G: 0.948 D: 0.531 CX: 0.351 
+(epoch: 62, iters: 481800, time: 0.085) IPixel: 0.007 VGG: 2.578 G: 1.439 D: 0.283 
+(epoch: 62, iters: 481900, time: 0.085) G: 1.428 D: 0.282 CX: 0.162 
+(epoch: 62, iters: 482000, time: 0.106) G: 0.636 D: 0.840 CX: 0.146 
+(epoch: 62, iters: 482100, time: 0.088) G: 0.852 D: 0.641 CX: 0.127 
+(epoch: 62, iters: 482200, time: 0.087) G: 0.710 D: 0.889 CX: 0.185 
+(epoch: 62, iters: 482300, time: 0.087) G: 1.087 D: 0.427 CX: 0.172 
+(epoch: 62, iters: 482400, time: 0.096) IPixel: 0.009 VGG: 1.503 G: 1.050 D: 0.456 
+(epoch: 62, iters: 482500, time: 0.093) G: 2.328 D: 0.116 CX: 0.173 
+(epoch: 62, iters: 482600, time: 0.096) IPixel: 0.004 VGG: 1.482 G: 3.079 D: 0.048 
+(epoch: 62, iters: 482700, time: 0.092) G: 1.357 D: 0.310 CX: 0.121 
+(epoch: 62, iters: 482800, time: 0.094) IPixel: 0.004 VGG: 1.056 G: 1.703 D: 0.208 
+(epoch: 62, iters: 482900, time: 0.091) IPixel: 0.007 VGG: 1.846 G: 2.928 D: 0.056 
+(epoch: 62, iters: 483000, time: 0.087) G: 0.663 D: 0.759 CX: 0.131 
+(epoch: 62, iters: 483100, time: 0.090) IPixel: 0.011 VGG: 2.548 G: 1.538 D: 0.254 
+(epoch: 62, iters: 483200, time: 0.094) IPixel: 0.016 VGG: 1.473 G: 0.503 D: 0.974 
+(epoch: 62, iters: 483300, time: 0.087) G: 1.385 D: 0.301 CX: 0.140 
+(epoch: 62, iters: 483400, time: 0.087) G: 1.775 D: 0.198 CX: 0.105 
+(epoch: 62, iters: 483500, time: 0.098) G: 1.850 D: 0.188 CX: 0.051 
+(epoch: 62, iters: 483600, time: 0.088) G: 1.140 D: 0.427 CX: 0.303 
+(epoch: 62, iters: 483700, time: 0.093) G: 2.426 D: 0.098 CX: 0.182 
+(epoch: 62, iters: 483800, time: 0.092) IPixel: 0.008 VGG: 1.935 G: 2.109 D: 0.138 
+(epoch: 62, iters: 483900, time: 0.099) IPixel: 0.030 VGG: 2.483 G: 1.835 D: 0.180 
+(epoch: 62, iters: 484000, time: 0.088) G: 0.941 D: 0.548 CX: 0.193 
+(epoch: 62, iters: 484100, time: 0.086) G: 1.408 D: 0.312 CX: 0.167 
+(epoch: 62, iters: 484200, time: 0.087) G: 1.450 D: 0.292 CX: 0.173 
+(epoch: 62, iters: 484300, time: 0.101) G: 0.510 D: 0.980 CX: 0.140 
+(epoch: 62, iters: 484400, time: 0.084) IPixel: 0.018 VGG: 2.681 G: 6.439 D: 0.002 
+(epoch: 62, iters: 484500, time: 0.094) IPixel: 0.005 VGG: 1.654 G: 3.648 D: 0.026 
+(epoch: 62, iters: 484600, time: 0.084) IPixel: 0.007 VGG: 1.637 G: 2.025 D: 0.164 
+(epoch: 62, iters: 484700, time: 0.101) IPixel: 0.006 VGG: 2.090 G: 1.898 D: 0.172 
+(epoch: 62, iters: 484800, time: 0.084) IPixel: 0.005 VGG: 2.016 G: 1.337 D: 0.324 
+(epoch: 62, iters: 484900, time: 0.090) G: 1.261 D: 0.347 CX: 0.169 
+(epoch: 62, iters: 485000, time: 0.089) IPixel: 0.007 VGG: 1.844 G: 1.699 D: 0.213 
+(epoch: 62, iters: 485100, time: 0.094) IPixel: 0.005 VGG: 1.857 G: 2.563 D: 0.081 
+(epoch: 62, iters: 485200, time: 0.092) G: 1.356 D: 0.316 CX: 0.106 
+(epoch: 62, iters: 485300, time: 0.087) G: 1.775 D: 0.191 CX: 0.225 
+(epoch: 62, iters: 485400, time: 0.092) IPixel: 0.007 VGG: 1.381 G: 0.433 D: 1.112 
+(epoch: 62, iters: 485500, time: 0.091) IPixel: 0.007 VGG: 1.915 G: 1.476 D: 0.276 
+(epoch: 62, iters: 485600, time: 0.090) G: 0.327 D: 1.843 CX: 0.113 
+(epoch: 62, iters: 485700, time: 0.089) G: 1.923 D: 0.163 CX: 0.198 
+(epoch: 62, iters: 485800, time: 0.093) IPixel: 0.023 VGG: 1.971 G: 0.828 D: 0.578 
+(epoch: 62, iters: 485900, time: 0.094) G: 0.461 D: 1.053 CX: 0.218 
+(epoch: 62, iters: 486000, time: 0.090) IPixel: 0.013 VGG: 2.041 G: 1.233 D: 0.360 
+(epoch: 62, iters: 486100, time: 0.092) IPixel: 0.011 VGG: 2.151 G: 1.500 D: 0.258 
+(epoch: 62, iters: 486200, time: 0.090) IPixel: 0.003 VGG: 2.043 G: 3.325 D: 0.037 
+(epoch: 62, iters: 486300, time: 0.090) G: 0.812 D: 0.638 CX: 0.137 
+(epoch: 62, iters: 486400, time: 0.087) IPixel: 0.007 VGG: 1.543 G: 0.390 D: 1.164 
+(epoch: 62, iters: 486500, time: 0.090) IPixel: 0.016 VGG: 3.057 G: 0.616 D: 0.828 
+(epoch: 62, iters: 486600, time: 0.096) IPixel: 0.009 VGG: 2.094 G: 0.432 D: 1.155 
+(epoch: 62, iters: 486700, time: 0.086) G: 1.175 D: 0.392 CX: 0.110 
+(epoch: 62, iters: 486800, time: 0.088) IPixel: 0.010 VGG: 1.499 G: 1.098 D: 0.431 
+(epoch: 62, iters: 486900, time: 0.094) G: 1.747 D: 0.200 CX: 0.116 
+(epoch: 62, iters: 487000, time: 0.094) G: 1.059 D: 0.448 CX: 0.107 
+(epoch: 62, iters: 487100, time: 0.087) G: 0.668 D: 0.763 CX: 0.176 
+(epoch: 62, iters: 487200, time: 0.090) G: 0.569 D: 0.956 CX: 0.163 
+(epoch: 62, iters: 487300, time: 0.090) IPixel: 0.016 VGG: 2.516 G: 1.250 D: 0.351 
+(epoch: 62, iters: 487400, time: 0.090) G: 1.362 D: 0.330 CX: 0.089 
+(epoch: 62, iters: 487500, time: 0.097) IPixel: 0.011 VGG: 2.414 G: 0.664 D: 0.756 
+(epoch: 62, iters: 487600, time: 0.093) G: 0.776 D: 0.637 CX: 0.096 
+(epoch: 62, iters: 487700, time: 0.094) G: 2.130 D: 0.140 CX: 0.180 
+(epoch: 62, iters: 487800, time: 0.087) IPixel: 0.013 VGG: 1.131 G: 0.537 D: 0.902 
+(epoch: 63, iters: 487900, time: 0.092) IPixel: 0.005 VGG: 1.546 G: 2.245 D: 0.113 
+(epoch: 63, iters: 488000, time: 0.094) IPixel: 0.010 VGG: 1.259 G: 2.858 D: 0.063 
+(epoch: 63, iters: 488100, time: 0.087) G: 1.182 D: 0.385 CX: 0.234 
+(epoch: 63, iters: 488200, time: 0.091) G: 0.670 D: 0.776 CX: 0.096 
+(epoch: 63, iters: 488300, time: 0.092) G: 0.965 D: 0.732 CX: 0.248 
+(epoch: 63, iters: 488400, time: 0.082) G: 0.323 D: 1.342 CX: 0.119 
+(epoch: 63, iters: 488500, time: 0.093) IPixel: 0.010 VGG: 1.470 G: 0.346 D: 1.339 
+(epoch: 63, iters: 488600, time: 0.091) IPixel: 0.014 VGG: 1.663 G: 0.792 D: 0.625 
+(epoch: 63, iters: 488700, time: 0.102) IPixel: 0.006 VGG: 1.450 G: 1.889 D: 0.172 
+(epoch: 63, iters: 488800, time: 0.087) IPixel: 0.003 VGG: 1.412 G: 1.732 D: 0.203 
+(epoch: 63, iters: 488900, time: 0.090) G: 0.608 D: 0.846 CX: 0.154 
+(epoch: 63, iters: 489000, time: 0.091) G: 0.718 D: 0.719 CX: 0.192 
+(epoch: 63, iters: 489100, time: 0.090) IPixel: 0.007 VGG: 1.821 G: 1.317 D: 0.322 
+(epoch: 63, iters: 489200, time: 0.088) G: 0.374 D: 1.224 CX: 0.167 
+(epoch: 63, iters: 489300, time: 0.087) G: 0.506 D: 1.011 CX: 0.154 
+(epoch: 63, iters: 489400, time: 0.097) G: 1.389 D: 0.298 CX: 0.101 
+(epoch: 63, iters: 489500, time: 0.092) G: 2.514 D: 0.089 CX: 0.170 
+(epoch: 63, iters: 489600, time: 0.100) IPixel: 0.008 VGG: 1.144 G: 0.463 D: 1.024 
+(epoch: 63, iters: 489700, time: 0.088) G: 0.272 D: 2.336 CX: 0.088 
+(epoch: 63, iters: 489800, time: 0.088) G: 0.271 D: 1.621 CX: 0.080 
+(epoch: 63, iters: 489900, time: 0.091) IPixel: 0.005 VGG: 1.525 G: 1.925 D: 0.178 
+(epoch: 63, iters: 490000, time: 0.091) IPixel: 0.009 VGG: 2.251 G: 0.886 D: 0.579 
+(epoch: 63, iters: 490100, time: 0.089) G: 0.438 D: 1.106 CX: 0.103 
+(epoch: 63, iters: 490200, time: 0.089) G: 1.655 D: 0.219 CX: 0.212 
+(epoch: 63, iters: 490300, time: 0.091) G: 0.719 D: 0.702 CX: 0.148 
+(epoch: 63, iters: 490400, time: 0.089) G: 1.026 D: 0.464 CX: 0.276 
+(epoch: 63, iters: 490500, time: 0.091) IPixel: 0.012 VGG: 2.244 G: 1.677 D: 0.214 
+(epoch: 63, iters: 490600, time: 0.097) IPixel: 0.007 VGG: 2.333 G: 4.094 D: 0.017 
+(epoch: 63, iters: 490700, time: 0.087) G: 0.349 D: 1.343 CX: 0.487 
+(epoch: 63, iters: 490800, time: 0.092) IPixel: 0.009 VGG: 1.220 G: 0.580 D: 0.870 
+(epoch: 63, iters: 490900, time: 0.085) G: 0.967 D: 0.524 CX: 0.319 
+(epoch: 63, iters: 491000, time: 0.088) G: 0.992 D: 0.498 CX: 0.237 
+(epoch: 63, iters: 491100, time: 0.095) G: 0.969 D: 0.703 CX: 0.090 
+(epoch: 63, iters: 491200, time: 0.086) IPixel: 0.027 VGG: 2.008 G: 0.678 D: 0.765 
+(epoch: 63, iters: 491300, time: 0.090) G: 0.774 D: 0.665 CX: 0.190 
+(epoch: 63, iters: 491400, time: 0.091) G: 0.705 D: 0.696 CX: 0.102 
+(epoch: 63, iters: 491500, time: 0.088) G: 0.580 D: 0.860 CX: 0.121 
+(epoch: 63, iters: 491600, time: 0.094) G: 0.711 D: 0.700 CX: 0.117 
+(epoch: 63, iters: 491700, time: 0.091) IPixel: 0.021 VGG: 2.098 G: 1.180 D: 0.388 
+(epoch: 63, iters: 491800, time: 0.090) G: 0.943 D: 0.510 CX: 0.152 
+(epoch: 63, iters: 491900, time: 0.092) IPixel: 0.020 VGG: 1.774 G: 1.130 D: 0.439 
+(epoch: 63, iters: 492000, time: 0.088) IPixel: 0.008 VGG: 1.558 G: 3.455 D: 0.033 
+(epoch: 63, iters: 492100, time: 0.091) IPixel: 0.005 VGG: 1.277 G: 1.368 D: 0.310 
+(epoch: 63, iters: 492200, time: 0.087) G: 0.391 D: 1.268 CX: 0.060 
+(epoch: 63, iters: 492300, time: 0.083) IPixel: 0.012 VGG: 1.954 G: 0.883 D: 0.546 
+(epoch: 63, iters: 492400, time: 0.085) IPixel: 0.010 VGG: 1.618 G: 0.848 D: 0.572 
+(epoch: 63, iters: 492500, time: 0.088) G: 0.358 D: 1.270 CX: 0.109 
+(epoch: 63, iters: 492600, time: 0.088) G: 0.299 D: 1.441 CX: 0.161 
+(epoch: 63, iters: 492700, time: 0.088) G: 0.704 D: 0.759 CX: 0.155 
+(epoch: 63, iters: 492800, time: 0.090) G: 3.245 D: 0.041 CX: 0.207 
+(epoch: 63, iters: 492900, time: 0.090) G: 1.460 D: 0.273 CX: 0.153 
+(epoch: 63, iters: 493000, time: 0.092) G: 4.119 D: 0.017 CX: 0.186 
+(epoch: 63, iters: 493100, time: 0.092) IPixel: 0.005 VGG: 1.349 G: 0.824 D: 0.600 
+(epoch: 63, iters: 493200, time: 0.091) G: 0.749 D: 0.665 CX: 0.083 
+(epoch: 63, iters: 493300, time: 0.092) G: 0.358 D: 1.300 CX: 0.260 
+(epoch: 63, iters: 493400, time: 0.091) G: 0.716 D: 0.759 CX: 0.189 
+(epoch: 63, iters: 493500, time: 0.094) IPixel: 0.007 VGG: 1.254 G: 2.083 D: 0.134 
+(epoch: 63, iters: 493600, time: 0.087) G: 1.260 D: 0.358 CX: 0.182 
+(epoch: 63, iters: 493700, time: 0.097) G: 2.072 D: 0.142 CX: 0.174 
+(epoch: 63, iters: 493800, time: 0.091) IPixel: 0.006 VGG: 2.214 G: 3.569 D: 0.029 
+(epoch: 63, iters: 493900, time: 0.093) IPixel: 0.016 VGG: 2.186 G: 0.344 D: 1.360 
+(epoch: 63, iters: 494000, time: 0.093) G: 0.378 D: 1.236 CX: 0.140 
+(epoch: 63, iters: 494100, time: 0.089) G: 0.800 D: 0.625 CX: 0.170 
+(epoch: 63, iters: 494200, time: 0.085) IPixel: 0.015 VGG: 1.565 G: 1.130 D: 0.409 
+(epoch: 63, iters: 494300, time: 0.093) G: 2.813 D: 0.067 CX: 0.081 
+(epoch: 63, iters: 494400, time: 0.088) IPixel: 0.009 VGG: 2.057 G: 3.228 D: 0.043 
+(epoch: 63, iters: 494500, time: 0.085) G: 1.143 D: 0.421 CX: 0.142 
+(epoch: 63, iters: 494600, time: 0.087) IPixel: 0.006 VGG: 1.232 G: 1.037 D: 0.513 
+(epoch: 63, iters: 494700, time: 0.089) IPixel: 0.007 VGG: 2.111 G: 4.412 D: 0.012 
+(epoch: 63, iters: 494800, time: 0.087) G: 0.727 D: 0.695 CX: 0.088 
+(epoch: 63, iters: 494900, time: 0.093) IPixel: 0.014 VGG: 1.086 G: 0.587 D: 0.850 
+(epoch: 63, iters: 495000, time: 0.092) IPixel: 0.010 VGG: 2.515 G: 2.577 D: 0.088 
+(epoch: 63, iters: 495100, time: 0.101) G: 0.613 D: 0.888 CX: 0.205 
+(epoch: 63, iters: 495200, time: 0.094) IPixel: 0.007 VGG: 1.420 G: 1.028 D: 0.486 
+(epoch: 63, iters: 495300, time: 0.099) IPixel: 0.006 VGG: 1.243 G: 1.174 D: 0.379 
+(epoch: 63, iters: 495400, time: 0.086) IPixel: 0.006 VGG: 1.376 G: 1.881 D: 0.165 
+(epoch: 63, iters: 495500, time: 0.088) G: 0.807 D: 0.641 CX: 0.131 
+(epoch: 63, iters: 495600, time: 0.088) G: 1.761 D: 0.226 CX: 0.090 
+(epoch: 63, iters: 495700, time: 0.082) G: 0.476 D: 1.013 CX: 0.166 
+(epoch: 63, iters: 495800, time: 0.087) G: 2.396 D: 0.103 CX: 0.145 
+(epoch: 64, iters: 495900, time: 0.088) IPixel: 0.010 VGG: 0.962 G: 0.687 D: 0.738 
+(epoch: 64, iters: 496000, time: 0.091) IPixel: 0.005 VGG: 1.769 G: 3.017 D: 0.050 
+(epoch: 64, iters: 496100, time: 0.094) IPixel: 0.006 VGG: 2.007 G: 0.527 D: 1.114 
+(epoch: 64, iters: 496200, time: 0.087) IPixel: 0.007 VGG: 2.041 G: 2.032 D: 0.148 
+(epoch: 64, iters: 496300, time: 0.109) IPixel: 0.008 VGG: 2.432 G: 1.385 D: 0.310 
+(epoch: 64, iters: 496400, time: 0.093) G: 0.610 D: 0.836 CX: 0.156 
+(epoch: 64, iters: 496500, time: 0.088) G: 0.868 D: 0.578 CX: 0.185 
+(epoch: 64, iters: 496600, time: 0.092) G: 1.197 D: 0.460 CX: 0.122 
+(epoch: 64, iters: 496700, time: 0.086) G: 0.371 D: 1.235 CX: 0.171 
+(epoch: 64, iters: 496800, time: 0.097) IPixel: 0.008 VGG: 1.618 G: 0.502 D: 1.057 
+(epoch: 64, iters: 496900, time: 0.086) G: 1.799 D: 0.194 CX: 0.192 
+(epoch: 64, iters: 497000, time: 0.098) IPixel: 0.007 VGG: 1.416 G: 0.644 D: 0.822 
+(epoch: 64, iters: 497100, time: 0.086) G: 1.587 D: 0.277 CX: 0.152 
+(epoch: 64, iters: 497200, time: 0.089) IPixel: 0.014 VGG: 1.945 G: 1.835 D: 0.189 
+(epoch: 64, iters: 497300, time: 0.095) IPixel: 0.007 VGG: 2.193 G: 1.780 D: 0.212 
+(epoch: 64, iters: 497400, time: 0.091) IPixel: 0.007 VGG: 0.992 G: 0.623 D: 0.812 
+(epoch: 64, iters: 497500, time: 0.093) IPixel: 0.010 VGG: 1.022 G: 1.843 D: 0.210 
+(epoch: 64, iters: 497600, time: 0.091) IPixel: 0.007 VGG: 2.109 G: 0.857 D: 0.569 
+(epoch: 64, iters: 497700, time: 0.092) IPixel: 0.004 VGG: 1.650 G: 1.182 D: 0.390 
+(epoch: 64, iters: 497800, time: 0.094) IPixel: 0.008 VGG: 1.579 G: 0.530 D: 0.951 
+(epoch: 64, iters: 497900, time: 0.090) G: 1.891 D: 0.171 CX: 0.068 
+(epoch: 64, iters: 498000, time: 0.090) IPixel: 0.008 VGG: 2.456 G: 2.090 D: 0.136 
+(epoch: 64, iters: 498100, time: 0.096) IPixel: 0.008 VGG: 1.207 G: 0.605 D: 0.828 
+(epoch: 64, iters: 498200, time: 0.088) IPixel: 0.007 VGG: 1.720 G: 0.763 D: 0.648 
+(epoch: 64, iters: 498300, time: 0.089) IPixel: 0.007 VGG: 1.287 G: 1.929 D: 0.165 
+(epoch: 64, iters: 498400, time: 0.087) IPixel: 0.008 VGG: 1.789 G: 0.909 D: 0.555 
+(epoch: 64, iters: 498500, time: 0.099) G: 0.816 D: 0.612 CX: 0.268 
+(epoch: 64, iters: 498600, time: 0.090) G: 2.132 D: 0.131 CX: 0.144 
+(epoch: 64, iters: 498700, time: 0.089) G: 0.747 D: 0.695 CX: 0.191 
+(epoch: 64, iters: 498800, time: 0.085) G: 1.167 D: 0.395 CX: 0.128 
+(epoch: 64, iters: 498900, time: 0.088) G: 2.297 D: 0.109 CX: 0.156 
+(epoch: 64, iters: 499000, time: 0.090) IPixel: 0.008 VGG: 1.238 G: 0.701 D: 0.729 
+(epoch: 64, iters: 499100, time: 0.094) IPixel: 0.009 VGG: 1.716 G: 1.228 D: 0.364 
+(epoch: 64, iters: 499200, time: 0.086) IPixel: 0.010 VGG: 1.794 G: 0.968 D: 0.500 
+(epoch: 64, iters: 499300, time: 0.090) G: 1.059 D: 0.468 CX: 0.122 
+(epoch: 64, iters: 499400, time: 0.090) IPixel: 0.009 VGG: 1.305 G: 0.638 D: 0.796 
+(epoch: 64, iters: 499500, time: 0.088) IPixel: 0.006 VGG: 2.354 G: 1.506 D: 0.267 
+(epoch: 64, iters: 499600, time: 0.089) G: 0.613 D: 0.834 CX: 0.190 
+(epoch: 64, iters: 499700, time: 0.095) G: 0.613 D: 0.876 CX: 0.162 
+(epoch: 64, iters: 499800, time: 0.093) G: 1.174 D: 0.394 CX: 0.172 
+(epoch: 64, iters: 499900, time: 0.087) G: 0.992 D: 0.478 CX: 0.165 
+(epoch: 64, iters: 500000, time: 0.099) IPixel: 0.005 VGG: 0.914 G: 0.722 D: 0.724 
+(epoch: 64, iters: 500100, time: 0.088) G: 1.739 D: 0.236 CX: 0.171 
+(epoch: 64, iters: 500200, time: 0.090) IPixel: 0.012 VGG: 1.450 G: 0.905 D: 0.537 
+(epoch: 64, iters: 500300, time: 0.095) IPixel: 0.003 VGG: 1.362 G: 2.346 D: 0.105 
+(epoch: 64, iters: 500400, time: 0.096) IPixel: 0.003 VGG: 1.424 G: 6.815 D: 0.001 
+(epoch: 64, iters: 500500, time: 0.087) G: 1.532 D: 0.327 CX: 0.133 
+(epoch: 64, iters: 500600, time: 0.101) G: 0.601 D: 0.836 CX: 0.084 
+(epoch: 64, iters: 500700, time: 0.101) IPixel: 0.007 VGG: 1.638 G: 1.373 D: 0.331 
+(epoch: 64, iters: 500800, time: 0.087) G: 0.405 D: 1.279 CX: 0.113 
+(epoch: 64, iters: 500900, time: 0.087) G: 1.590 D: 0.233 CX: 0.182 
+(epoch: 64, iters: 501000, time: 0.093) G: 0.741 D: 0.683 CX: 0.100 
+(epoch: 64, iters: 501100, time: 0.086) IPixel: 0.004 VGG: 1.484 G: 2.328 D: 0.106 
+(epoch: 64, iters: 501200, time: 0.089) G: 1.412 D: 0.314 CX: 0.154 
+(epoch: 64, iters: 501300, time: 0.088) G: 1.535 D: 0.266 CX: 0.126 
+(epoch: 64, iters: 501400, time: 0.094) IPixel: 0.007 VGG: 1.816 G: 0.741 D: 0.668 
+(epoch: 64, iters: 501500, time: 0.092) IPixel: 0.005 VGG: 1.520 G: 1.359 D: 0.313 
+(epoch: 64, iters: 501600, time: 0.089) IPixel: 0.004 VGG: 1.903 G: 2.384 D: 0.103 
+(epoch: 64, iters: 501700, time: 0.099) G: 1.115 D: 0.463 CX: 0.115 
+(epoch: 64, iters: 501800, time: 0.094) IPixel: 0.011 VGG: 1.715 G: 0.739 D: 0.682 
+(epoch: 64, iters: 501900, time: 0.092) IPixel: 0.006 VGG: 0.697 G: 0.710 D: 0.761 
+(epoch: 64, iters: 502000, time: 0.095) G: 0.750 D: 0.688 CX: 0.318 
+(epoch: 64, iters: 502100, time: 0.093) G: 0.576 D: 0.907 CX: 0.228 
+(epoch: 64, iters: 502200, time: 0.086) G: 2.490 D: 0.091 CX: 0.195 
+(epoch: 64, iters: 502300, time: 0.105) IPixel: 0.007 VGG: 2.363 G: 1.701 D: 0.211 
+(epoch: 64, iters: 502400, time: 0.090) G: 0.533 D: 1.087 CX: 0.103 
+(epoch: 64, iters: 502500, time: 0.092) G: 0.179 D: 2.095 CX: 0.388 
+(epoch: 64, iters: 502600, time: 0.091) IPixel: 0.013 VGG: 1.720 G: 1.462 D: 0.276 
+(epoch: 64, iters: 502700, time: 0.091) G: 1.824 D: 0.187 CX: 0.103 
+(epoch: 64, iters: 502800, time: 0.093) IPixel: 0.007 VGG: 1.851 G: 1.445 D: 0.273 
+(epoch: 64, iters: 502900, time: 0.090) G: 0.452 D: 1.081 CX: 0.164 
+(epoch: 64, iters: 503000, time: 0.087) G: 1.345 D: 0.311 CX: 0.334 
+(epoch: 64, iters: 503100, time: 0.086) IPixel: 0.006 VGG: 1.824 G: 2.955 D: 0.054 
+(epoch: 64, iters: 503200, time: 0.088) G: 0.971 D: 0.507 CX: 0.176 
+(epoch: 64, iters: 503300, time: 0.084) G: 1.452 D: 0.282 CX: 0.086 
+(epoch: 64, iters: 503400, time: 0.087) IPixel: 0.006 VGG: 1.829 G: 4.452 D: 0.012 
+(epoch: 64, iters: 503500, time: 0.094) IPixel: 0.007 VGG: 1.672 G: 0.835 D: 0.609 
+(epoch: 64, iters: 503600, time: 0.087) G: 1.053 D: 0.437 CX: 0.092 
+(epoch: 64, iters: 503700, time: 0.095) G: 0.697 D: 0.715 CX: 0.121 
+(epoch: 64, iters: 503800, time: 0.087) G: 1.168 D: 0.387 CX: 0.093 
+(epoch: 65, iters: 503900, time: 0.092) IPixel: 0.010 VGG: 1.370 G: 0.816 D: 0.596 
+(epoch: 65, iters: 504000, time: 0.089) G: 0.649 D: 0.786 CX: 0.296 
+(epoch: 65, iters: 504100, time: 0.088) IPixel: 0.005 VGG: 1.075 G: 2.317 D: 0.114 
+(epoch: 65, iters: 504200, time: 0.087) G: 0.491 D: 1.000 CX: 0.318 
+(epoch: 65, iters: 504300, time: 0.092) IPixel: 0.009 VGG: 1.399 G: 0.673 D: 0.732 
+(epoch: 65, iters: 504400, time: 0.098) G: 0.693 D: 0.743 CX: 0.230 
+(epoch: 65, iters: 504500, time: 0.090) G: 0.493 D: 0.978 CX: 0.175 
+(epoch: 65, iters: 504600, time: 0.087) G: 0.557 D: 0.894 CX: 0.123 
+(epoch: 65, iters: 504700, time: 0.092) IPixel: 0.015 VGG: 1.712 G: 0.897 D: 0.537 
+(epoch: 65, iters: 504800, time: 0.101) IPixel: 0.006 VGG: 1.251 G: 0.852 D: 0.590 
+(epoch: 65, iters: 504900, time: 0.096) IPixel: 0.005 VGG: 1.524 G: 1.399 D: 0.299 
+(epoch: 65, iters: 505000, time: 0.089) G: 2.294 D: 0.115 CX: 0.042 
+(epoch: 65, iters: 505100, time: 0.092) G: 0.478 D: 1.080 CX: 0.141 
+(epoch: 65, iters: 505200, time: 0.089) G: 2.707 D: 0.071 CX: 0.165 
+(epoch: 65, iters: 505300, time: 0.092) G: 1.383 D: 0.296 CX: 0.140 
+(epoch: 65, iters: 505400, time: 0.095) IPixel: 0.007 VGG: 1.572 G: 1.143 D: 0.391 
+(epoch: 65, iters: 505500, time: 0.089) G: 0.765 D: 0.673 CX: 0.159 
+(epoch: 65, iters: 505600, time: 0.089) IPixel: 0.006 VGG: 1.381 G: 1.025 D: 0.458 
+(epoch: 65, iters: 505700, time: 0.103) G: 1.612 D: 0.245 CX: 0.136 
+(epoch: 65, iters: 505800, time: 0.086) G: 1.763 D: 0.198 CX: 0.126 
+(epoch: 65, iters: 505900, time: 0.093) IPixel: 0.006 VGG: 2.284 G: 0.492 D: 1.103 
+(epoch: 65, iters: 506000, time: 0.101) G: 0.346 D: 1.328 CX: 0.246 
+(epoch: 65, iters: 506100, time: 0.094) IPixel: 0.007 VGG: 1.061 G: 0.623 D: 0.827 
+(epoch: 65, iters: 506200, time: 0.097) IPixel: 0.006 VGG: 1.410 G: 0.652 D: 0.819 
+(epoch: 65, iters: 506300, time: 0.097) IPixel: 0.004 VGG: 0.774 G: 0.722 D: 0.684 
+(epoch: 65, iters: 506400, time: 0.087) G: 1.651 D: 0.245 CX: 0.215 
+(epoch: 65, iters: 506500, time: 0.090) IPixel: 0.009 VGG: 1.357 G: 0.430 D: 1.236 
+(epoch: 65, iters: 506600, time: 0.089) G: 0.535 D: 0.928 CX: 0.190 
+(epoch: 65, iters: 506700, time: 0.085) G: 0.841 D: 0.632 CX: 0.233 
+(epoch: 65, iters: 506800, time: 0.083) IPixel: 0.007 VGG: 1.551 G: 0.634 D: 0.783 
+(epoch: 65, iters: 506900, time: 0.089) IPixel: 0.008 VGG: 1.430 G: 1.916 D: 0.164 
+(epoch: 65, iters: 507000, time: 0.095) IPixel: 0.006 VGG: 1.049 G: 1.758 D: 0.197 
+(epoch: 65, iters: 507100, time: 0.085) IPixel: 0.008 VGG: 1.086 G: 0.598 D: 0.838 
+(epoch: 65, iters: 507200, time: 0.084) G: 0.846 D: 0.586 CX: 0.077 
+(epoch: 65, iters: 507300, time: 0.089) G: 0.226 D: 1.709 CX: 0.305 
+(epoch: 65, iters: 507400, time: 0.097) IPixel: 0.009 VGG: 2.782 G: 1.124 D: 0.443 
+(epoch: 65, iters: 507500, time: 0.088) IPixel: 0.008 VGG: 1.017 G: 1.069 D: 0.461 
+(epoch: 65, iters: 507600, time: 0.091) G: 1.170 D: 0.384 CX: 0.100 
+(epoch: 65, iters: 507700, time: 0.086) G: 1.783 D: 0.195 CX: 0.178 
+(epoch: 65, iters: 507800, time: 0.089) IPixel: 0.005 VGG: 1.534 G: 0.253 D: 1.589 
+(epoch: 65, iters: 507900, time: 0.086) IPixel: 0.005 VGG: 1.528 G: 1.460 D: 0.269 
+(epoch: 65, iters: 508000, time: 0.088) G: 0.444 D: 1.113 CX: 0.282 
+(epoch: 65, iters: 508100, time: 0.087) IPixel: 0.008 VGG: 1.565 G: 0.845 D: 0.591 
+(epoch: 65, iters: 508200, time: 0.085) IPixel: 0.007 VGG: 1.679 G: 1.047 D: 0.486 
+(epoch: 65, iters: 508300, time: 0.087) IPixel: 0.015 VGG: 1.466 G: 0.556 D: 0.878 
+(epoch: 65, iters: 508400, time: 0.088) IPixel: 0.011 VGG: 1.127 G: 0.957 D: 0.498 
+(epoch: 65, iters: 508500, time: 0.088) IPixel: 0.006 VGG: 2.000 G: 0.430 D: 1.258 
+(epoch: 65, iters: 508600, time: 0.086) G: 1.375 D: 0.299 CX: 0.186 
+(epoch: 65, iters: 508700, time: 0.097) IPixel: 0.004 VGG: 1.425 G: 1.758 D: 0.203 
+(epoch: 65, iters: 508800, time: 0.089) G: 1.219 D: 0.367 CX: 0.160 
+(epoch: 65, iters: 508900, time: 0.090) G: 0.297 D: 1.461 CX: 0.141 
+(epoch: 65, iters: 509000, time: 0.091) G: 0.766 D: 0.679 CX: 0.170 
+(epoch: 65, iters: 509100, time: 0.083) IPixel: 0.006 VGG: 1.552 G: 1.776 D: 0.196 
+(epoch: 65, iters: 509200, time: 0.086) G: 1.573 D: 0.238 CX: 0.093 
+(epoch: 65, iters: 509300, time: 0.087) G: 0.523 D: 1.030 CX: 0.204 
+(epoch: 65, iters: 509400, time: 0.090) IPixel: 0.013 VGG: 1.156 G: 0.587 D: 0.823 
+(epoch: 65, iters: 509500, time: 0.087) G: 0.622 D: 0.900 CX: 0.135 
+(epoch: 65, iters: 509600, time: 0.087) IPixel: 0.014 VGG: 2.162 G: 0.526 D: 0.941 
+(epoch: 65, iters: 509700, time: 0.086) IPixel: 0.005 VGG: 1.597 G: 1.522 D: 0.275 
+(epoch: 65, iters: 509800, time: 0.081) G: 1.713 D: 0.218 CX: 0.109 
+(epoch: 65, iters: 509900, time: 0.081) IPixel: 0.007 VGG: 2.320 G: 0.640 D: 0.801 
+(epoch: 65, iters: 510000, time: 0.088) IPixel: 0.006 VGG: 1.565 G: 0.826 D: 0.602 
+(epoch: 65, iters: 510100, time: 0.097) IPixel: 0.016 VGG: 1.716 G: 2.106 D: 0.136 
+(epoch: 65, iters: 510200, time: 0.094) G: 1.081 D: 0.424 CX: 0.176 
+(epoch: 65, iters: 510300, time: 0.089) IPixel: 0.008 VGG: 1.958 G: 1.758 D: 0.197 
+(epoch: 65, iters: 510400, time: 0.093) IPixel: 0.008 VGG: 1.696 G: 0.652 D: 0.773 
+(epoch: 65, iters: 510500, time: 0.088) G: 1.937 D: 0.167 CX: 0.203 
+(epoch: 65, iters: 510600, time: 0.088) G: 1.338 D: 0.319 CX: 0.122 
+(epoch: 65, iters: 510700, time: 0.087) G: 1.000 D: 0.557 CX: 0.146 
+(epoch: 65, iters: 510800, time: 0.089) G: 0.881 D: 0.567 CX: 0.139 
+(epoch: 65, iters: 510900, time: 0.092) IPixel: 0.005 VGG: 1.372 G: 0.782 D: 0.662 
+(epoch: 65, iters: 511000, time: 0.096) IPixel: 0.007 VGG: 0.966 G: 1.305 D: 0.329 
+(epoch: 65, iters: 511100, time: 0.095) G: 0.592 D: 0.853 CX: 0.081 
+(epoch: 65, iters: 511200, time: 0.091) G: 0.433 D: 1.239 CX: 0.121 
+(epoch: 65, iters: 511300, time: 0.088) G: 0.727 D: 0.682 CX: 0.282 
+(epoch: 65, iters: 511400, time: 0.088) IPixel: 0.004 VGG: 1.599 G: 0.605 D: 0.913 
+(epoch: 65, iters: 511500, time: 0.096) IPixel: 0.029 VGG: 1.717 G: 0.546 D: 0.915 
+(epoch: 65, iters: 511600, time: 0.096) G: 0.462 D: 1.080 CX: 0.150 
+(epoch: 65, iters: 511700, time: 0.090) G: 0.529 D: 0.943 CX: 0.297 
+(epoch: 65, iters: 511800, time: 0.084) G: 0.909 D: 0.533 CX: 0.126 
+(epoch: 66, iters: 511900, time: 0.097) G: 0.893 D: 0.606 CX: 0.189 
+(epoch: 66, iters: 512000, time: 0.100) IPixel: 0.007 VGG: 1.453 G: 1.062 D: 0.449 
+(epoch: 66, iters: 512100, time: 0.087) G: 1.428 D: 0.278 CX: 0.140 
+(epoch: 66, iters: 512200, time: 0.095) IPixel: 0.016 VGG: 1.198 G: 0.854 D: 0.560 
+(epoch: 66, iters: 512300, time: 0.090) IPixel: 0.020 VGG: 1.703 G: 0.657 D: 0.751 
+(epoch: 66, iters: 512400, time: 0.088) G: 0.779 D: 0.632 CX: 0.153 
+(epoch: 66, iters: 512500, time: 0.089) G: 0.742 D: 0.663 CX: 0.150 
+(epoch: 66, iters: 512600, time: 0.089) IPixel: 0.011 VGG: 1.405 G: 0.550 D: 0.874 
+(epoch: 66, iters: 512700, time: 0.090) G: 0.887 D: 0.571 CX: 0.058 
+(epoch: 66, iters: 512800, time: 0.103) IPixel: 0.007 VGG: 1.818 G: 1.152 D: 0.408 
+(epoch: 66, iters: 512900, time: 0.089) G: 1.090 D: 0.453 CX: 0.141 
+(epoch: 66, iters: 513000, time: 0.089) IPixel: 0.006 VGG: 1.205 G: 1.773 D: 0.210 
+(epoch: 66, iters: 513100, time: 0.093) G: 1.689 D: 0.212 CX: 0.211 
+(epoch: 66, iters: 513200, time: 0.088) G: 1.414 D: 0.297 CX: 0.240 
+(epoch: 66, iters: 513300, time: 0.087) G: 1.480 D: 0.265 CX: 0.159 
+(epoch: 66, iters: 513400, time: 0.092) G: 1.299 D: 0.327 CX: 0.124 
+(epoch: 66, iters: 513500, time: 0.097) IPixel: 0.008 VGG: 2.210 G: 1.562 D: 0.241 
+(epoch: 66, iters: 513600, time: 0.099) IPixel: 0.006 VGG: 2.075 G: 1.043 D: 0.460 
+(epoch: 66, iters: 513700, time: 0.089) IPixel: 0.004 VGG: 2.035 G: 3.421 D: 0.035 
+(epoch: 66, iters: 513800, time: 0.088) G: 0.179 D: 2.076 CX: 0.131 
+(epoch: 66, iters: 513900, time: 0.093) G: 0.658 D: 0.752 CX: 0.148 
+(epoch: 66, iters: 514000, time: 0.118) G: 1.038 D: 0.449 CX: 0.167 
+(epoch: 66, iters: 514100, time: 0.089) G: 0.834 D: 0.819 CX: 0.335 
+(epoch: 66, iters: 514200, time: 0.099) G: 0.626 D: 0.799 CX: 0.147 
+(epoch: 66, iters: 514300, time: 0.088) G: 1.577 D: 0.241 CX: 0.181 
+(epoch: 66, iters: 514400, time: 0.097) IPixel: 0.007 VGG: 1.430 G: 0.698 D: 0.722 
+(epoch: 66, iters: 514500, time: 0.097) IPixel: 0.006 VGG: 1.261 G: 0.655 D: 0.794 
+(epoch: 66, iters: 514600, time: 0.088) G: 1.075 D: 0.509 CX: 0.178 
+(epoch: 66, iters: 514700, time: 0.087) G: 1.771 D: 0.196 CX: 0.109 
+(epoch: 66, iters: 514800, time: 0.094) G: 0.906 D: 0.537 CX: 0.098 
+(epoch: 66, iters: 514900, time: 0.085) G: 1.349 D: 0.322 CX: 0.092 
+(epoch: 66, iters: 515000, time: 0.087) G: 0.678 D: 0.731 CX: 0.118 
+(epoch: 66, iters: 515100, time: 0.102) IPixel: 0.005 VGG: 1.783 G: 0.485 D: 1.008 
+(epoch: 66, iters: 515200, time: 0.090) IPixel: 0.018 VGG: 1.050 G: 0.501 D: 0.960 
+(epoch: 66, iters: 515300, time: 0.093) G: 0.774 D: 0.650 CX: 0.141 
+(epoch: 66, iters: 515400, time: 0.088) G: 1.142 D: 0.419 CX: 0.152 
+(epoch: 66, iters: 515500, time: 0.089) IPixel: 0.007 VGG: 0.986 G: 0.788 D: 0.655 
+(epoch: 66, iters: 515600, time: 0.086) G: 0.491 D: 0.998 CX: 0.126 
+(epoch: 66, iters: 515700, time: 0.097) IPixel: 0.011 VGG: 2.155 G: 1.911 D: 0.165 
+(epoch: 66, iters: 515800, time: 0.092) IPixel: 0.012 VGG: 1.189 G: 0.781 D: 0.651 
+(epoch: 66, iters: 515900, time: 0.080) G: 0.738 D: 0.737 CX: 0.156 
+(epoch: 66, iters: 516000, time: 0.087) G: 3.144 D: 0.045 CX: 0.100 
+(epoch: 66, iters: 516100, time: 0.093) G: 0.780 D: 0.675 CX: 0.169 
+(epoch: 66, iters: 516200, time: 0.091) IPixel: 0.007 VGG: 1.111 G: 0.563 D: 0.863 
+(epoch: 66, iters: 516300, time: 0.091) IPixel: 0.007 VGG: 1.318 G: 1.291 D: 0.334 
+(epoch: 66, iters: 516400, time: 0.091) IPixel: 0.004 VGG: 1.381 G: 1.763 D: 0.200 
+(epoch: 66, iters: 516500, time: 0.089) G: 0.602 D: 0.892 CX: 0.150 
+(epoch: 66, iters: 516600, time: 0.089) G: 0.746 D: 0.659 CX: 0.282 
+(epoch: 66, iters: 516700, time: 0.093) IPixel: 0.006 VGG: 1.050 G: 0.506 D: 0.947 
+(epoch: 66, iters: 516800, time: 0.091) IPixel: 0.010 VGG: 0.949 G: 0.911 D: 0.523 
+(epoch: 66, iters: 516900, time: 0.089) G: 1.882 D: 0.170 CX: 0.176 
+(epoch: 66, iters: 517000, time: 0.085) G: 0.711 D: 0.688 CX: 0.092 
+(epoch: 66, iters: 517100, time: 0.089) G: 0.821 D: 0.603 CX: 0.096 
+(epoch: 66, iters: 517200, time: 0.099) G: 0.682 D: 0.731 CX: 0.098 
+(epoch: 66, iters: 517300, time: 0.095) IPixel: 0.013 VGG: 1.361 G: 0.632 D: 0.770 
+(epoch: 66, iters: 517400, time: 0.089) IPixel: 0.019 VGG: 2.032 G: 0.781 D: 0.619 
+(epoch: 66, iters: 517500, time: 0.100) IPixel: 0.010 VGG: 1.215 G: 0.744 D: 0.655 
+(epoch: 66, iters: 517600, time: 0.087) IPixel: 0.007 VGG: 1.055 G: 0.608 D: 0.823 
+(epoch: 66, iters: 517700, time: 0.094) G: 0.551 D: 0.901 CX: 0.107 
+(epoch: 66, iters: 517800, time: 0.089) G: 1.033 D: 0.446 CX: 0.113 
+(epoch: 66, iters: 517900, time: 0.086) G: 0.667 D: 0.732 CX: 0.159 
+(epoch: 66, iters: 518000, time: 0.086) G: 1.339 D: 0.312 CX: 0.135 
+(epoch: 66, iters: 518100, time: 0.092) G: 0.914 D: 0.525 CX: 0.226 
+(epoch: 66, iters: 518200, time: 0.091) IPixel: 0.017 VGG: 1.490 G: 0.644 D: 0.762 
+(epoch: 66, iters: 518300, time: 0.088) G: 0.820 D: 0.622 CX: 0.140 
+(epoch: 66, iters: 518400, time: 0.091) G: 0.585 D: 0.842 CX: 0.104 
+(epoch: 66, iters: 518500, time: 0.088) G: 1.138 D: 0.438 CX: 0.129 
+(epoch: 66, iters: 518600, time: 0.094) G: 0.593 D: 0.874 CX: 0.124 
+(epoch: 66, iters: 518700, time: 0.085) G: 0.980 D: 0.484 CX: 0.101 
+(epoch: 66, iters: 518800, time: 0.089) IPixel: 0.006 VGG: 1.597 G: 0.798 D: 0.609 
+(epoch: 66, iters: 518900, time: 0.087) G: 0.691 D: 0.742 CX: 0.227 
+(epoch: 66, iters: 519000, time: 0.096) G: 0.757 D: 0.695 CX: 0.038 
+(epoch: 66, iters: 519100, time: 0.097) IPixel: 0.010 VGG: 1.029 G: 1.710 D: 0.216 
+(epoch: 66, iters: 519200, time: 0.090) G: 1.141 D: 0.400 CX: 0.082 
+(epoch: 66, iters: 519300, time: 0.093) G: 0.741 D: 0.662 CX: 0.056 
+(epoch: 66, iters: 519400, time: 0.090) G: 0.698 D: 0.719 CX: 0.079 
+(epoch: 66, iters: 519500, time: 0.094) IPixel: 0.008 VGG: 1.982 G: 1.062 D: 0.455 
+(epoch: 66, iters: 519600, time: 0.093) IPixel: 0.005 VGG: 1.856 G: 0.850 D: 0.603 
+(epoch: 66, iters: 519700, time: 0.094) IPixel: 0.013 VGG: 1.118 G: 0.784 D: 0.662 
+(epoch: 67, iters: 519800, time: 0.088) G: 0.808 D: 0.616 CX: 0.171 
+(epoch: 67, iters: 519900, time: 0.095) IPixel: 0.007 VGG: 1.851 G: 0.776 D: 0.643 
+(epoch: 67, iters: 520000, time: 0.087) G: 1.006 D: 0.470 CX: 0.168 
+(epoch: 67, iters: 520100, time: 0.094) G: 0.814 D: 0.598 CX: 0.113 
+(epoch: 67, iters: 520200, time: 0.094) IPixel: 0.006 VGG: 1.901 G: 0.642 D: 0.782 
+(epoch: 67, iters: 520300, time: 0.092) G: 2.056 D: 0.141 CX: 0.197 
+(epoch: 67, iters: 520400, time: 0.089) G: 0.701 D: 0.701 CX: 0.126 
+(epoch: 67, iters: 520500, time: 0.087) G: 1.447 D: 0.276 CX: 0.087 
+(epoch: 67, iters: 520600, time: 0.096) IPixel: 0.006 VGG: 1.542 G: 0.769 D: 0.625 
+(epoch: 67, iters: 520700, time: 0.086) IPixel: 0.013 VGG: 0.924 G: 0.875 D: 0.546 
+(epoch: 67, iters: 520800, time: 0.096) G: 0.754 D: 0.705 CX: 0.106 
+(epoch: 67, iters: 520900, time: 0.087) G: 0.597 D: 0.841 CX: 0.108 
+(epoch: 67, iters: 521000, time: 0.089) IPixel: 0.009 VGG: 2.448 G: 0.398 D: 1.210 
+(epoch: 67, iters: 521100, time: 0.095) IPixel: 0.006 VGG: 1.876 G: 1.343 D: 0.315 
+(epoch: 67, iters: 521200, time: 0.092) IPixel: 0.026 VGG: 1.617 G: 0.815 D: 0.597 
+(epoch: 67, iters: 521300, time: 0.087) IPixel: 0.004 VGG: 1.214 G: 1.957 D: 0.161 
+(epoch: 67, iters: 521400, time: 0.095) G: 1.621 D: 0.230 CX: 0.113 
+(epoch: 67, iters: 521500, time: 0.089) IPixel: 0.004 VGG: 1.372 G: 0.734 D: 0.708 
+(epoch: 67, iters: 521600, time: 0.092) G: 0.480 D: 1.009 CX: 0.186 
+(epoch: 67, iters: 521700, time: 0.095) G: 0.894 D: 0.542 CX: 0.077 
+(epoch: 67, iters: 521800, time: 0.088) G: 1.157 D: 0.406 CX: 0.137 
+(epoch: 67, iters: 521900, time: 0.091) IPixel: 0.004 VGG: 1.059 G: 1.528 D: 0.279 
+(epoch: 67, iters: 522000, time: 0.101) IPixel: 0.016 VGG: 1.368 G: 0.668 D: 0.739 
+(epoch: 67, iters: 522100, time: 0.090) G: 0.876 D: 0.552 CX: 0.126 
+(epoch: 67, iters: 522200, time: 0.087) G: 1.166 D: 0.384 CX: 0.131 
+(epoch: 67, iters: 522300, time: 0.088) G: 0.818 D: 0.609 CX: 0.124 
+(epoch: 67, iters: 522400, time: 0.088) IPixel: 0.002 VGG: 0.907 G: 0.637 D: 0.818 
+(epoch: 67, iters: 522500, time: 0.091) IPixel: 0.005 VGG: 1.133 G: 1.270 D: 0.344 
+(epoch: 67, iters: 522600, time: 0.087) IPixel: 0.008 VGG: 1.486 G: 1.185 D: 0.375 
+(epoch: 67, iters: 522700, time: 0.096) G: 0.496 D: 1.001 CX: 0.101 
+(epoch: 67, iters: 522800, time: 0.088) G: 0.517 D: 0.993 CX: 0.150 
+(epoch: 67, iters: 522900, time: 0.087) IPixel: 0.013 VGG: 1.647 G: 0.713 D: 0.698 
+(epoch: 67, iters: 523000, time: 0.094) IPixel: 0.004 VGG: 1.285 G: 2.564 D: 0.082 
+(epoch: 67, iters: 523100, time: 0.087) IPixel: 0.007 VGG: 0.585 G: 0.998 D: 0.495 
+(epoch: 67, iters: 523200, time: 0.088) G: 0.712 D: 0.695 CX: 0.169 
+(epoch: 67, iters: 523300, time: 0.090) G: 0.885 D: 0.864 CX: 0.170 
+(epoch: 67, iters: 523400, time: 0.096) G: 0.780 D: 0.663 CX: 0.136 
+(epoch: 67, iters: 523500, time: 0.094) G: 1.390 D: 0.295 CX: 0.126 
+(epoch: 67, iters: 523600, time: 0.094) G: 1.101 D: 0.435 CX: 0.147 
+(epoch: 67, iters: 523700, time: 0.091) IPixel: 0.003 VGG: 1.011 G: 0.158 D: 2.034 
+(epoch: 67, iters: 523800, time: 0.090) G: 0.945 D: 0.502 CX: 0.121 
+(epoch: 67, iters: 523900, time: 0.091) G: 1.123 D: 0.432 CX: 0.200 
+(epoch: 67, iters: 524000, time: 0.086) IPixel: 0.010 VGG: 1.117 G: 0.648 D: 0.775 
+(epoch: 67, iters: 524100, time: 0.085) G: 1.477 D: 0.274 CX: 0.190 
+(epoch: 67, iters: 524200, time: 0.095) G: 2.145 D: 0.129 CX: 0.221 
+(epoch: 67, iters: 524300, time: 0.093) IPixel: 0.003 VGG: 0.861 G: 0.769 D: 0.733 
+(epoch: 67, iters: 524400, time: 0.094) IPixel: 0.005 VGG: 0.972 G: 0.979 D: 0.511 
+(epoch: 67, iters: 524500, time: 0.091) IPixel: 0.015 VGG: 1.905 G: 0.782 D: 0.660 
+(epoch: 67, iters: 524600, time: 0.099) G: 0.479 D: 1.017 CX: 0.163 
+(epoch: 67, iters: 524700, time: 0.087) IPixel: 0.008 VGG: 1.562 G: 0.624 D: 0.800 
+(epoch: 67, iters: 524800, time: 0.093) IPixel: 0.026 VGG: 1.703 G: 0.711 D: 0.688 
+(epoch: 67, iters: 524900, time: 0.094) G: 0.672 D: 0.756 CX: 0.108 
+(epoch: 67, iters: 525000, time: 0.092) G: 0.971 D: 0.494 CX: 0.147 
+(epoch: 67, iters: 525100, time: 0.089) G: 1.720 D: 0.208 CX: 0.167 
+(epoch: 67, iters: 525200, time: 0.090) IPixel: 0.009 VGG: 0.902 G: 0.753 D: 0.649 
+(epoch: 67, iters: 525300, time: 0.091) IPixel: 0.007 VGG: 1.098 G: 0.598 D: 0.848 
+(epoch: 67, iters: 525400, time: 0.088) G: 0.374 D: 1.222 CX: 0.220 
+(epoch: 67, iters: 525500, time: 0.086) G: 0.893 D: 0.536 CX: 0.086 
+(epoch: 67, iters: 525600, time: 0.089) IPixel: 0.008 VGG: 1.085 G: 0.311 D: 1.420 
+(epoch: 67, iters: 525700, time: 0.094) IPixel: 0.012 VGG: 1.199 G: 0.316 D: 1.404 
+(epoch: 67, iters: 525800, time: 0.087) G: 0.997 D: 0.472 CX: 0.153 
+(epoch: 67, iters: 525900, time: 0.094) G: 0.657 D: 0.762 CX: 0.115 
+(epoch: 67, iters: 526000, time: 0.085) IPixel: 0.008 VGG: 2.495 G: 1.635 D: 0.221 
+(epoch: 67, iters: 526100, time: 0.086) G: 1.000 D: 0.508 CX: 0.160 
+(epoch: 67, iters: 526200, time: 0.088) IPixel: 0.008 VGG: 1.909 G: 1.613 D: 0.232 
+(epoch: 67, iters: 526300, time: 0.087) G: 0.767 D: 0.632 CX: 0.121 
+(epoch: 67, iters: 526400, time: 0.092) G: 0.960 D: 0.523 CX: 0.449 
+(epoch: 67, iters: 526500, time: 0.093) IPixel: 0.013 VGG: 1.978 G: 1.573 D: 0.243 
+(epoch: 67, iters: 526600, time: 0.091) G: 0.652 D: 0.750 CX: 0.118 
+(epoch: 67, iters: 526700, time: 0.091) IPixel: 0.008 VGG: 1.610 G: 0.582 D: 0.852 
+(epoch: 67, iters: 526800, time: 0.096) G: 0.804 D: 0.697 CX: 0.101 
+(epoch: 67, iters: 526900, time: 0.090) IPixel: 0.007 VGG: 1.455 G: 2.131 D: 0.133 
+(epoch: 67, iters: 527000, time: 0.097) IPixel: 0.009 VGG: 2.297 G: 0.989 D: 0.544 
+(epoch: 67, iters: 527100, time: 0.090) G: 0.575 D: 0.876 CX: 0.120 
+(epoch: 67, iters: 527200, time: 0.098) IPixel: 0.005 VGG: 1.355 G: 1.467 D: 0.305 
+(epoch: 67, iters: 527300, time: 0.088) G: 1.596 D: 0.242 CX: 0.141 
+(epoch: 67, iters: 527400, time: 0.087) G: 0.604 D: 0.867 CX: 0.163 
+(epoch: 67, iters: 527500, time: 0.088) IPixel: 0.003 VGG: 1.108 G: 1.754 D: 0.205 
+(epoch: 67, iters: 527600, time: 0.095) IPixel: 0.010 VGG: 2.206 G: 1.670 D: 0.250 
+(epoch: 67, iters: 527700, time: 0.096) G: 1.284 D: 0.344 CX: 0.100 
+(epoch: 68, iters: 527800, time: 0.096) G: 1.214 D: 0.361 CX: 0.156 
+(epoch: 68, iters: 527900, time: 0.081) G: 0.937 D: 0.520 CX: 0.169 
+(epoch: 68, iters: 528000, time: 0.095) G: 0.421 D: 1.253 CX: 0.108 
+(epoch: 68, iters: 528100, time: 0.089) G: 0.510 D: 0.945 CX: 0.085 
+(epoch: 68, iters: 528200, time: 0.089) G: 0.817 D: 0.603 CX: 0.221 
+(epoch: 68, iters: 528300, time: 0.088) G: 0.536 D: 0.911 CX: 0.228 
+(epoch: 68, iters: 528400, time: 0.090) G: 0.687 D: 0.798 CX: 0.074 
+(epoch: 68, iters: 528500, time: 0.093) G: 0.622 D: 0.800 CX: 0.100 
+(epoch: 68, iters: 528600, time: 0.091) G: 0.472 D: 1.022 CX: 0.146 
+(epoch: 68, iters: 528700, time: 0.090) G: 0.942 D: 0.504 CX: 0.095 
+(epoch: 68, iters: 528800, time: 0.093) IPixel: 0.006 VGG: 1.202 G: 0.824 D: 0.605 
+(epoch: 68, iters: 528900, time: 0.091) G: 1.019 D: 0.462 CX: 0.143 
+(epoch: 68, iters: 529000, time: 0.101) IPixel: 0.012 VGG: 1.232 G: 0.932 D: 0.512 
+(epoch: 68, iters: 529100, time: 0.090) G: 0.713 D: 0.686 CX: 0.170 
+(epoch: 68, iters: 529200, time: 0.094) G: 0.983 D: 0.526 CX: 0.097 
+(epoch: 68, iters: 529300, time: 0.091) IPixel: 0.012 VGG: 1.824 G: 1.822 D: 0.178 
+(epoch: 68, iters: 529400, time: 0.090) IPixel: 0.006 VGG: 1.410 G: 1.054 D: 0.440 
+(epoch: 68, iters: 529500, time: 0.097) IPixel: 0.008 VGG: 1.982 G: 1.049 D: 0.462 
+(epoch: 68, iters: 529600, time: 0.092) IPixel: 0.004 VGG: 1.088 G: 2.533 D: 0.092 
+(epoch: 68, iters: 529700, time: 0.097) IPixel: 0.013 VGG: 2.198 G: 1.188 D: 0.381 
+(epoch: 68, iters: 529800, time: 0.089) IPixel: 0.007 VGG: 2.059 G: 1.201 D: 0.379 
+(epoch: 68, iters: 529900, time: 0.119) G: 0.429 D: 1.096 CX: 0.236 
+(epoch: 68, iters: 530000, time: 0.097) IPixel: 0.031 VGG: 1.734 G: 0.754 D: 0.657 
+(epoch: 68, iters: 530100, time: 0.086) G: 2.127 D: 0.128 CX: 0.310 
+(epoch: 68, iters: 530200, time: 0.087) G: 1.492 D: 0.280 CX: 0.167 
+(epoch: 68, iters: 530300, time: 0.091) IPixel: 0.006 VGG: 1.368 G: 0.589 D: 0.893 
+(epoch: 68, iters: 530400, time: 0.088) IPixel: 0.007 VGG: 1.526 G: 0.771 D: 0.641 
+(epoch: 68, iters: 530500, time: 0.094) IPixel: 0.007 VGG: 1.098 G: 0.785 D: 0.663 
+(epoch: 68, iters: 530600, time: 0.099) IPixel: 0.007 VGG: 1.064 G: 0.648 D: 0.902 
+(epoch: 68, iters: 530700, time: 0.088) G: 0.348 D: 1.363 CX: 0.093 
+(epoch: 68, iters: 530800, time: 0.090) IPixel: 0.008 VGG: 1.775 G: 0.874 D: 0.590 
+(epoch: 68, iters: 530900, time: 0.092) IPixel: 0.005 VGG: 1.349 G: 0.643 D: 0.776 
+(epoch: 68, iters: 531000, time: 0.090) G: 0.486 D: 0.985 CX: 0.088 
+(epoch: 68, iters: 531100, time: 0.087) IPixel: 0.006 VGG: 1.412 G: 0.613 D: 0.786 
+(epoch: 68, iters: 531200, time: 0.087) G: 0.681 D: 0.732 CX: 0.101 
+(epoch: 68, iters: 531300, time: 0.098) IPixel: 0.009 VGG: 0.901 G: 0.516 D: 0.960 
+(epoch: 68, iters: 531400, time: 0.086) IPixel: 0.010 VGG: 1.225 G: 0.774 D: 0.643 
+(epoch: 68, iters: 531500, time: 0.088) IPixel: 0.008 VGG: 0.894 G: 1.909 D: 0.177 
+(epoch: 68, iters: 531600, time: 0.097) IPixel: 0.019 VGG: 1.427 G: 0.462 D: 1.035 
+(epoch: 68, iters: 531700, time: 0.085) G: 1.266 D: 0.348 CX: 0.218 
+(epoch: 68, iters: 531800, time: 0.094) G: 1.306 D: 0.360 CX: 0.159 
+(epoch: 68, iters: 531900, time: 0.091) G: 1.450 D: 0.294 CX: 0.156 
+(epoch: 68, iters: 532000, time: 0.088) IPixel: 0.010 VGG: 1.982 G: 0.679 D: 0.746 
+(epoch: 68, iters: 532100, time: 0.095) G: 0.733 D: 0.682 CX: 0.151 
+(epoch: 68, iters: 532200, time: 0.093) G: 0.710 D: 0.698 CX: 0.080 
+(epoch: 68, iters: 532300, time: 0.091) G: 0.908 D: 0.525 CX: 0.105 
+(epoch: 68, iters: 532400, time: 0.085) G: 0.752 D: 0.664 CX: 0.146 
+(epoch: 68, iters: 532500, time: 0.089) IPixel: 0.013 VGG: 0.846 G: 0.842 D: 0.572 
+(epoch: 68, iters: 532600, time: 0.088) G: 0.829 D: 0.591 CX: 0.124 
+(epoch: 68, iters: 532700, time: 0.092) IPixel: 0.009 VGG: 1.518 G: 0.907 D: 0.569 
+(epoch: 68, iters: 532800, time: 0.091) G: 0.714 D: 0.690 CX: 0.118 
+(epoch: 68, iters: 532900, time: 0.088) G: 1.845 D: 0.182 CX: 0.137 
+(epoch: 68, iters: 533000, time: 0.090) IPixel: 0.005 VGG: 1.475 G: 1.710 D: 0.210 
+(epoch: 68, iters: 533100, time: 0.094) IPixel: 0.008 VGG: 1.420 G: 0.460 D: 1.043 
+(epoch: 68, iters: 533200, time: 0.090) IPixel: 0.008 VGG: 1.127 G: 0.837 D: 0.574 
+(epoch: 68, iters: 533300, time: 0.089) G: 0.734 D: 0.707 CX: 0.066 
+(epoch: 68, iters: 533400, time: 0.088) IPixel: 0.010 VGG: 1.729 G: 0.653 D: 0.766 
+(epoch: 68, iters: 533500, time: 0.091) IPixel: 0.010 VGG: 1.529 G: 0.907 D: 0.555 
+(epoch: 68, iters: 533600, time: 0.089) IPixel: 0.006 VGG: 1.886 G: 1.029 D: 0.471 
+(epoch: 68, iters: 533700, time: 0.089) IPixel: 0.006 VGG: 2.027 G: 1.233 D: 0.375 
+(epoch: 68, iters: 533800, time: 0.089) G: 0.537 D: 0.958 CX: 0.234 
+(epoch: 68, iters: 533900, time: 0.094) G: 1.317 D: 0.326 CX: 0.218 
+(epoch: 68, iters: 534000, time: 0.089) IPixel: 0.013 VGG: 2.298 G: 0.671 D: 0.735 
+(epoch: 68, iters: 534100, time: 0.093) IPixel: 0.005 VGG: 1.584 G: 1.020 D: 0.461 
+(epoch: 68, iters: 534200, time: 0.085) IPixel: 0.005 VGG: 2.301 G: 0.650 D: 0.814 
+(epoch: 68, iters: 534300, time: 0.090) G: 0.764 D: 0.705 CX: 0.098 
+(epoch: 68, iters: 534400, time: 0.094) IPixel: 0.003 VGG: 1.208 G: 1.874 D: 0.192 
+(epoch: 68, iters: 534500, time: 0.090) IPixel: 0.006 VGG: 0.990 G: 0.585 D: 0.869 
+(epoch: 68, iters: 534600, time: 0.091) IPixel: 0.006 VGG: 1.557 G: 0.774 D: 0.625 
+(epoch: 68, iters: 534700, time: 0.096) IPixel: 0.005 VGG: 1.207 G: 0.634 D: 0.773 
+(epoch: 68, iters: 534800, time: 0.089) IPixel: 0.010 VGG: 1.401 G: 0.423 D: 1.124 
+(epoch: 68, iters: 534900, time: 0.086) IPixel: 0.004 VGG: 1.306 G: 1.014 D: 0.498 
+(epoch: 68, iters: 535000, time: 0.100) IPixel: 0.009 VGG: 1.321 G: 0.359 D: 1.392 
+(epoch: 68, iters: 535100, time: 0.087) IPixel: 0.007 VGG: 1.175 G: 0.865 D: 0.585 
+(epoch: 68, iters: 535200, time: 0.090) IPixel: 0.017 VGG: 1.773 G: 1.161 D: 0.383 
+(epoch: 68, iters: 535300, time: 0.092) IPixel: 0.011 VGG: 2.131 G: 1.139 D: 0.398 
+(epoch: 68, iters: 535400, time: 0.089) IPixel: 0.006 VGG: 1.041 G: 0.979 D: 0.517 
+(epoch: 68, iters: 535500, time: 0.108) IPixel: 0.006 VGG: 0.861 G: 1.090 D: 0.429 
+(epoch: 68, iters: 535600, time: 0.092) G: 1.161 D: 0.448 CX: 0.107 
+(epoch: 68, iters: 535700, time: 0.097) IPixel: 0.013 VGG: 1.267 G: 1.028 D: 0.488 
+(epoch: 69, iters: 535800, time: 0.087) IPixel: 0.007 VGG: 1.013 G: 0.962 D: 0.531 
+(epoch: 69, iters: 535900, time: 0.088) IPixel: 0.005 VGG: 1.101 G: 0.583 D: 0.854 
+(epoch: 69, iters: 536000, time: 0.090) IPixel: 0.006 VGG: 1.031 G: 0.581 D: 0.872 
+(epoch: 69, iters: 536100, time: 0.094) G: 0.767 D: 0.646 CX: 0.118 
+(epoch: 69, iters: 536200, time: 0.087) G: 1.250 D: 0.365 CX: 0.147 
+(epoch: 69, iters: 536300, time: 0.091) IPixel: 0.007 VGG: 1.191 G: 1.191 D: 0.373 
+(epoch: 69, iters: 536400, time: 0.093) IPixel: 0.008 VGG: 1.254 G: 0.604 D: 0.832 
+(epoch: 69, iters: 536500, time: 0.089) IPixel: 0.014 VGG: 1.923 G: 1.221 D: 0.372 
+(epoch: 69, iters: 536600, time: 0.086) G: 0.469 D: 1.035 CX: 0.134 
+(epoch: 69, iters: 536700, time: 0.093) IPixel: 0.009 VGG: 0.986 G: 1.511 D: 0.267 
+(epoch: 69, iters: 536800, time: 0.097) IPixel: 0.007 VGG: 0.998 G: 0.756 D: 0.665 
+(epoch: 69, iters: 536900, time: 0.087) G: 0.711 D: 0.721 CX: 0.147 
+(epoch: 69, iters: 537000, time: 0.087) G: 0.645 D: 0.808 CX: 0.132 
+(epoch: 69, iters: 537100, time: 0.090) G: 1.219 D: 0.365 CX: 0.136 
+(epoch: 69, iters: 537200, time: 0.087) G: 0.567 D: 0.873 CX: 0.159 
+(epoch: 69, iters: 537300, time: 0.088) G: 2.341 D: 0.108 CX: 0.264 
+(epoch: 69, iters: 537400, time: 0.092) IPixel: 0.010 VGG: 1.732 G: 1.534 D: 0.253 
+(epoch: 69, iters: 537500, time: 0.094) G: 0.893 D: 0.560 CX: 0.178 
+(epoch: 69, iters: 537600, time: 0.091) G: 1.406 D: 0.297 CX: 0.052 
+(epoch: 69, iters: 537700, time: 0.092) IPixel: 0.008 VGG: 1.880 G: 0.933 D: 0.533 
+(epoch: 69, iters: 537800, time: 0.088) G: 0.046 D: 3.400 CX: 0.076 
+(epoch: 69, iters: 537900, time: 0.101) IPixel: 0.005 VGG: 1.241 G: 0.739 D: 0.691 
+(epoch: 69, iters: 538000, time: 0.089) IPixel: 0.010 VGG: 1.241 G: 0.532 D: 0.896 
+(epoch: 69, iters: 538100, time: 0.088) IPixel: 0.005 VGG: 1.494 G: 1.178 D: 0.387 
+(epoch: 69, iters: 538200, time: 0.089) IPixel: 0.012 VGG: 1.090 G: 1.812 D: 0.200 
+(epoch: 69, iters: 538300, time: 0.094) IPixel: 0.004 VGG: 1.130 G: 0.647 D: 0.766 
+(epoch: 69, iters: 538400, time: 0.091) G: 1.004 D: 0.492 CX: 0.131 
+(epoch: 69, iters: 538500, time: 0.086) G: 0.600 D: 0.845 CX: 0.108 
+(epoch: 69, iters: 538600, time: 0.093) G: 0.366 D: 1.434 CX: 0.242 
+(epoch: 69, iters: 538700, time: 0.104) G: 0.856 D: 0.602 CX: 0.108 
+(epoch: 69, iters: 538800, time: 0.089) IPixel: 0.009 VGG: 1.875 G: 0.703 D: 0.694 
+(epoch: 69, iters: 538900, time: 0.094) IPixel: 0.006 VGG: 0.943 G: 0.605 D: 0.820 
+(epoch: 69, iters: 539000, time: 0.093) IPixel: 0.006 VGG: 0.808 G: 0.732 D: 0.666 
+(epoch: 69, iters: 539100, time: 0.090) IPixel: 0.006 VGG: 1.018 G: 0.629 D: 0.788 
+(epoch: 69, iters: 539200, time: 0.093) G: 0.413 D: 1.113 CX: 0.200 
+(epoch: 69, iters: 539300, time: 0.088) IPixel: 0.007 VGG: 0.709 G: 0.750 D: 0.712 
+(epoch: 69, iters: 539400, time: 0.092) IPixel: 0.005 VGG: 1.060 G: 0.686 D: 0.722 
+(epoch: 69, iters: 539500, time: 0.099) G: 0.897 D: 0.563 CX: 0.108 
+(epoch: 69, iters: 539600, time: 0.094) G: 0.403 D: 1.187 CX: 0.189 
+(epoch: 69, iters: 539700, time: 0.086) G: 1.279 D: 0.335 CX: 0.082 
+(epoch: 69, iters: 539800, time: 0.100) IPixel: 0.007 VGG: 1.198 G: 0.992 D: 0.489 
+(epoch: 69, iters: 539900, time: 0.100) IPixel: 0.008 VGG: 1.769 G: 1.067 D: 0.428 
+(epoch: 69, iters: 540000, time: 0.091) G: 0.217 D: 1.727 CX: 0.232 
+(epoch: 69, iters: 540100, time: 0.091) IPixel: 0.004 VGG: 1.635 G: 1.868 D: 0.174 
+(epoch: 69, iters: 540200, time: 0.088) G: 0.860 D: 0.568 CX: 0.139 
+(epoch: 69, iters: 540300, time: 0.101) IPixel: 0.005 VGG: 1.804 G: 0.416 D: 1.399 
+(epoch: 69, iters: 540400, time: 0.087) G: 0.884 D: 0.587 CX: 0.076 
+(epoch: 69, iters: 540500, time: 0.091) IPixel: 0.008 VGG: 1.246 G: 0.506 D: 0.949 
+(epoch: 69, iters: 540600, time: 0.096) G: 1.069 D: 0.433 CX: 0.141 
+(epoch: 69, iters: 540700, time: 0.100) IPixel: 0.007 VGG: 1.094 G: 0.718 D: 0.693 
+(epoch: 69, iters: 540800, time: 0.097) G: 0.739 D: 0.696 CX: 0.157 
+(epoch: 69, iters: 540900, time: 0.092) IPixel: 0.007 VGG: 1.033 G: 0.593 D: 0.823 
+(epoch: 69, iters: 541000, time: 0.092) IPixel: 0.007 VGG: 1.805 G: 0.956 D: 0.514 
+(epoch: 69, iters: 541100, time: 0.098) IPixel: 0.011 VGG: 1.948 G: 0.532 D: 0.935 
+(epoch: 69, iters: 541200, time: 0.088) IPixel: 0.010 VGG: 1.562 G: 0.580 D: 0.874 
+(epoch: 69, iters: 541300, time: 0.086) G: 0.753 D: 0.721 CX: 0.170 
+(epoch: 69, iters: 541400, time: 0.093) IPixel: 0.007 VGG: 1.733 G: 0.801 D: 0.623 
+(epoch: 69, iters: 541500, time: 0.084) G: 1.838 D: 0.181 CX: 0.084 
+(epoch: 69, iters: 541600, time: 0.087) G: 1.653 D: 0.236 CX: 0.156 
+(epoch: 69, iters: 541700, time: 0.091) IPixel: 0.022 VGG: 2.366 G: 0.722 D: 0.685 
+(epoch: 69, iters: 541800, time: 0.089) G: 0.756 D: 0.673 CX: 0.067 
+(epoch: 69, iters: 541900, time: 0.089) G: 0.695 D: 0.707 CX: 0.079 
+(epoch: 69, iters: 542000, time: 0.089) IPixel: 0.019 VGG: 1.530 G: 0.647 D: 0.751 
+(epoch: 69, iters: 542100, time: 0.097) G: 0.836 D: 0.605 CX: 0.170 
+(epoch: 69, iters: 542200, time: 0.093) IPixel: 0.007 VGG: 1.923 G: 1.038 D: 0.487 
+(epoch: 69, iters: 542300, time: 0.098) G: 1.153 D: 0.399 CX: 0.134 
+(epoch: 69, iters: 542400, time: 0.098) IPixel: 0.011 VGG: 1.060 G: 0.869 D: 0.551 
+(epoch: 69, iters: 542500, time: 0.097) IPixel: 0.010 VGG: 1.622 G: 1.073 D: 0.432 
+(epoch: 69, iters: 542600, time: 0.092) IPixel: 0.008 VGG: 1.716 G: 1.440 D: 0.279 
+(epoch: 69, iters: 542700, time: 0.089) G: 0.965 D: 0.534 CX: 0.142 
+(epoch: 69, iters: 542800, time: 0.093) IPixel: 0.010 VGG: 1.233 G: 0.329 D: 1.466 
+(epoch: 69, iters: 542900, time: 0.091) IPixel: 0.015 VGG: 1.347 G: 0.699 D: 0.736 
+(epoch: 69, iters: 543000, time: 0.091) IPixel: 0.017 VGG: 2.392 G: 1.535 D: 0.243 
+(epoch: 69, iters: 543100, time: 0.090) G: 0.669 D: 0.818 CX: 0.351 
+(epoch: 69, iters: 543200, time: 0.094) IPixel: 0.010 VGG: 1.787 G: 1.466 D: 0.273 
+(epoch: 69, iters: 543300, time: 0.085) IPixel: 0.005 VGG: 0.964 G: 1.132 D: 0.425 
+(epoch: 69, iters: 543400, time: 0.095) G: 2.041 D: 0.153 CX: 0.072 
+(epoch: 69, iters: 543500, time: 0.089) G: 1.487 D: 0.276 CX: 0.117 
+(epoch: 69, iters: 543600, time: 0.089) IPixel: 0.007 VGG: 1.170 G: 0.414 D: 1.123 
+(epoch: 69, iters: 543700, time: 0.093) IPixel: 0.005 VGG: 1.391 G: 0.761 D: 0.689 
+(epoch: 70, iters: 543800, time: 0.095) IPixel: 0.005 VGG: 2.112 G: 1.787 D: 0.188 
+(epoch: 70, iters: 543900, time: 0.088) G: 2.143 D: 0.126 CX: 0.112 
+(epoch: 70, iters: 544000, time: 0.092) IPixel: 0.005 VGG: 1.479 G: 0.913 D: 0.573 
+(epoch: 70, iters: 544100, time: 0.092) G: 0.880 D: 0.581 CX: 0.099 
+(epoch: 70, iters: 544200, time: 0.091) IPixel: 0.005 VGG: 1.470 G: 1.493 D: 0.304 
+(epoch: 70, iters: 544300, time: 0.088) IPixel: 0.003 VGG: 1.386 G: 1.323 D: 0.320 
+(epoch: 70, iters: 544400, time: 0.097) IPixel: 0.005 VGG: 1.173 G: 1.460 D: 0.271 
+(epoch: 70, iters: 544500, time: 0.093) IPixel: 0.008 VGG: 1.153 G: 0.888 D: 0.553 
+(epoch: 70, iters: 544600, time: 0.103) IPixel: 0.009 VGG: 1.579 G: 0.872 D: 0.566 
+(epoch: 70, iters: 544700, time: 0.089) G: 1.157 D: 0.392 CX: 0.102 
+(epoch: 70, iters: 544800, time: 0.091) IPixel: 0.007 VGG: 1.677 G: 0.503 D: 0.949 
+(epoch: 70, iters: 544900, time: 0.094) G: 0.411 D: 1.168 CX: 0.100 
+(epoch: 70, iters: 545000, time: 0.093) G: 1.403 D: 0.289 CX: 0.193 
+(epoch: 70, iters: 545100, time: 0.092) G: 1.573 D: 0.252 CX: 0.196 
+(epoch: 70, iters: 545200, time: 0.096) G: 0.821 D: 0.595 CX: 0.094 
+(epoch: 70, iters: 545300, time: 0.095) IPixel: 0.013 VGG: 2.243 G: 1.449 D: 0.286 
+(epoch: 70, iters: 545400, time: 0.087) IPixel: 0.006 VGG: 2.482 G: 1.044 D: 0.645 
+(epoch: 70, iters: 545500, time: 0.087) IPixel: 0.003 VGG: 1.246 G: 1.488 D: 0.300 
+(epoch: 70, iters: 545600, time: 0.086) IPixel: 0.004 VGG: 2.005 G: 1.156 D: 0.394 
+(epoch: 70, iters: 545700, time: 0.087) G: 1.075 D: 0.463 CX: 0.110 
+(epoch: 70, iters: 545800, time: 0.092) G: 0.572 D: 0.893 CX: 0.204 
+(epoch: 70, iters: 545900, time: 0.086) G: 0.890 D: 0.569 CX: 0.318 
+(epoch: 70, iters: 546000, time: 0.087) G: 1.470 D: 0.330 CX: 0.219 
+(epoch: 70, iters: 546100, time: 0.098) IPixel: 0.005 VGG: 1.387 G: 0.835 D: 0.586 
+(epoch: 70, iters: 546200, time: 0.091) G: 0.691 D: 0.717 CX: 0.181 
+(epoch: 70, iters: 546300, time: 0.087) IPixel: 0.006 VGG: 1.616 G: 0.865 D: 0.559 
+(epoch: 70, iters: 546400, time: 0.092) G: 4.784 D: 0.009 CX: 0.185 
+(epoch: 70, iters: 546500, time: 0.089) IPixel: 0.005 VGG: 0.855 G: 0.853 D: 0.586 
+(epoch: 70, iters: 546600, time: 0.094) IPixel: 0.007 VGG: 1.022 G: 0.804 D: 0.606 
+(epoch: 70, iters: 546700, time: 0.090) G: 1.324 D: 0.326 CX: 0.104 
+(epoch: 70, iters: 546800, time: 0.095) IPixel: 0.015 VGG: 1.448 G: 0.767 D: 0.646 
+(epoch: 70, iters: 546900, time: 0.092) IPixel: 0.007 VGG: 1.038 G: 0.564 D: 0.873 
+(epoch: 70, iters: 547000, time: 0.093) IPixel: 0.004 VGG: 1.318 G: 1.202 D: 0.373 
+(epoch: 70, iters: 547100, time: 0.087) G: 0.941 D: 0.508 CX: 0.072 
+(epoch: 70, iters: 547200, time: 0.096) G: 0.823 D: 0.604 CX: 0.172 
+(epoch: 70, iters: 547300, time: 0.097) IPixel: 0.017 VGG: 1.226 G: 0.730 D: 0.665 
+(epoch: 70, iters: 547400, time: 0.096) G: 0.738 D: 0.664 CX: 0.156 
+(epoch: 70, iters: 547500, time: 0.085) G: 1.310 D: 0.323 CX: 0.120 
+(epoch: 70, iters: 547600, time: 0.089) IPixel: 0.017 VGG: 1.364 G: 0.690 D: 0.706 
+(epoch: 70, iters: 547700, time: 0.090) IPixel: 0.007 VGG: 2.066 G: 1.247 D: 0.357 
+(epoch: 70, iters: 547800, time: 0.088) G: 0.670 D: 0.730 CX: 0.098 
+(epoch: 70, iters: 547900, time: 0.093) G: 2.163 D: 0.124 CX: 0.136 
+(epoch: 70, iters: 548000, time: 0.087) G: 1.159 D: 0.412 CX: 0.125 
+(epoch: 70, iters: 548100, time: 0.090) G: 0.667 D: 0.740 CX: 0.095 
+(epoch: 70, iters: 548200, time: 0.090) G: 0.980 D: 0.482 CX: 0.166 
+(epoch: 70, iters: 548300, time: 0.087) IPixel: 0.010 VGG: 1.054 G: 0.704 D: 0.717 
+(epoch: 70, iters: 548400, time: 0.086) G: 0.874 D: 0.572 CX: 0.172 
+(epoch: 70, iters: 548500, time: 0.087) IPixel: 0.004 VGG: 1.295 G: 1.161 D: 0.401 
+(epoch: 70, iters: 548600, time: 0.093) IPixel: 0.003 VGG: 1.594 G: 1.730 D: 0.207 
+(epoch: 70, iters: 548700, time: 0.087) G: 0.785 D: 0.772 CX: 0.076 
+(epoch: 70, iters: 548800, time: 0.088) IPixel: 0.007 VGG: 0.964 G: 1.137 D: 0.404 
+(epoch: 70, iters: 548900, time: 0.089) G: 1.032 D: 0.484 CX: 0.065 
+(epoch: 70, iters: 549000, time: 0.089) G: 1.183 D: 0.375 CX: 0.143 
+(epoch: 70, iters: 549100, time: 0.087) G: 1.157 D: 0.404 CX: 0.174 
+(epoch: 70, iters: 549200, time: 0.090) G: 1.647 D: 0.226 CX: 0.147 
+(epoch: 70, iters: 549300, time: 0.087) G: 0.951 D: 0.527 CX: 0.231 
+(epoch: 70, iters: 549400, time: 0.087) G: 0.868 D: 0.587 CX: 0.120 
+(epoch: 70, iters: 549500, time: 0.082) G: 0.715 D: 0.687 CX: 0.127 
+(epoch: 70, iters: 549600, time: 0.090) G: 1.081 D: 0.428 CX: 0.198 
+(epoch: 70, iters: 549700, time: 0.085) G: 0.996 D: 0.564 CX: 0.107 
+(epoch: 70, iters: 549800, time: 0.089) G: 0.763 D: 0.675 CX: 0.152 
+(epoch: 70, iters: 549900, time: 0.095) IPixel: 0.003 VGG: 1.325 G: 2.645 D: 0.080 
+(epoch: 70, iters: 550000, time: 0.090) G: 0.549 D: 0.882 CX: 0.117 
+(epoch: 70, iters: 550100, time: 0.095) G: 0.945 D: 0.500 CX: 0.090 
+(epoch: 70, iters: 550200, time: 0.091) IPixel: 0.011 VGG: 1.399 G: 0.807 D: 0.606 
+(epoch: 70, iters: 550300, time: 0.100) IPixel: 0.019 VGG: 1.379 G: 0.812 D: 0.608 
+(epoch: 70, iters: 550400, time: 0.087) G: 1.047 D: 0.444 CX: 0.158 
+(epoch: 70, iters: 550500, time: 0.086) G: 0.697 D: 0.718 CX: 0.200 
+(epoch: 70, iters: 550600, time: 0.091) IPixel: 0.008 VGG: 1.830 G: 0.930 D: 0.513 
+(epoch: 70, iters: 550700, time: 0.107) G: 0.805 D: 0.634 CX: 0.265 
+(epoch: 70, iters: 550800, time: 0.091) IPixel: 0.004 VGG: 1.666 G: 2.563 D: 0.086 
+(epoch: 70, iters: 550900, time: 0.092) G: 0.539 D: 0.917 CX: 0.113 
+(epoch: 70, iters: 551000, time: 0.092) IPixel: 0.004 VGG: 0.827 G: 0.883 D: 0.543 
+(epoch: 70, iters: 551100, time: 0.095) IPixel: 0.012 VGG: 2.269 G: 1.201 D: 0.366 
+(epoch: 70, iters: 551200, time: 0.094) IPixel: 0.004 VGG: 0.845 G: 0.803 D: 0.605 
+(epoch: 70, iters: 551300, time: 0.089) IPixel: 0.009 VGG: 0.944 G: 0.594 D: 0.837 
+(epoch: 70, iters: 551400, time: 0.094) G: 0.453 D: 1.088 CX: 0.123 
+(epoch: 70, iters: 551500, time: 0.088) G: 0.423 D: 1.122 CX: 0.128 
+(epoch: 70, iters: 551600, time: 0.097) IPixel: 0.005 VGG: 0.784 G: 0.958 D: 0.491 
+(epoch: 70, iters: 551700, time: 0.104) IPixel: 0.007 VGG: 1.364 G: 1.003 D: 0.467 
+(epoch: 71, iters: 551800, time: 0.090) G: 0.643 D: 0.792 CX: 0.229 
+(epoch: 71, iters: 551900, time: 0.088) G: 0.981 D: 0.486 CX: 0.128 
+(epoch: 71, iters: 552000, time: 0.086) G: 1.107 D: 0.410 CX: 0.175 
+(epoch: 71, iters: 552100, time: 0.090) IPixel: 0.007 VGG: 1.019 G: 0.655 D: 0.742 
+(epoch: 71, iters: 552200, time: 0.087) G: 0.480 D: 0.989 CX: 0.139 
+(epoch: 71, iters: 552300, time: 0.087) G: 0.979 D: 0.488 CX: 0.157 
+(epoch: 71, iters: 552400, time: 0.092) G: 0.791 D: 0.619 CX: 0.282 
+(epoch: 71, iters: 552500, time: 0.090) IPixel: 0.006 VGG: 1.166 G: 0.991 D: 0.472 
+(epoch: 71, iters: 552600, time: 0.107) IPixel: 0.005 VGG: 0.836 G: 0.755 D: 0.662 
+(epoch: 71, iters: 552700, time: 0.095) IPixel: 0.004 VGG: 1.218 G: 1.778 D: 0.205 
+(epoch: 71, iters: 552800, time: 0.089) IPixel: 0.020 VGG: 1.793 G: 0.718 D: 0.686 
+(epoch: 71, iters: 552900, time: 0.088) G: 1.331 D: 0.329 CX: 0.118 
+(epoch: 71, iters: 553000, time: 0.087) G: 0.916 D: 0.552 CX: 0.254 
+(epoch: 71, iters: 553100, time: 0.090) IPixel: 0.006 VGG: 0.844 G: 0.710 D: 0.710 
+(epoch: 71, iters: 553200, time: 0.094) IPixel: 0.003 VGG: 1.273 G: 0.911 D: 0.559 
+(epoch: 71, iters: 553300, time: 0.087) G: 0.641 D: 0.792 CX: 0.082 
+(epoch: 71, iters: 553400, time: 0.090) G: 1.208 D: 0.412 CX: 0.300 
+(epoch: 71, iters: 553500, time: 0.091) G: 0.475 D: 1.130 CX: 0.120 
+(epoch: 71, iters: 553600, time: 0.096) IPixel: 0.012 VGG: 1.574 G: 0.488 D: 0.979 
+(epoch: 71, iters: 553700, time: 0.086) G: 1.005 D: 0.486 CX: 0.057 
+(epoch: 71, iters: 553800, time: 0.091) G: 1.967 D: 0.155 CX: 0.224 
+(epoch: 71, iters: 553900, time: 0.103) G: 0.246 D: 1.749 CX: 0.224 
+(epoch: 71, iters: 554000, time: 0.086) G: 1.211 D: 0.376 CX: 0.143 
+(epoch: 71, iters: 554100, time: 0.093) IPixel: 0.007 VGG: 1.802 G: 0.942 D: 0.515 
+(epoch: 71, iters: 554200, time: 0.096) IPixel: 0.005 VGG: 0.930 G: 0.716 D: 0.689 
+(epoch: 71, iters: 554300, time: 0.086) G: 0.506 D: 1.032 CX: 0.154 
+(epoch: 71, iters: 554400, time: 0.089) IPixel: 0.008 VGG: 1.657 G: 1.976 D: 0.154 
+(epoch: 71, iters: 554500, time: 0.088) IPixel: 0.014 VGG: 1.804 G: 0.563 D: 0.894 
+(epoch: 71, iters: 554600, time: 0.096) IPixel: 0.018 VGG: 1.125 G: 0.566 D: 0.859 
+(epoch: 71, iters: 554700, time: 0.098) IPixel: 0.006 VGG: 1.097 G: 1.002 D: 0.521 
+(epoch: 71, iters: 554800, time: 0.093) G: 1.730 D: 0.201 CX: 0.204 
+(epoch: 71, iters: 554900, time: 0.085) G: 0.763 D: 0.663 CX: 0.213 
+(epoch: 71, iters: 555000, time: 0.090) IPixel: 0.005 VGG: 0.637 G: 0.708 D: 0.691 
+(epoch: 71, iters: 555100, time: 0.092) IPixel: 0.012 VGG: 2.260 G: 0.702 D: 0.751 
+(epoch: 71, iters: 555200, time: 0.095) IPixel: 0.010 VGG: 1.577 G: 0.588 D: 0.855 
+(epoch: 71, iters: 555300, time: 0.087) G: 0.259 D: 1.621 CX: 0.124 
+(epoch: 71, iters: 555400, time: 0.100) IPixel: 0.008 VGG: 1.639 G: 0.748 D: 0.651 
+(epoch: 71, iters: 555500, time: 0.088) G: 0.807 D: 0.698 CX: 0.105 
+(epoch: 71, iters: 555600, time: 0.095) G: 0.484 D: 0.990 CX: 0.156 
+(epoch: 71, iters: 555700, time: 0.091) IPixel: 0.007 VGG: 1.788 G: 1.046 D: 0.509 
+(epoch: 71, iters: 555800, time: 0.087) G: 0.821 D: 0.615 CX: 0.102 
+(epoch: 71, iters: 555900, time: 0.093) IPixel: 0.020 VGG: 1.417 G: 0.629 D: 0.779 
+(epoch: 71, iters: 556000, time: 0.091) G: 0.792 D: 0.619 CX: 0.097 
+(epoch: 71, iters: 556100, time: 0.095) G: 2.986 D: 0.057 CX: 0.251 
+(epoch: 71, iters: 556200, time: 0.090) IPixel: 0.007 VGG: 1.422 G: 0.742 D: 0.666 
+(epoch: 71, iters: 556300, time: 0.094) IPixel: 0.025 VGG: 1.750 G: 0.769 D: 0.666 
+(epoch: 71, iters: 556400, time: 0.082) G: 0.379 D: 1.308 CX: 0.124 
+(epoch: 71, iters: 556500, time: 0.091) G: 1.428 D: 0.288 CX: 0.159 
+(epoch: 71, iters: 556600, time: 0.094) IPixel: 0.009 VGG: 1.057 G: 0.634 D: 0.767 
+(epoch: 71, iters: 556700, time: 0.089) G: 1.398 D: 0.295 CX: 0.100 
+(epoch: 71, iters: 556800, time: 0.088) IPixel: 0.010 VGG: 1.237 G: 0.761 D: 0.633 
+(epoch: 71, iters: 556900, time: 0.089) IPixel: 0.006 VGG: 0.947 G: 0.781 D: 0.619 
+(epoch: 71, iters: 557000, time: 0.093) G: 0.532 D: 0.947 CX: 0.146 
+(epoch: 71, iters: 557100, time: 0.087) G: 0.790 D: 0.623 CX: 0.088 
+(epoch: 71, iters: 557200, time: 0.089) IPixel: 0.004 VGG: 1.807 G: 1.425 D: 0.289 
+(epoch: 71, iters: 557300, time: 0.096) G: 1.233 D: 0.369 CX: 0.252 
+(epoch: 71, iters: 557400, time: 0.100) IPixel: 0.006 VGG: 1.391 G: 1.280 D: 0.339 
+(epoch: 71, iters: 557500, time: 0.096) G: 0.674 D: 0.723 CX: 0.129 
+(epoch: 71, iters: 557600, time: 0.092) G: 1.590 D: 0.247 CX: 0.194 
+(epoch: 71, iters: 557700, time: 0.095) IPixel: 0.009 VGG: 1.109 G: 0.538 D: 0.902 
+(epoch: 71, iters: 557800, time: 0.094) IPixel: 0.007 VGG: 1.499 G: 1.050 D: 0.454 
+(epoch: 71, iters: 557900, time: 0.087) G: 0.640 D: 0.779 CX: 0.084 
+(epoch: 71, iters: 558000, time: 0.092) IPixel: 0.006 VGG: 1.646 G: 1.626 D: 0.222 
+(epoch: 71, iters: 558100, time: 0.089) IPixel: 0.003 VGG: 0.954 G: 0.706 D: 0.759 
+(epoch: 71, iters: 558200, time: 0.089) IPixel: 0.006 VGG: 1.085 G: 0.481 D: 0.989 
+(epoch: 71, iters: 558300, time: 0.088) IPixel: 0.006 VGG: 1.860 G: 2.981 D: 0.052 
+(epoch: 71, iters: 558400, time: 0.094) G: 0.877 D: 0.559 CX: 0.117 
+(epoch: 71, iters: 558500, time: 0.087) G: 1.253 D: 0.377 CX: 0.088 
+(epoch: 71, iters: 558600, time: 0.091) G: 0.411 D: 1.168 CX: 0.105 
+(epoch: 71, iters: 558700, time: 0.091) G: 1.017 D: 0.473 CX: 0.176 
+(epoch: 71, iters: 558800, time: 0.096) G: 0.761 D: 0.734 CX: 0.123 
+(epoch: 71, iters: 558900, time: 0.087) G: 0.986 D: 0.486 CX: 0.087 
+(epoch: 71, iters: 559000, time: 0.089) G: 0.659 D: 0.781 CX: 0.205 
+(epoch: 71, iters: 559100, time: 0.092) IPixel: 0.005 VGG: 1.364 G: 0.277 D: 1.491 
+(epoch: 71, iters: 559200, time: 0.091) G: 0.987 D: 0.484 CX: 0.130 
+(epoch: 71, iters: 559300, time: 0.088) IPixel: 0.005 VGG: 0.935 G: 0.919 D: 0.526 
+(epoch: 71, iters: 559400, time: 0.089) G: 0.932 D: 0.523 CX: 0.162 
+(epoch: 71, iters: 559500, time: 0.091) G: 1.013 D: 0.514 CX: 0.260 
+(epoch: 71, iters: 559600, time: 0.087) IPixel: 0.007 VGG: 1.904 G: 2.183 D: 0.134 
+(epoch: 71, iters: 559700, time: 0.083) G: 0.321 D: 1.438 CX: 0.216 
+(epoch: 72, iters: 559800, time: 0.095) IPixel: 0.007 VGG: 1.610 G: 1.071 D: 0.439 
+(epoch: 72, iters: 559900, time: 0.115) IPixel: 0.004 VGG: 0.944 G: 0.277 D: 1.566 
+(epoch: 72, iters: 560000, time: 0.090) G: 0.938 D: 0.527 CX: 0.169 
+(epoch: 72, iters: 560100, time: 0.098) IPixel: 0.010 VGG: 2.336 G: 0.796 D: 0.691 
+(epoch: 72, iters: 560200, time: 0.095) IPixel: 0.009 VGG: 1.571 G: 1.582 D: 0.242 
+(epoch: 72, iters: 560300, time: 0.092) IPixel: 0.006 VGG: 0.824 G: 0.571 D: 0.841 
+(epoch: 72, iters: 560400, time: 0.093) IPixel: 0.005 VGG: 1.591 G: 0.449 D: 1.146 
+(epoch: 72, iters: 560500, time: 0.089) IPixel: 0.022 VGG: 1.192 G: 0.762 D: 0.641 
+(epoch: 72, iters: 560600, time: 0.089) IPixel: 0.005 VGG: 0.788 G: 1.112 D: 0.422 
+(epoch: 72, iters: 560700, time: 0.086) G: 2.670 D: 0.073 CX: 0.394 
+(epoch: 72, iters: 560800, time: 0.094) G: 1.549 D: 0.246 CX: 0.124 
+(epoch: 72, iters: 560900, time: 0.097) G: 0.869 D: 0.561 CX: 0.076 
+(epoch: 72, iters: 561000, time: 0.088) G: 2.189 D: 0.123 CX: 0.233 
+(epoch: 72, iters: 561100, time: 0.100) IPixel: 0.007 VGG: 2.015 G: 1.499 D: 0.261 
+(epoch: 72, iters: 561200, time: 0.092) G: 2.333 D: 0.104 CX: 0.353 
+(epoch: 72, iters: 561300, time: 0.088) G: 1.210 D: 0.367 CX: 0.118 
+(epoch: 72, iters: 561400, time: 0.093) IPixel: 0.007 VGG: 1.961 G: 0.863 D: 0.595 
+(epoch: 72, iters: 561500, time: 0.091) IPixel: 0.004 VGG: 1.544 G: 0.604 D: 0.832 
+(epoch: 72, iters: 561600, time: 0.089) G: 0.458 D: 1.042 CX: 0.124 
+(epoch: 72, iters: 561700, time: 0.097) IPixel: 0.005 VGG: 1.204 G: 1.210 D: 0.400 
+(epoch: 72, iters: 561800, time: 0.088) G: 0.880 D: 0.594 CX: 0.138 
+(epoch: 72, iters: 561900, time: 0.099) IPixel: 0.006 VGG: 1.465 G: 1.873 D: 0.176 
+(epoch: 72, iters: 562000, time: 0.090) G: 0.959 D: 0.575 CX: 0.130 
+(epoch: 72, iters: 562100, time: 0.096) G: 0.504 D: 1.033 CX: 0.151 
+(epoch: 72, iters: 562200, time: 0.088) IPixel: 0.006 VGG: 0.985 G: 1.127 D: 0.399 
+(epoch: 72, iters: 562300, time: 0.075) IPixel: 0.003 VGG: 1.718 G: 0.975 D: 0.593 
+(epoch: 72, iters: 562400, time: 0.093) G: 1.065 D: 0.478 CX: 0.144 
+(epoch: 72, iters: 562500, time: 0.100) IPixel: 0.006 VGG: 1.919 G: 2.222 D: 0.123 
+(epoch: 72, iters: 562600, time: 0.085) G: 0.699 D: 0.796 CX: 0.160 
+(epoch: 72, iters: 562700, time: 0.087) IPixel: 0.005 VGG: 0.766 G: 0.836 D: 0.578 
+(epoch: 72, iters: 562800, time: 0.087) IPixel: 0.004 VGG: 1.078 G: 2.065 D: 0.145 
+(epoch: 72, iters: 562900, time: 0.095) G: 1.066 D: 0.451 CX: 0.068 
+(epoch: 72, iters: 563000, time: 0.091) IPixel: 0.006 VGG: 1.283 G: 1.334 D: 0.333 
+(epoch: 72, iters: 563100, time: 0.085) G: 1.540 D: 0.262 CX: 0.252 
+(epoch: 72, iters: 563200, time: 0.094) IPixel: 0.006 VGG: 1.251 G: 0.821 D: 0.607 
+(epoch: 72, iters: 563300, time: 0.085) G: 1.275 D: 0.347 CX: 0.144 
+(epoch: 72, iters: 563400, time: 0.082) G: 1.030 D: 0.480 CX: 0.190 
+(epoch: 72, iters: 563500, time: 0.093) G: 1.094 D: 0.454 CX: 0.114 
+(epoch: 72, iters: 563600, time: 0.085) IPixel: 0.008 VGG: 2.457 G: 1.093 D: 0.427 
+(epoch: 72, iters: 563700, time: 0.093) G: 2.096 D: 0.134 CX: 0.256 
+(epoch: 72, iters: 563800, time: 0.101) G: 1.163 D: 0.391 CX: 0.229 
+(epoch: 72, iters: 563900, time: 0.096) G: 2.436 D: 0.097 CX: 0.072 
+(epoch: 72, iters: 564000, time: 0.095) IPixel: 0.006 VGG: 1.176 G: 0.680 D: 0.750 
+(epoch: 72, iters: 564100, time: 0.090) G: 0.356 D: 1.355 CX: 0.257 
+(epoch: 72, iters: 564200, time: 0.092) IPixel: 0.047 VGG: 2.555 G: 0.907 D: 0.526 
+(epoch: 72, iters: 564300, time: 0.095) IPixel: 0.009 VGG: 1.607 G: 0.646 D: 0.760 
+(epoch: 72, iters: 564400, time: 0.089) G: 1.247 D: 0.396 CX: 0.127 
+(epoch: 72, iters: 564500, time: 0.089) G: 1.241 D: 0.362 CX: 0.110 
+(epoch: 72, iters: 564600, time: 0.096) IPixel: 0.008 VGG: 1.040 G: 0.927 D: 0.530 
+(epoch: 72, iters: 564700, time: 0.091) IPixel: 0.007 VGG: 2.343 G: 0.756 D: 0.700 
+(epoch: 72, iters: 564800, time: 0.095) G: 1.282 D: 0.372 CX: 0.288 
+(epoch: 72, iters: 564900, time: 0.095) IPixel: 0.026 VGG: 1.924 G: 1.152 D: 0.396 
+(epoch: 72, iters: 565000, time: 0.095) G: 0.647 D: 0.867 CX: 0.143 
+(epoch: 72, iters: 565100, time: 0.093) IPixel: 0.008 VGG: 1.643 G: 1.381 D: 0.302 
+(epoch: 72, iters: 565200, time: 0.100) G: 2.492 D: 0.086 CX: 0.205 
+(epoch: 72, iters: 565300, time: 0.089) IPixel: 0.004 VGG: 1.235 G: 1.088 D: 0.426 
+(epoch: 72, iters: 565400, time: 0.087) IPixel: 0.011 VGG: 2.054 G: 0.230 D: 1.752 
+(epoch: 72, iters: 565500, time: 0.097) IPixel: 0.004 VGG: 0.897 G: 1.271 D: 0.344 
+(epoch: 72, iters: 565600, time: 0.092) G: 0.424 D: 1.204 CX: 0.353 
+(epoch: 72, iters: 565700, time: 0.088) G: 0.832 D: 0.606 CX: 0.151 
+(epoch: 72, iters: 565800, time: 0.092) G: 0.704 D: 0.702 CX: 0.146 
+(epoch: 72, iters: 565900, time: 0.092) IPixel: 0.009 VGG: 2.245 G: 2.037 D: 0.147 
+(epoch: 72, iters: 566000, time: 0.087) IPixel: 0.006 VGG: 1.532 G: 1.482 D: 0.276 
+(epoch: 72, iters: 566100, time: 0.088) G: 0.641 D: 0.785 CX: 0.087 
+(epoch: 72, iters: 566200, time: 0.094) IPixel: 0.010 VGG: 1.179 G: 0.832 D: 0.604 
+(epoch: 72, iters: 566300, time: 0.090) IPixel: 0.008 VGG: 0.996 G: 0.782 D: 0.619 
+(epoch: 72, iters: 566400, time: 0.092) G: 1.481 D: 0.288 CX: 0.106 
+(epoch: 72, iters: 566500, time: 0.095) G: 0.646 D: 0.892 CX: 0.158 
+(epoch: 72, iters: 566600, time: 0.090) IPixel: 0.030 VGG: 1.829 G: 1.199 D: 0.364 
+(epoch: 72, iters: 566700, time: 0.095) IPixel: 0.008 VGG: 1.833 G: 1.387 D: 0.310 
+(epoch: 72, iters: 566800, time: 0.094) G: 0.693 D: 0.732 CX: 0.118 
+(epoch: 72, iters: 566900, time: 0.095) G: 1.799 D: 0.186 CX: 0.251 
+(epoch: 72, iters: 567000, time: 0.092) G: 0.780 D: 0.741 CX: 0.280 
+(epoch: 72, iters: 567100, time: 0.086) IPixel: 0.006 VGG: 1.995 G: 0.244 D: 1.838 
+(epoch: 72, iters: 567200, time: 0.093) IPixel: 0.007 VGG: 1.446 G: 1.660 D: 0.228 
+(epoch: 72, iters: 567300, time: 0.095) G: 0.803 D: 0.704 CX: 0.157 
+(epoch: 72, iters: 567400, time: 0.094) IPixel: 0.007 VGG: 1.690 G: 1.038 D: 0.446 
+(epoch: 72, iters: 567500, time: 0.092) G: 0.738 D: 0.682 CX: 0.163 
+(epoch: 72, iters: 567600, time: 0.084) G: 1.674 D: 0.213 CX: 0.102 
+(epoch: 73, iters: 567700, time: 0.092) G: 0.850 D: 0.589 CX: 0.216 
+(epoch: 73, iters: 567800, time: 0.090) IPixel: 0.006 VGG: 1.488 G: 1.112 D: 0.407 
+(epoch: 73, iters: 567900, time: 0.090) IPixel: 0.010 VGG: 1.745 G: 1.249 D: 0.355 
+(epoch: 73, iters: 568000, time: 0.087) G: 1.254 D: 0.357 CX: 0.196 
+(epoch: 73, iters: 568100, time: 0.091) G: 0.746 D: 0.725 CX: 0.146 
+(epoch: 73, iters: 568200, time: 0.090) G: 1.202 D: 0.402 CX: 0.111 
+(epoch: 73, iters: 568300, time: 0.095) G: 1.035 D: 0.470 CX: 0.196 
+(epoch: 73, iters: 568400, time: 0.100) IPixel: 0.005 VGG: 0.953 G: 0.849 D: 0.596 
+(epoch: 73, iters: 568500, time: 0.090) G: 0.723 D: 0.724 CX: 0.138 
+(epoch: 73, iters: 568600, time: 0.092) G: 2.466 D: 0.091 CX: 0.126 
+(epoch: 73, iters: 568700, time: 0.100) IPixel: 0.009 VGG: 1.591 G: 1.156 D: 0.404 
+(epoch: 73, iters: 568800, time: 0.093) G: 1.044 D: 0.500 CX: 0.167 
+(epoch: 73, iters: 568900, time: 0.093) G: 0.631 D: 0.810 CX: 0.180 
+(epoch: 73, iters: 569000, time: 0.098) G: 0.798 D: 0.641 CX: 0.119 
+(epoch: 73, iters: 569100, time: 0.090) IPixel: 0.009 VGG: 1.154 G: 0.540 D: 0.895 
+(epoch: 73, iters: 569200, time: 0.091) G: 1.225 D: 0.430 CX: 0.123 
+(epoch: 73, iters: 569300, time: 0.088) G: 0.734 D: 0.698 CX: 0.074 
+(epoch: 73, iters: 569400, time: 0.098) IPixel: 0.009 VGG: 1.678 G: 1.057 D: 0.450 
+(epoch: 73, iters: 569500, time: 0.088) G: 0.626 D: 0.879 CX: 0.149 
+(epoch: 73, iters: 569600, time: 0.089) G: 0.779 D: 0.637 CX: 0.121 
+(epoch: 73, iters: 569700, time: 0.086) IPixel: 0.004 VGG: 1.125 G: 0.791 D: 0.614 
+(epoch: 73, iters: 569800, time: 0.091) IPixel: 0.003 VGG: 1.329 G: 1.876 D: 0.172 
+(epoch: 73, iters: 569900, time: 0.089) G: 0.670 D: 0.768 CX: 0.130 
+(epoch: 73, iters: 570000, time: 0.090) G: 0.974 D: 0.514 CX: 0.183 
+(epoch: 73, iters: 570100, time: 0.099) G: 1.512 D: 0.264 CX: 0.122 
+(epoch: 73, iters: 570200, time: 0.096) IPixel: 0.007 VGG: 1.581 G: 0.831 D: 0.628 
+(epoch: 73, iters: 570300, time: 0.092) G: 1.284 D: 0.352 CX: 0.161 
+(epoch: 73, iters: 570400, time: 0.090) IPixel: 0.006 VGG: 1.445 G: 0.539 D: 1.049 
+(epoch: 73, iters: 570500, time: 0.090) G: 0.961 D: 0.559 CX: 0.163 
+(epoch: 73, iters: 570600, time: 0.088) G: 1.051 D: 0.484 CX: 0.175 
+(epoch: 73, iters: 570700, time: 0.089) IPixel: 0.007 VGG: 1.062 G: 0.640 D: 0.774 
+(epoch: 73, iters: 570800, time: 0.089) G: 1.769 D: 0.202 CX: 0.259 
+(epoch: 73, iters: 570900, time: 0.088) G: 0.831 D: 0.588 CX: 0.136 
+(epoch: 73, iters: 571000, time: 0.088) IPixel: 0.003 VGG: 1.654 G: 1.187 D: 0.396 
+(epoch: 73, iters: 571100, time: 0.090) G: 2.043 D: 0.150 CX: 0.050 
+(epoch: 73, iters: 571200, time: 0.086) IPixel: 0.007 VGG: 1.905 G: 1.042 D: 0.486 
+(epoch: 73, iters: 571300, time: 0.088) IPixel: 0.007 VGG: 0.782 G: 0.681 D: 0.710 
+(epoch: 73, iters: 571400, time: 0.089) IPixel: 0.007 VGG: 1.000 G: 0.736 D: 0.657 
+(epoch: 73, iters: 571500, time: 0.087) G: 0.304 D: 1.422 CX: 0.121 
+(epoch: 73, iters: 571600, time: 0.090) IPixel: 0.009 VGG: 1.185 G: 0.630 D: 0.791 
+(epoch: 73, iters: 571700, time: 0.094) IPixel: 0.005 VGG: 1.390 G: 3.501 D: 0.032 
+(epoch: 73, iters: 571800, time: 0.086) G: 0.782 D: 0.650 CX: 0.096 
+(epoch: 73, iters: 571900, time: 0.103) G: 1.100 D: 0.434 CX: 0.142 
+(epoch: 73, iters: 572000, time: 0.087) G: 2.163 D: 0.131 CX: 0.247 
+(epoch: 73, iters: 572100, time: 0.093) G: 0.524 D: 0.955 CX: 0.099 
+(epoch: 73, iters: 572200, time: 0.094) IPixel: 0.006 VGG: 2.053 G: 1.117 D: 0.447 
+(epoch: 73, iters: 572300, time: 0.092) IPixel: 0.007 VGG: 1.794 G: 0.228 D: 1.716 
+(epoch: 73, iters: 572400, time: 0.088) G: 1.211 D: 0.370 CX: 0.131 
+(epoch: 73, iters: 572500, time: 0.095) IPixel: 0.021 VGG: 1.468 G: 0.787 D: 0.625 
+(epoch: 73, iters: 572600, time: 0.087) G: 0.633 D: 0.952 CX: 0.113 
+(epoch: 73, iters: 572700, time: 0.094) IPixel: 0.006 VGG: 1.564 G: 0.666 D: 0.735 
+(epoch: 73, iters: 572800, time: 0.087) G: 2.436 D: 0.093 CX: 0.165 
+(epoch: 73, iters: 572900, time: 0.091) G: 1.157 D: 0.399 CX: 0.096 
+(epoch: 73, iters: 573000, time: 0.089) G: 0.891 D: 0.557 CX: 0.158 
+(epoch: 73, iters: 573100, time: 0.093) IPixel: 0.004 VGG: 1.366 G: 2.540 D: 0.092 
+(epoch: 73, iters: 573200, time: 0.089) IPixel: 0.009 VGG: 1.138 G: 0.774 D: 0.625 
+(epoch: 73, iters: 573300, time: 0.091) IPixel: 0.004 VGG: 0.762 G: 0.690 D: 0.713 
+(epoch: 73, iters: 573400, time: 0.094) G: 1.165 D: 0.386 CX: 0.130 
+(epoch: 73, iters: 573500, time: 0.089) IPixel: 0.007 VGG: 1.627 G: 0.906 D: 0.533 
+(epoch: 73, iters: 573600, time: 0.094) IPixel: 0.008 VGG: 1.898 G: 0.998 D: 0.470 
+(epoch: 73, iters: 573700, time: 0.096) IPixel: 0.004 VGG: 1.249 G: 2.883 D: 0.059 
+(epoch: 73, iters: 573800, time: 0.093) G: 0.334 D: 1.359 CX: 0.071 
+(epoch: 73, iters: 573900, time: 0.091) G: 0.543 D: 0.905 CX: 0.119 
+(epoch: 73, iters: 574000, time: 0.087) G: 4.238 D: 0.014 CX: 0.106 
+(epoch: 73, iters: 574100, time: 0.089) IPixel: 0.004 VGG: 1.866 G: 1.306 D: 0.331 
+(epoch: 73, iters: 574200, time: 0.090) IPixel: 0.006 VGG: 0.859 G: 0.494 D: 1.033 
+(epoch: 73, iters: 574300, time: 0.093) G: 0.980 D: 0.496 CX: 0.143 
+(epoch: 73, iters: 574400, time: 0.100) IPixel: 0.013 VGG: 1.303 G: 0.656 D: 0.769 
+(epoch: 73, iters: 574500, time: 0.083) IPixel: 0.012 VGG: 1.455 G: 0.782 D: 0.710 
+(epoch: 73, iters: 574600, time: 0.093) G: 0.667 D: 0.875 CX: 0.205 
+(epoch: 73, iters: 574700, time: 0.095) G: 2.503 D: 0.092 CX: 0.110 
+(epoch: 73, iters: 574800, time: 0.095) IPixel: 0.013 VGG: 1.758 G: 1.112 D: 0.406 
+(epoch: 73, iters: 574900, time: 0.103) IPixel: 0.005 VGG: 0.846 G: 0.951 D: 0.499 
+(epoch: 73, iters: 575000, time: 0.096) IPixel: 0.005 VGG: 1.429 G: 0.937 D: 0.593 
+(epoch: 73, iters: 575100, time: 0.090) G: 0.874 D: 0.552 CX: 0.147 
+(epoch: 73, iters: 575200, time: 0.100) IPixel: 0.005 VGG: 1.633 G: 1.049 D: 0.453 
+(epoch: 73, iters: 575300, time: 0.093) G: 0.561 D: 0.901 CX: 0.121 
+(epoch: 73, iters: 575400, time: 0.089) G: 0.400 D: 1.177 CX: 0.032 
+(epoch: 73, iters: 575500, time: 0.088) G: 0.873 D: 0.576 CX: 0.147 
+(epoch: 73, iters: 575600, time: 0.086) G: 0.775 D: 0.631 CX: 0.083 
+(epoch: 74, iters: 575700, time: 0.087) G: 0.306 D: 1.499 CX: 0.156 
+(epoch: 74, iters: 575800, time: 0.088) IPixel: 0.005 VGG: 1.496 G: 0.438 D: 1.088 
+(epoch: 74, iters: 575900, time: 0.091) G: 0.853 D: 0.580 CX: 0.089 
+(epoch: 74, iters: 576000, time: 0.094) IPixel: 0.012 VGG: 1.568 G: 1.404 D: 0.293 
+(epoch: 74, iters: 576100, time: 0.093) IPixel: 0.004 VGG: 1.202 G: 1.332 D: 0.382 
+(epoch: 74, iters: 576200, time: 0.099) IPixel: 0.005 VGG: 0.839 G: 0.557 D: 0.879 
+(epoch: 74, iters: 576300, time: 0.098) IPixel: 0.017 VGG: 1.585 G: 0.772 D: 0.629 
+(epoch: 74, iters: 576400, time: 0.092) IPixel: 0.009 VGG: 1.120 G: 1.022 D: 0.463 
+(epoch: 74, iters: 576500, time: 0.092) IPixel: 0.006 VGG: 1.710 G: 1.460 D: 0.280 
+(epoch: 74, iters: 576600, time: 0.091) G: 1.964 D: 0.156 CX: 0.154 
+(epoch: 74, iters: 576700, time: 0.089) G: 0.696 D: 0.752 CX: 0.111 
+(epoch: 74, iters: 576800, time: 0.094) IPixel: 0.005 VGG: 1.857 G: 0.418 D: 1.156 
+(epoch: 74, iters: 576900, time: 0.091) G: 0.641 D: 0.836 CX: 0.168 
+(epoch: 74, iters: 577000, time: 0.093) G: 0.728 D: 0.688 CX: 0.088 
+(epoch: 74, iters: 577100, time: 0.090) G: 0.486 D: 1.027 CX: 0.112 
+(epoch: 74, iters: 577200, time: 0.092) G: 0.603 D: 1.583 CX: 0.341 
+(epoch: 74, iters: 577300, time: 0.090) IPixel: 0.006 VGG: 1.226 G: 0.594 D: 0.828 
+(epoch: 74, iters: 577400, time: 0.095) G: 1.612 D: 0.239 CX: 0.151 
+(epoch: 74, iters: 577500, time: 0.086) G: 1.641 D: 0.229 CX: 0.114 
+(epoch: 74, iters: 577600, time: 0.093) IPixel: 0.022 VGG: 1.670 G: 0.835 D: 0.587 
+(epoch: 74, iters: 577700, time: 0.098) IPixel: 0.004 VGG: 0.642 G: 0.588 D: 0.845 
+(epoch: 74, iters: 577800, time: 0.094) G: 1.022 D: 0.461 CX: 0.116 
+(epoch: 74, iters: 577900, time: 0.093) G: 0.598 D: 0.816 CX: 0.187 
+(epoch: 74, iters: 578000, time: 0.089) IPixel: 0.006 VGG: 1.858 G: 1.593 D: 0.243 
+(epoch: 74, iters: 578100, time: 0.097) IPixel: 0.004 VGG: 1.097 G: 0.649 D: 0.783 
+(epoch: 74, iters: 578200, time: 0.095) IPixel: 0.015 VGG: 1.545 G: 0.940 D: 0.501 
+(epoch: 74, iters: 578300, time: 0.094) IPixel: 0.006 VGG: 1.128 G: 0.863 D: 0.608 
+(epoch: 74, iters: 578400, time: 0.096) G: 0.907 D: 0.529 CX: 0.130 
+(epoch: 74, iters: 578500, time: 0.092) IPixel: 0.004 VGG: 1.124 G: 0.697 D: 0.715 
+(epoch: 74, iters: 578600, time: 0.099) IPixel: 0.005 VGG: 1.824 G: 5.030 D: 0.007 
+(epoch: 74, iters: 578700, time: 0.090) IPixel: 0.015 VGG: 1.047 G: 0.609 D: 0.812 
+(epoch: 74, iters: 578800, time: 0.091) G: 0.315 D: 1.416 CX: 0.135 
+(epoch: 74, iters: 578900, time: 0.089) G: 0.907 D: 0.591 CX: 0.131 
+(epoch: 74, iters: 579000, time: 0.097) IPixel: 0.005 VGG: 0.890 G: 1.113 D: 0.431 
+(epoch: 74, iters: 579100, time: 0.089) IPixel: 0.006 VGG: 1.487 G: 1.240 D: 0.362 
+(epoch: 74, iters: 579200, time: 0.091) IPixel: 0.010 VGG: 1.405 G: 0.766 D: 0.638 
+(epoch: 74, iters: 579300, time: 0.098) G: 1.007 D: 0.474 CX: 0.094 
+(epoch: 74, iters: 579400, time: 0.095) G: 1.280 D: 0.347 CX: 0.146 
+(epoch: 74, iters: 579500, time: 0.093) G: 1.557 D: 0.262 CX: 0.162 
+(epoch: 74, iters: 579600, time: 0.086) IPixel: 0.006 VGG: 0.883 G: 1.148 D: 0.394 
+(epoch: 74, iters: 579700, time: 0.092) IPixel: 0.005 VGG: 1.449 G: 3.828 D: 0.022 
+(epoch: 74, iters: 579800, time: 0.091) IPixel: 0.006 VGG: 0.895 G: 0.683 D: 0.716 
+(epoch: 74, iters: 579900, time: 0.087) G: 1.399 D: 0.333 CX: 0.148 
+(epoch: 74, iters: 580000, time: 0.085) G: 0.643 D: 0.887 CX: 0.063 
+(epoch: 74, iters: 580100, time: 0.094) IPixel: 0.006 VGG: 0.979 G: 0.869 D: 0.558 
+(epoch: 74, iters: 580200, time: 0.088) G: 1.099 D: 0.418 CX: 0.111 
+(epoch: 74, iters: 580300, time: 0.086) IPixel: 0.007 VGG: 0.567 G: 1.298 D: 0.342 
+(epoch: 74, iters: 580400, time: 0.095) IPixel: 0.006 VGG: 1.615 G: 1.384 D: 0.319 
+(epoch: 74, iters: 580500, time: 0.087) G: 0.495 D: 0.995 CX: 0.136 
+(epoch: 74, iters: 580600, time: 0.085) G: 0.832 D: 0.594 CX: 0.116 
+(epoch: 74, iters: 580700, time: 0.095) IPixel: 0.011 VGG: 1.398 G: 1.161 D: 0.391 
+(epoch: 74, iters: 580800, time: 0.090) G: 1.012 D: 0.471 CX: 0.100 
+(epoch: 74, iters: 580900, time: 0.089) IPixel: 0.005 VGG: 1.773 G: 1.812 D: 0.188 
+(epoch: 74, iters: 581000, time: 0.097) G: 1.322 D: 0.349 CX: 0.140 
+(epoch: 74, iters: 581100, time: 0.088) G: 0.813 D: 0.613 CX: 0.045 
+(epoch: 74, iters: 581200, time: 0.091) IPixel: 0.009 VGG: 1.114 G: 0.647 D: 0.756 
+(epoch: 74, iters: 581300, time: 0.088) G: 0.806 D: 0.645 CX: 0.094 
+(epoch: 74, iters: 581400, time: 0.089) G: 0.924 D: 0.558 CX: 0.091 
+(epoch: 74, iters: 581500, time: 0.088) G: 1.178 D: 0.386 CX: 0.139 
+(epoch: 74, iters: 581600, time: 0.094) IPixel: 0.011 VGG: 1.605 G: 0.731 D: 0.693 
+(epoch: 74, iters: 581700, time: 0.095) G: 0.424 D: 1.174 CX: 0.111 
+(epoch: 74, iters: 581800, time: 0.088) G: 1.776 D: 0.190 CX: 0.126 
+(epoch: 74, iters: 581900, time: 0.089) G: 1.125 D: 0.442 CX: 0.090 
+(epoch: 74, iters: 582000, time: 0.094) G: 1.241 D: 0.369 CX: 0.210 
+(epoch: 74, iters: 582100, time: 0.091) IPixel: 0.006 VGG: 2.051 G: 0.621 D: 0.897 
+(epoch: 74, iters: 582200, time: 0.087) G: 1.169 D: 0.402 CX: 0.144 
+(epoch: 74, iters: 582300, time: 0.091) IPixel: 0.005 VGG: 1.122 G: 0.439 D: 1.066 
+(epoch: 74, iters: 582400, time: 0.091) G: 1.270 D: 0.360 CX: 0.123 
+(epoch: 74, iters: 582500, time: 0.092) IPixel: 0.010 VGG: 1.337 G: 0.618 D: 0.786 
+(epoch: 74, iters: 582600, time: 0.098) IPixel: 0.013 VGG: 1.877 G: 1.312 D: 0.329 
+(epoch: 74, iters: 582700, time: 0.090) G: 1.235 D: 0.369 CX: 0.214 
+(epoch: 74, iters: 582800, time: 0.098) G: 1.607 D: 0.238 CX: 0.125 
+(epoch: 74, iters: 582900, time: 0.098) G: 0.603 D: 0.836 CX: 0.090 
+(epoch: 74, iters: 583000, time: 0.097) IPixel: 0.006 VGG: 0.445 G: 0.758 D: 0.693 
+(epoch: 74, iters: 583100, time: 0.096) IPixel: 0.007 VGG: 1.019 G: 0.558 D: 0.882 
+(epoch: 74, iters: 583200, time: 0.092) G: 1.069 D: 0.431 CX: 0.133 
+(epoch: 74, iters: 583300, time: 0.089) IPixel: 0.003 VGG: 1.170 G: 0.712 D: 0.728 
+(epoch: 74, iters: 583400, time: 0.094) G: 0.595 D: 0.831 CX: 0.117 
+(epoch: 74, iters: 583500, time: 0.091) G: 0.795 D: 0.638 CX: 0.105 
+(epoch: 74, iters: 583600, time: 0.092) IPixel: 0.006 VGG: 1.069 G: 1.081 D: 0.424 
+(epoch: 75, iters: 583700, time: 0.096) IPixel: 0.007 VGG: 1.890 G: 1.254 D: 0.374 
+(epoch: 75, iters: 583800, time: 0.092) IPixel: 0.003 VGG: 1.267 G: 0.397 D: 1.273 
+(epoch: 75, iters: 583900, time: 0.090) G: 0.405 D: 1.201 CX: 0.214 
+(epoch: 75, iters: 584000, time: 0.092) G: 0.590 D: 0.866 CX: 0.092 
+(epoch: 75, iters: 584100, time: 0.102) IPixel: 0.008 VGG: 1.446 G: 0.853 D: 0.565 
+(epoch: 75, iters: 584200, time: 0.095) IPixel: 0.012 VGG: 1.376 G: 0.817 D: 0.605 
+(epoch: 75, iters: 584300, time: 0.092) IPixel: 0.009 VGG: 1.225 G: 0.896 D: 0.537 
+(epoch: 75, iters: 584400, time: 0.091) G: 0.858 D: 0.605 CX: 0.119 
+(epoch: 75, iters: 584500, time: 0.091) G: 2.901 D: 0.060 CX: 0.289 
+(epoch: 75, iters: 584600, time: 0.090) IPixel: 0.006 VGG: 0.956 G: 1.072 D: 0.439 
+(epoch: 75, iters: 584700, time: 0.091) G: 0.234 D: 2.321 CX: 0.150 
+(epoch: 75, iters: 584800, time: 0.106) IPixel: 0.015 VGG: 1.068 G: 0.674 D: 0.730 
+(epoch: 75, iters: 584900, time: 0.090) G: 1.058 D: 0.432 CX: 0.096 
+(epoch: 75, iters: 585000, time: 0.090) IPixel: 0.005 VGG: 1.997 G: 0.860 D: 0.582 
+(epoch: 75, iters: 585100, time: 0.093) G: 0.504 D: 1.005 CX: 0.183 
+(epoch: 75, iters: 585200, time: 0.089) G: 0.839 D: 0.582 CX: 0.123 
+(epoch: 75, iters: 585300, time: 0.095) G: 0.639 D: 0.826 CX: 0.280 
+(epoch: 75, iters: 585400, time: 0.091) G: 1.077 D: 0.438 CX: 0.186 
+(epoch: 75, iters: 585500, time: 0.088) G: 0.689 D: 0.736 CX: 0.189 
+(epoch: 75, iters: 585600, time: 0.088) G: 1.219 D: 0.419 CX: 0.203 
+(epoch: 75, iters: 585700, time: 0.086) G: 0.683 D: 0.787 CX: 0.190 
+(epoch: 75, iters: 585800, time: 0.087) G: 1.833 D: 0.180 CX: 0.140 
+(epoch: 75, iters: 585900, time: 0.093) G: 0.886 D: 0.561 CX: 0.201 
+(epoch: 75, iters: 586000, time: 0.090) IPixel: 0.005 VGG: 1.845 G: 0.916 D: 0.560 
+(epoch: 75, iters: 586100, time: 0.095) G: 3.682 D: 0.025 CX: 0.215 
+(epoch: 75, iters: 586200, time: 0.087) IPixel: 0.006 VGG: 0.895 G: 0.846 D: 0.574 
+(epoch: 75, iters: 586300, time: 0.092) IPixel: 0.017 VGG: 1.454 G: 0.528 D: 0.918 
+(epoch: 75, iters: 586400, time: 0.091) IPixel: 0.004 VGG: 0.784 G: 0.943 D: 0.503 
+(epoch: 75, iters: 586500, time: 0.087) G: 0.658 D: 0.754 CX: 0.138 
+(epoch: 75, iters: 586600, time: 0.101) IPixel: 0.007 VGG: 2.164 G: 0.789 D: 0.642 
+(epoch: 75, iters: 586700, time: 0.094) IPixel: 0.010 VGG: 1.512 G: 1.398 D: 0.293 
+(epoch: 75, iters: 586800, time: 0.095) IPixel: 0.007 VGG: 0.815 G: 0.747 D: 0.698 
+(epoch: 75, iters: 586900, time: 0.092) IPixel: 0.005 VGG: 0.883 G: 0.548 D: 0.886 
+(epoch: 75, iters: 587000, time: 0.093) IPixel: 0.005 VGG: 0.991 G: 0.475 D: 1.010 
+(epoch: 75, iters: 587100, time: 0.085) IPixel: 0.006 VGG: 1.197 G: 0.726 D: 0.687 
+(epoch: 75, iters: 587200, time: 0.089) G: 2.126 D: 0.133 CX: 0.103 
+(epoch: 75, iters: 587300, time: 0.092) G: 0.898 D: 0.550 CX: 0.085 
+(epoch: 75, iters: 587400, time: 0.092) IPixel: 0.019 VGG: 1.644 G: 0.830 D: 0.607 
+(epoch: 75, iters: 587500, time: 0.088) G: 0.762 D: 0.653 CX: 0.123 
+(epoch: 75, iters: 587600, time: 0.092) IPixel: 0.006 VGG: 1.044 G: 0.593 D: 0.911 
+(epoch: 75, iters: 587700, time: 0.088) IPixel: 0.003 VGG: 0.996 G: 1.889 D: 0.184 
+(epoch: 75, iters: 587800, time: 0.088) G: 1.075 D: 0.437 CX: 0.138 
+(epoch: 75, iters: 587900, time: 0.094) IPixel: 0.009 VGG: 1.197 G: 0.809 D: 0.600 
+(epoch: 75, iters: 588000, time: 0.098) IPixel: 0.003 VGG: 1.438 G: 0.233 D: 1.703 
+(epoch: 75, iters: 588100, time: 0.091) G: 1.047 D: 0.458 CX: 0.114 
+(epoch: 75, iters: 588200, time: 0.092) G: 0.971 D: 0.509 CX: 0.105 
+(epoch: 75, iters: 588300, time: 0.092) G: 0.392 D: 1.435 CX: 0.116 
+(epoch: 75, iters: 588400, time: 0.095) G: 4.035 D: 0.018 CX: 0.086 
+(epoch: 75, iters: 588500, time: 0.087) G: 0.883 D: 0.601 CX: 0.174 
+(epoch: 75, iters: 588600, time: 0.092) IPixel: 0.008 VGG: 1.697 G: 0.327 D: 1.344 
+(epoch: 75, iters: 588700, time: 0.094) G: 0.899 D: 0.550 CX: 0.175 
+(epoch: 75, iters: 588800, time: 0.090) IPixel: 0.010 VGG: 1.067 G: 0.943 D: 0.507 
+(epoch: 75, iters: 588900, time: 0.101) IPixel: 0.005 VGG: 0.883 G: 0.886 D: 0.560 
+(epoch: 75, iters: 589000, time: 0.093) IPixel: 0.010 VGG: 1.370 G: 0.881 D: 0.556 
+(epoch: 75, iters: 589100, time: 0.095) G: 1.178 D: 0.376 CX: 0.120 
+(epoch: 75, iters: 589200, time: 0.093) G: 0.526 D: 0.949 CX: 0.150 
+(epoch: 75, iters: 589300, time: 0.090) IPixel: 0.004 VGG: 1.669 G: 0.449 D: 1.243 
+(epoch: 75, iters: 589400, time: 0.089) G: 1.491 D: 0.275 CX: 0.127 
+(epoch: 75, iters: 589500, time: 0.105) IPixel: 0.004 VGG: 0.966 G: 1.289 D: 0.336 
+(epoch: 75, iters: 589600, time: 0.092) IPixel: 0.009 VGG: 1.399 G: 0.643 D: 0.774 
+(epoch: 75, iters: 589700, time: 0.096) G: 0.859 D: 0.583 CX: 0.101 
+(epoch: 75, iters: 589800, time: 0.096) IPixel: 0.006 VGG: 0.781 G: 0.622 D: 0.801 
+(epoch: 75, iters: 589900, time: 0.104) IPixel: 0.006 VGG: 1.671 G: 0.818 D: 0.615 
+(epoch: 75, iters: 590000, time: 0.095) IPixel: 0.005 VGG: 1.101 G: 1.155 D: 0.400 
+(epoch: 75, iters: 590100, time: 0.088) IPixel: 0.012 VGG: 1.253 G: 1.266 D: 0.359 
+(epoch: 75, iters: 590200, time: 0.095) G: 1.541 D: 0.290 CX: 0.183 
+(epoch: 75, iters: 590300, time: 0.101) G: 0.903 D: 0.656 CX: 0.054 
+(epoch: 75, iters: 590400, time: 0.112) IPixel: 0.009 VGG: 0.908 G: 0.762 D: 0.788 
+(epoch: 75, iters: 590500, time: 0.095) G: 1.032 D: 0.458 CX: 0.233 
+(epoch: 75, iters: 590600, time: 0.092) IPixel: 0.004 VGG: 1.648 G: 0.589 D: 1.000 
+(epoch: 75, iters: 590700, time: 0.087) IPixel: 0.008 VGG: 0.921 G: 0.905 D: 0.540 
+(epoch: 75, iters: 590800, time: 0.089) G: 0.794 D: 0.660 CX: 0.153 
+(epoch: 75, iters: 590900, time: 0.103) G: 0.653 D: 0.769 CX: 0.099 
+(epoch: 75, iters: 591000, time: 0.088) G: 1.165 D: 0.401 CX: 0.122 
+(epoch: 75, iters: 591100, time: 0.097) IPixel: 0.005 VGG: 1.477 G: 0.785 D: 0.726 
+(epoch: 75, iters: 591200, time: 0.091) IPixel: 0.004 VGG: 1.692 G: 1.625 D: 0.234 
+(epoch: 75, iters: 591300, time: 0.089) IPixel: 0.005 VGG: 0.977 G: 1.025 D: 0.458 
+(epoch: 75, iters: 591400, time: 0.092) G: 1.540 D: 0.272 CX: 0.062 
+(epoch: 75, iters: 591500, time: 0.093) G: 0.567 D: 0.954 CX: 0.200 
+(epoch: 75, iters: 591600, time: 0.091) IPixel: 0.011 VGG: 2.030 G: 1.067 D: 0.441 
+(epoch: 76, iters: 591700, time: 0.089) IPixel: 0.008 VGG: 0.972 G: 0.616 D: 0.850 
+(epoch: 76, iters: 591800, time: 0.092) IPixel: 0.006 VGG: 1.434 G: 1.530 D: 0.261 
+(epoch: 76, iters: 591900, time: 0.096) IPixel: 0.003 VGG: 0.864 G: 1.456 D: 0.281 
+(epoch: 76, iters: 592000, time: 0.091) G: 0.269 D: 1.746 CX: 0.177 
+(epoch: 76, iters: 592100, time: 0.089) G: 1.055 D: 0.475 CX: 0.161 
+(epoch: 76, iters: 592200, time: 0.094) G: 0.592 D: 0.972 CX: 0.078 
+(epoch: 76, iters: 592300, time: 0.089) IPixel: 0.006 VGG: 2.024 G: 0.392 D: 1.225 
+(epoch: 76, iters: 592400, time: 0.087) G: 0.788 D: 0.629 CX: 0.074 
+(epoch: 76, iters: 592500, time: 0.092) IPixel: 0.005 VGG: 1.749 G: 0.038 D: 4.017 
+(epoch: 76, iters: 592600, time: 0.089) G: 1.358 D: 0.308 CX: 0.170 
+(epoch: 76, iters: 592700, time: 0.093) G: 1.273 D: 0.362 CX: 0.078 
+(epoch: 76, iters: 592800, time: 0.090) G: 0.930 D: 0.558 CX: 0.208 
+(epoch: 76, iters: 592900, time: 0.088) G: 0.529 D: 1.005 CX: 0.140 
+(epoch: 76, iters: 593000, time: 0.088) G: 1.283 D: 0.350 CX: 0.126 
+(epoch: 76, iters: 593100, time: 0.095) G: 1.083 D: 0.432 CX: 0.151 
+(epoch: 76, iters: 593200, time: 0.094) G: 0.891 D: 0.590 CX: 0.259 
+(epoch: 76, iters: 593300, time: 0.091) G: 0.903 D: 0.589 CX: 0.128 
+(epoch: 76, iters: 593400, time: 0.091) IPixel: 0.010 VGG: 1.246 G: 0.551 D: 0.916 
+(epoch: 76, iters: 593500, time: 0.089) IPixel: 0.005 VGG: 2.401 G: 2.339 D: 0.114 
+(epoch: 76, iters: 593600, time: 0.093) IPixel: 0.005 VGG: 0.960 G: 0.617 D: 0.815 
+(epoch: 76, iters: 593700, time: 0.094) G: 0.671 D: 0.798 CX: 0.107 
+(epoch: 76, iters: 593800, time: 0.090) G: 2.548 D: 0.084 CX: 0.172 
+(epoch: 76, iters: 593900, time: 0.095) G: 0.823 D: 0.590 CX: 0.096 
+(epoch: 76, iters: 594000, time: 0.092) IPixel: 0.012 VGG: 2.385 G: 0.803 D: 0.648 
+(epoch: 76, iters: 594100, time: 0.090) IPixel: 0.005 VGG: 0.720 G: 0.734 D: 0.680 
+(epoch: 76, iters: 594200, time: 0.099) IPixel: 0.011 VGG: 1.339 G: 0.547 D: 0.885 
+(epoch: 76, iters: 594300, time: 0.088) IPixel: 0.004 VGG: 0.655 G: 1.004 D: 0.467 
+(epoch: 76, iters: 594400, time: 0.089) G: 0.779 D: 0.642 CX: 0.104 
+(epoch: 76, iters: 594500, time: 0.089) IPixel: 0.004 VGG: 1.827 G: 1.609 D: 0.232 
+(epoch: 76, iters: 594600, time: 0.092) IPixel: 0.011 VGG: 1.994 G: 0.869 D: 0.576 
+(epoch: 76, iters: 594700, time: 0.088) G: 1.315 D: 0.340 CX: 0.136 
+(epoch: 76, iters: 594800, time: 0.088) G: 0.573 D: 0.927 CX: 0.112 
+(epoch: 76, iters: 594900, time: 0.095) IPixel: 0.007 VGG: 0.951 G: 0.662 D: 0.737 
+(epoch: 76, iters: 595000, time: 0.089) IPixel: 0.007 VGG: 1.022 G: 0.788 D: 0.639 
+(epoch: 76, iters: 595100, time: 0.090) G: 0.627 D: 0.827 CX: 0.122 
+(epoch: 76, iters: 595200, time: 0.089) IPixel: 0.007 VGG: 1.523 G: 0.907 D: 0.532 
+(epoch: 76, iters: 595300, time: 0.091) IPixel: 0.005 VGG: 1.628 G: 1.086 D: 0.453 
+(epoch: 76, iters: 595400, time: 0.087) IPixel: 0.009 VGG: 0.916 G: 2.157 D: 0.127 
+(epoch: 76, iters: 595500, time: 0.089) G: 0.912 D: 0.554 CX: 0.092 
+(epoch: 76, iters: 595600, time: 0.090) G: 2.834 D: 0.066 CX: 0.181 
+(epoch: 76, iters: 595700, time: 0.064) G: 2.069 D: 0.145 CX: 0.096 
+(epoch: 76, iters: 595800, time: 0.094) G: 1.522 D: 0.258 CX: 0.084 
+(epoch: 76, iters: 595900, time: 0.087) IPixel: 0.008 VGG: 1.423 G: 0.752 D: 0.727 
+(epoch: 76, iters: 596000, time: 0.088) G: 0.643 D: 0.859 CX: 0.091 
+(epoch: 76, iters: 596100, time: 0.085) IPixel: 0.007 VGG: 0.840 G: 1.501 D: 0.264 
+(epoch: 76, iters: 596200, time: 0.094) G: 1.399 D: 0.296 CX: 0.169 
+(epoch: 76, iters: 596300, time: 0.091) IPixel: 0.004 VGG: 0.865 G: 5.127 D: 0.006 
+(epoch: 76, iters: 596400, time: 0.100) G: 0.791 D: 0.634 CX: 0.133 
+(epoch: 76, iters: 596500, time: 0.091) IPixel: 0.005 VGG: 1.644 G: 2.292 D: 0.116 
+(epoch: 76, iters: 596600, time: 0.087) IPixel: 0.007 VGG: 0.898 G: 0.521 D: 1.060 
+(epoch: 76, iters: 596700, time: 0.095) IPixel: 0.005 VGG: 1.234 G: 1.513 D: 0.262 
+(epoch: 76, iters: 596800, time: 0.088) G: 0.612 D: 0.855 CX: 0.095 
+(epoch: 76, iters: 596900, time: 0.092) G: 6.453 D: 0.002 CX: 0.200 
+(epoch: 76, iters: 597000, time: 0.106) IPixel: 0.013 VGG: 1.228 G: 0.521 D: 0.943 
+(epoch: 76, iters: 597100, time: 0.088) G: 1.117 D: 0.432 CX: 0.114 
+(epoch: 76, iters: 597200, time: 0.092) IPixel: 0.013 VGG: 1.391 G: 1.106 D: 0.436 
+(epoch: 76, iters: 597300, time: 0.097) IPixel: 0.008 VGG: 1.677 G: 0.501 D: 1.017 
+(epoch: 76, iters: 597400, time: 0.089) IPixel: 0.004 VGG: 1.839 G: 0.458 D: 1.107 
+(epoch: 76, iters: 597500, time: 0.089) G: 1.653 D: 0.219 CX: 0.175 
+(epoch: 76, iters: 597600, time: 0.087) G: 1.172 D: 0.388 CX: 0.176 
+(epoch: 76, iters: 597700, time: 0.086) G: 0.696 D: 0.728 CX: 0.133 
+(epoch: 76, iters: 597800, time: 0.097) IPixel: 0.011 VGG: 1.232 G: 0.665 D: 0.752 
+(epoch: 76, iters: 597900, time: 0.087) G: 0.757 D: 0.670 CX: 0.203 
+(epoch: 76, iters: 598000, time: 0.086) IPixel: 0.007 VGG: 2.345 G: 2.136 D: 0.148 
+(epoch: 76, iters: 598100, time: 0.094) IPixel: 0.005 VGG: 0.778 G: 0.503 D: 0.963 
+(epoch: 76, iters: 598200, time: 0.101) IPixel: 0.006 VGG: 1.617 G: 1.212 D: 0.370 
+(epoch: 76, iters: 598300, time: 0.094) G: 1.853 D: 0.196 CX: 0.103 
+(epoch: 76, iters: 598400, time: 0.091) IPixel: 0.008 VGG: 1.457 G: 0.243 D: 1.643 
+(epoch: 76, iters: 598500, time: 0.088) IPixel: 0.009 VGG: 1.092 G: 0.480 D: 0.994 
+(epoch: 76, iters: 598600, time: 0.095) G: 0.761 D: 0.656 CX: 0.078 
+(epoch: 76, iters: 598700, time: 0.087) IPixel: 0.024 VGG: 1.958 G: 1.035 D: 0.449 
+(epoch: 76, iters: 598800, time: 0.089) IPixel: 0.007 VGG: 1.058 G: 0.994 D: 0.478 
+(epoch: 76, iters: 598900, time: 0.102) G: 1.593 D: 0.254 CX: 0.271 
+(epoch: 76, iters: 599000, time: 0.108) IPixel: 0.013 VGG: 1.007 G: 0.750 D: 0.655 
+(epoch: 76, iters: 599100, time: 0.089) G: 1.763 D: 0.226 CX: 0.166 
+(epoch: 76, iters: 599200, time: 0.091) IPixel: 0.005 VGG: 1.760 G: 1.383 D: 0.334 
+(epoch: 76, iters: 599300, time: 0.087) IPixel: 0.006 VGG: 0.897 G: 0.617 D: 0.789 
+(epoch: 76, iters: 599400, time: 0.089) G: 0.584 D: 0.843 CX: 0.102 
+(epoch: 76, iters: 599500, time: 0.096) G: 1.501 D: 0.259 CX: 0.143 
+(epoch: 76, iters: 599600, time: 0.090) IPixel: 0.011 VGG: 1.051 G: 0.793 D: 0.609 
+(epoch: 77, iters: 599700, time: 0.086) G: 3.364 D: 0.041 CX: 0.093 
+(epoch: 77, iters: 599800, time: 0.090) G: 0.616 D: 0.808 CX: 0.156 
+(epoch: 77, iters: 599900, time: 0.104) G: 2.631 D: 0.081 CX: 0.265 
+(epoch: 77, iters: 600000, time: 0.090) G: 1.039 D: 0.516 CX: 0.090 
+(epoch: 77, iters: 600100, time: 0.093) IPixel: 0.005 VGG: 1.822 G: 1.468 D: 0.280 
+(epoch: 77, iters: 600200, time: 0.079) G: 0.937 D: 0.536 CX: 0.167 
+(epoch: 77, iters: 600300, time: 0.089) G: 0.492 D: 1.162 CX: 0.124 
+(epoch: 77, iters: 600400, time: 0.094) G: 1.761 D: 0.203 CX: 0.125 
+(epoch: 77, iters: 600500, time: 0.091) G: 1.064 D: 0.454 CX: 0.194 
+(epoch: 77, iters: 600600, time: 0.090) IPixel: 0.005 VGG: 2.092 G: 2.485 D: 0.093 
+(epoch: 77, iters: 600700, time: 0.098) IPixel: 0.009 VGG: 1.782 G: 0.869 D: 0.570 
+(epoch: 77, iters: 600800, time: 0.092) IPixel: 0.010 VGG: 1.136 G: 0.526 D: 0.991 
+(epoch: 77, iters: 600900, time: 0.087) G: 1.042 D: 0.469 CX: 0.143 
+(epoch: 77, iters: 601000, time: 0.097) G: 0.905 D: 0.548 CX: 0.170 
+(epoch: 77, iters: 601100, time: 0.088) G: 1.404 D: 0.318 CX: 0.138 
+(epoch: 77, iters: 601200, time: 0.100) IPixel: 0.008 VGG: 1.346 G: 1.143 D: 0.413 
+(epoch: 77, iters: 601300, time: 0.088) G: 1.602 D: 0.240 CX: 0.143 
+(epoch: 77, iters: 601400, time: 0.090) G: 0.842 D: 0.591 CX: 0.140 
+(epoch: 77, iters: 601500, time: 0.094) IPixel: 0.010 VGG: 1.183 G: 0.847 D: 0.586 
+(epoch: 77, iters: 601600, time: 0.087) G: 0.455 D: 1.098 CX: 0.165 
+(epoch: 77, iters: 601700, time: 0.096) G: 0.389 D: 1.282 CX: 0.191 
+(epoch: 77, iters: 601800, time: 0.088) G: 0.704 D: 0.733 CX: 0.156 
+(epoch: 77, iters: 601900, time: 0.095) IPixel: 0.008 VGG: 1.133 G: 0.460 D: 1.069 
+(epoch: 77, iters: 602000, time: 0.088) IPixel: 0.004 VGG: 0.923 G: 1.062 D: 0.506 
+(epoch: 77, iters: 602100, time: 0.100) G: 1.804 D: 0.183 CX: 0.103 
+(epoch: 77, iters: 602200, time: 0.089) IPixel: 0.017 VGG: 1.486 G: 1.844 D: 0.180 
+(epoch: 77, iters: 602300, time: 0.088) G: 2.148 D: 0.133 CX: 0.089 
+(epoch: 77, iters: 602400, time: 0.087) IPixel: 0.003 VGG: 0.954 G: 1.099 D: 0.434 
+(epoch: 77, iters: 602500, time: 0.091) G: 2.703 D: 0.070 CX: 0.158 
+(epoch: 77, iters: 602600, time: 0.083) G: 0.593 D: 0.858 CX: 0.095 
+(epoch: 77, iters: 602700, time: 0.086) G: 0.943 D: 0.564 CX: 0.119 
+(epoch: 77, iters: 602800, time: 0.084) IPixel: 0.007 VGG: 2.377 G: 0.983 D: 0.504 
+(epoch: 77, iters: 602900, time: 0.084) IPixel: 0.021 VGG: 1.542 G: 0.803 D: 0.608 
+(epoch: 77, iters: 603000, time: 0.093) IPixel: 0.009 VGG: 1.616 G: 1.083 D: 0.511 
+(epoch: 77, iters: 603100, time: 0.091) G: 0.686 D: 0.756 CX: 0.111 
+(epoch: 77, iters: 603200, time: 0.088) IPixel: 0.005 VGG: 0.883 G: 0.834 D: 0.578 
+(epoch: 77, iters: 603300, time: 0.084) G: 0.636 D: 0.811 CX: 0.240 
+(epoch: 77, iters: 603400, time: 0.088) IPixel: 0.008 VGG: 1.408 G: 1.773 D: 0.197 
+(epoch: 77, iters: 603500, time: 0.090) IPixel: 0.008 VGG: 2.183 G: 3.715 D: 0.025 
+(epoch: 77, iters: 603600, time: 0.086) IPixel: 0.010 VGG: 0.700 G: 0.892 D: 0.558 
+(epoch: 77, iters: 603700, time: 0.095) G: 0.829 D: 0.609 CX: 0.130 
+(epoch: 77, iters: 603800, time: 0.097) G: 1.409 D: 0.287 CX: 0.116 
+(epoch: 77, iters: 603900, time: 0.088) IPixel: 0.006 VGG: 0.948 G: 0.981 D: 0.513 
+(epoch: 77, iters: 604000, time: 0.091) IPixel: 0.025 VGG: 1.688 G: 1.419 D: 0.292 
+(epoch: 77, iters: 604100, time: 0.083) G: 0.550 D: 0.998 CX: 0.124 
+(epoch: 77, iters: 604200, time: 0.096) G: 2.219 D: 0.122 CX: 0.101 
+(epoch: 77, iters: 604300, time: 0.083) IPixel: 0.006 VGG: 1.469 G: 1.095 D: 0.466 
+(epoch: 77, iters: 604400, time: 0.088) G: 0.454 D: 1.099 CX: 0.106 
+(epoch: 77, iters: 604500, time: 0.086) IPixel: 0.010 VGG: 1.094 G: 0.778 D: 0.632 
+(epoch: 77, iters: 604600, time: 0.090) IPixel: 0.005 VGG: 1.347 G: 0.910 D: 0.541 
+(epoch: 77, iters: 604700, time: 0.093) G: 2.069 D: 0.137 CX: 0.175 
+(epoch: 77, iters: 604800, time: 0.090) G: 2.462 D: 0.092 CX: 0.131 
+(epoch: 77, iters: 604900, time: 0.095) G: 0.511 D: 0.975 CX: 0.072 
+(epoch: 77, iters: 605000, time: 0.092) IPixel: 0.004 VGG: 1.036 G: 0.971 D: 0.494 
+(epoch: 77, iters: 605100, time: 0.096) IPixel: 0.011 VGG: 0.982 G: 0.644 D: 0.754 
+(epoch: 77, iters: 605200, time: 0.091) IPixel: 0.004 VGG: 1.489 G: 0.214 D: 2.408 
+(epoch: 77, iters: 605300, time: 0.087) G: 2.125 D: 0.141 CX: 0.109 
+(epoch: 77, iters: 605400, time: 0.102) IPixel: 0.013 VGG: 1.863 G: 1.455 D: 0.323 
+(epoch: 77, iters: 605500, time: 0.087) IPixel: 0.022 VGG: 1.643 G: 0.582 D: 0.839 
+(epoch: 77, iters: 605600, time: 0.087) IPixel: 0.003 VGG: 1.478 G: 4.822 D: 0.008 
+(epoch: 77, iters: 605700, time: 0.090) IPixel: 0.006 VGG: 0.892 G: 0.208 D: 1.812 
+(epoch: 77, iters: 605800, time: 0.090) IPixel: 0.005 VGG: 1.135 G: 1.342 D: 0.341 
+(epoch: 77, iters: 605900, time: 0.090) IPixel: 0.006 VGG: 0.854 G: 0.971 D: 0.534 
+(epoch: 77, iters: 606000, time: 0.087) G: 1.080 D: 0.580 CX: 0.072 
+(epoch: 77, iters: 606100, time: 0.099) IPixel: 0.006 VGG: 1.140 G: 1.498 D: 0.264 
+(epoch: 77, iters: 606200, time: 0.088) G: 1.395 D: 0.312 CX: 0.124 
+(epoch: 77, iters: 606300, time: 0.100) IPixel: 0.007 VGG: 0.841 G: 0.541 D: 0.986 
+(epoch: 77, iters: 606400, time: 0.096) G: 0.915 D: 0.547 CX: 0.171 
+(epoch: 77, iters: 606500, time: 0.083) G: 1.424 D: 0.294 CX: 0.349 
+(epoch: 77, iters: 606600, time: 0.090) IPixel: 0.006 VGG: 1.300 G: 0.634 D: 0.774 
+(epoch: 77, iters: 606700, time: 0.082) G: 2.037 D: 0.158 CX: 0.117 
+(epoch: 77, iters: 606800, time: 0.093) G: 2.619 D: 0.077 CX: 0.129 
+(epoch: 77, iters: 606900, time: 0.091) IPixel: 0.009 VGG: 1.167 G: 0.577 D: 0.877 
+(epoch: 77, iters: 607000, time: 0.087) G: 1.915 D: 0.171 CX: 0.226 
+(epoch: 77, iters: 607100, time: 0.083) IPixel: 0.009 VGG: 1.181 G: 0.575 D: 0.906 
+(epoch: 77, iters: 607200, time: 0.089) IPixel: 0.007 VGG: 1.124 G: 0.604 D: 0.862 
+(epoch: 77, iters: 607300, time: 0.090) G: 1.259 D: 0.344 CX: 0.239 
+(epoch: 77, iters: 607400, time: 0.090) G: 0.528 D: 1.011 CX: 0.353 
+(epoch: 77, iters: 607500, time: 0.092) G: 0.713 D: 0.884 CX: 0.229 
+(epoch: 78, iters: 607600, time: 0.084) IPixel: 0.008 VGG: 1.018 G: 1.793 D: 0.201 
+(epoch: 78, iters: 607700, time: 0.086) G: 0.872 D: 0.563 CX: 0.118 
+(epoch: 78, iters: 607800, time: 0.089) IPixel: 0.008 VGG: 0.926 G: 0.695 D: 0.714 
+(epoch: 78, iters: 607900, time: 0.094) G: 1.778 D: 0.196 CX: 0.084 
+(epoch: 78, iters: 608000, time: 0.091) G: 1.651 D: 0.227 CX: 0.094 
+(epoch: 78, iters: 608100, time: 0.087) IPixel: 0.007 VGG: 0.815 G: 0.549 D: 0.926 
+(epoch: 78, iters: 608200, time: 0.091) IPixel: 0.005 VGG: 1.732 G: 0.179 D: 1.944 
+(epoch: 78, iters: 608300, time: 0.098) IPixel: 0.014 VGG: 2.182 G: 1.538 D: 0.250 
+(epoch: 78, iters: 608400, time: 0.089) IPixel: 0.006 VGG: 0.864 G: 0.956 D: 0.501 
+(epoch: 78, iters: 608500, time: 0.090) G: 0.616 D: 0.826 CX: 0.166 
+(epoch: 78, iters: 608600, time: 0.103) IPixel: 0.011 VGG: 1.740 G: 0.871 D: 0.580 
+(epoch: 78, iters: 608700, time: 0.088) G: 1.075 D: 0.432 CX: 0.114 
+(epoch: 78, iters: 608800, time: 0.101) IPixel: 0.028 VGG: 1.944 G: 0.786 D: 0.626 
+(epoch: 78, iters: 608900, time: 0.086) IPixel: 0.005 VGG: 0.905 G: 0.367 D: 1.247 
+(epoch: 78, iters: 609000, time: 0.087) G: 0.610 D: 0.852 CX: 0.093 
+(epoch: 78, iters: 609100, time: 0.095) G: 1.095 D: 0.450 CX: 0.221 
+(epoch: 78, iters: 609200, time: 0.093) IPixel: 0.036 VGG: 1.611 G: 0.566 D: 0.866 
+(epoch: 78, iters: 609300, time: 0.092) G: 1.233 D: 0.360 CX: 0.073 
+(epoch: 78, iters: 609400, time: 0.099) G: 1.058 D: 0.449 CX: 0.181 
+(epoch: 78, iters: 609500, time: 0.095) IPixel: 0.006 VGG: 1.418 G: 0.655 D: 0.746 
+(epoch: 78, iters: 609600, time: 0.093) IPixel: 0.006 VGG: 0.834 G: 0.859 D: 0.576 
+(epoch: 78, iters: 609700, time: 0.093) IPixel: 0.008 VGG: 1.057 G: 1.650 D: 0.220 
+(epoch: 78, iters: 609800, time: 0.094) G: 0.808 D: 0.628 CX: 0.095 
+(epoch: 78, iters: 609900, time: 0.095) G: 0.254 D: 1.825 CX: 0.124 
+(epoch: 78, iters: 610000, time: 0.092) IPixel: 0.006 VGG: 1.008 G: 0.393 D: 1.185 
+(epoch: 78, iters: 610100, time: 0.093) G: 0.784 D: 0.824 CX: 0.269 
+(epoch: 78, iters: 610200, time: 0.088) G: 1.698 D: 0.216 CX: 0.083 
+(epoch: 78, iters: 610300, time: 0.098) G: 0.601 D: 0.889 CX: 0.282 
+(epoch: 78, iters: 610400, time: 0.089) IPixel: 0.024 VGG: 1.680 G: 0.534 D: 0.929 
+(epoch: 78, iters: 610500, time: 0.093) G: 0.734 D: 1.004 CX: 0.197 
+(epoch: 78, iters: 610600, time: 0.097) IPixel: 0.007 VGG: 1.004 G: 0.558 D: 0.911 
+(epoch: 78, iters: 610700, time: 0.093) IPixel: 0.003 VGG: 1.002 G: 0.363 D: 1.537 
+(epoch: 78, iters: 610800, time: 0.094) IPixel: 0.009 VGG: 1.484 G: 0.911 D: 0.547 
+(epoch: 78, iters: 610900, time: 0.088) IPixel: 0.006 VGG: 0.932 G: 1.282 D: 0.362 
+(epoch: 78, iters: 611000, time: 0.095) IPixel: 0.008 VGG: 2.030 G: 1.510 D: 0.258 
+(epoch: 78, iters: 611100, time: 0.096) G: 0.791 D: 0.669 CX: 0.169 
+(epoch: 78, iters: 611200, time: 0.089) G: 2.990 D: 0.055 CX: 0.072 
+(epoch: 78, iters: 611300, time: 0.092) IPixel: 0.012 VGG: 0.978 G: 0.853 D: 0.602 
+(epoch: 78, iters: 611400, time: 0.095) G: 0.753 D: 0.866 CX: 0.151 
+(epoch: 78, iters: 611500, time: 0.096) IPixel: 0.011 VGG: 1.543 G: 0.776 D: 0.664 
+(epoch: 78, iters: 611600, time: 0.082) G: 1.128 D: 0.422 CX: 0.125 
+(epoch: 78, iters: 611700, time: 0.102) G: 1.685 D: 0.215 CX: 0.149 
+(epoch: 78, iters: 611800, time: 0.085) G: 1.681 D: 0.221 CX: 0.177 
+(epoch: 78, iters: 611900, time: 0.090) G: 1.540 D: 0.252 CX: 0.127 
+(epoch: 78, iters: 612000, time: 0.096) IPixel: 0.008 VGG: 2.024 G: 1.014 D: 0.560 
+(epoch: 78, iters: 612100, time: 0.088) IPixel: 0.005 VGG: 1.223 G: 0.597 D: 0.900 
+(epoch: 78, iters: 612200, time: 0.092) G: 0.440 D: 1.143 CX: 0.200 
+(epoch: 78, iters: 612300, time: 0.091) IPixel: 0.005 VGG: 1.055 G: 1.285 D: 0.363 
+(epoch: 78, iters: 612400, time: 0.088) IPixel: 0.013 VGG: 1.289 G: 0.658 D: 0.768 
+(epoch: 78, iters: 612500, time: 0.089) G: 0.455 D: 1.087 CX: 0.049 
+(epoch: 78, iters: 612600, time: 0.086) G: 0.700 D: 0.738 CX: 0.096 
+(epoch: 78, iters: 612700, time: 0.094) IPixel: 0.003 VGG: 1.246 G: 1.201 D: 0.368 
+(epoch: 78, iters: 612800, time: 0.089) G: 0.738 D: 0.717 CX: 0.145 
+(epoch: 78, iters: 612900, time: 0.088) IPixel: 0.009 VGG: 1.438 G: 0.885 D: 0.577 
+(epoch: 78, iters: 613000, time: 0.087) G: 0.869 D: 0.595 CX: 0.168 
+(epoch: 78, iters: 613100, time: 0.097) G: 0.642 D: 0.793 CX: 0.227 
+(epoch: 78, iters: 613200, time: 0.090) G: 1.041 D: 0.504 CX: 0.277 
+(epoch: 78, iters: 613300, time: 0.095) IPixel: 0.004 VGG: 1.238 G: 0.605 D: 0.967 
+(epoch: 78, iters: 613400, time: 0.104) IPixel: 0.008 VGG: 1.181 G: 1.325 D: 0.333 
+(epoch: 78, iters: 613500, time: 0.086) G: 0.340 D: 1.654 CX: 0.169 
+(epoch: 78, iters: 613600, time: 0.087) G: 0.588 D: 0.845 CX: 0.086 
+(epoch: 78, iters: 613700, time: 0.091) IPixel: 0.004 VGG: 2.428 G: 2.604 D: 0.081 
+(epoch: 78, iters: 613800, time: 0.101) G: 0.907 D: 0.545 CX: 0.155 
+(epoch: 78, iters: 613900, time: 0.090) IPixel: 0.003 VGG: 0.952 G: 0.792 D: 0.627 
+(epoch: 78, iters: 614000, time: 0.090) G: 0.981 D: 0.482 CX: 0.112 
+(epoch: 78, iters: 614100, time: 0.089) IPixel: 0.002 VGG: 1.157 G: 1.586 D: 0.346 
+(epoch: 78, iters: 614200, time: 0.086) IPixel: 0.007 VGG: 1.413 G: 0.662 D: 0.744 
+(epoch: 78, iters: 614300, time: 0.094) G: 1.532 D: 0.250 CX: 0.156 
+(epoch: 78, iters: 614400, time: 0.096) IPixel: 0.016 VGG: 1.519 G: 0.852 D: 0.582 
+(epoch: 78, iters: 614500, time: 0.090) IPixel: 0.013 VGG: 1.185 G: 0.651 D: 0.781 
+(epoch: 78, iters: 614600, time: 0.089) IPixel: 0.007 VGG: 1.084 G: 0.393 D: 1.498 
+(epoch: 78, iters: 614700, time: 0.096) G: 1.808 D: 0.196 CX: 0.141 
+(epoch: 78, iters: 614800, time: 0.094) IPixel: 0.008 VGG: 0.937 G: 1.065 D: 0.428 
+(epoch: 78, iters: 614900, time: 0.088) G: 1.362 D: 0.311 CX: 0.074 
+(epoch: 78, iters: 615000, time: 0.095) IPixel: 0.004 VGG: 1.527 G: 2.986 D: 0.053 
+(epoch: 78, iters: 615100, time: 0.089) G: 1.254 D: 0.355 CX: 0.122 
+(epoch: 78, iters: 615200, time: 0.092) G: 2.944 D: 0.056 CX: 0.159 
+(epoch: 78, iters: 615300, time: 0.100) IPixel: 0.005 VGG: 1.763 G: 2.018 D: 0.145 
+(epoch: 78, iters: 615400, time: 0.090) IPixel: 0.005 VGG: 0.958 G: 1.280 D: 0.335 
+(epoch: 78, iters: 615500, time: 0.094) IPixel: 0.011 VGG: 1.762 G: 0.334 D: 1.360 
+(epoch: 79, iters: 615600, time: 0.084) G: 0.698 D: 0.714 CX: 0.144 
+(epoch: 79, iters: 615700, time: 0.091) IPixel: 0.010 VGG: 1.985 G: 0.850 D: 0.619 
+(epoch: 79, iters: 615800, time: 0.088) G: 0.646 D: 0.779 CX: 0.158 
+(epoch: 79, iters: 615900, time: 0.094) G: 0.661 D: 0.793 CX: 0.090 
+(epoch: 79, iters: 616000, time: 0.092) G: 2.236 D: 0.121 CX: 0.215 
+(epoch: 79, iters: 616100, time: 0.088) IPixel: 0.013 VGG: 0.935 G: 1.031 D: 0.454 
+(epoch: 79, iters: 616200, time: 0.090) IPixel: 0.010 VGG: 1.423 G: 0.866 D: 0.572 
+(epoch: 79, iters: 616300, time: 0.086) G: 0.914 D: 0.537 CX: 0.112 
+(epoch: 79, iters: 616400, time: 0.097) IPixel: 0.006 VGG: 0.780 G: 1.574 D: 0.237 
+(epoch: 79, iters: 616500, time: 0.091) G: 2.437 D: 0.096 CX: 0.119 
+(epoch: 79, iters: 616600, time: 0.090) G: 0.410 D: 1.335 CX: 0.104 
+(epoch: 79, iters: 616700, time: 0.099) G: 1.888 D: 0.172 CX: 0.188 
+(epoch: 79, iters: 616800, time: 0.087) IPixel: 0.004 VGG: 1.092 G: 0.414 D: 1.235 
+(epoch: 79, iters: 616900, time: 0.097) G: 1.961 D: 0.158 CX: 0.140 
+(epoch: 79, iters: 617000, time: 0.087) IPixel: 0.005 VGG: 0.809 G: 0.967 D: 0.504 
+(epoch: 79, iters: 617100, time: 0.094) IPixel: 0.008 VGG: 0.834 G: 0.544 D: 0.946 
+(epoch: 79, iters: 617200, time: 0.088) G: 0.807 D: 0.682 CX: 0.095 
+(epoch: 79, iters: 617300, time: 0.096) G: 0.806 D: 0.702 CX: 0.223 
+(epoch: 79, iters: 617400, time: 0.089) G: 0.548 D: 0.928 CX: 0.126 
+(epoch: 79, iters: 617500, time: 0.087) G: 0.477 D: 1.465 CX: 0.134 
+(epoch: 79, iters: 617600, time: 0.098) IPixel: 0.006 VGG: 1.340 G: 0.794 D: 0.647 
+(epoch: 79, iters: 617700, time: 0.096) G: 1.030 D: 0.476 CX: 0.130 
+(epoch: 79, iters: 617800, time: 0.104) IPixel: 0.005 VGG: 1.808 G: 1.235 D: 0.397 
+(epoch: 79, iters: 617900, time: 0.086) IPixel: 0.006 VGG: 1.493 G: 1.287 D: 0.354 
+(epoch: 79, iters: 618000, time: 0.092) IPixel: 0.005 VGG: 1.580 G: 0.451 D: 1.094 
+(epoch: 79, iters: 618100, time: 0.085) IPixel: 0.019 VGG: 1.603 G: 0.881 D: 0.553 
+(epoch: 79, iters: 618200, time: 0.089) IPixel: 0.002 VGG: 0.956 G: 0.735 D: 0.695 
+(epoch: 79, iters: 618300, time: 0.097) IPixel: 0.007 VGG: 0.873 G: 1.385 D: 0.302 
+(epoch: 79, iters: 618400, time: 0.094) IPixel: 0.008 VGG: 1.613 G: 0.879 D: 0.596 
+(epoch: 79, iters: 618500, time: 0.088) G: 0.821 D: 0.770 CX: 0.144 
+(epoch: 79, iters: 618600, time: 0.090) G: 0.512 D: 0.949 CX: 0.131 
+(epoch: 79, iters: 618700, time: 0.090) IPixel: 0.016 VGG: 1.640 G: 0.459 D: 1.105 
+(epoch: 79, iters: 618800, time: 0.093) G: 1.353 D: 0.320 CX: 0.204 
+(epoch: 79, iters: 618900, time: 0.089) IPixel: 0.024 VGG: 1.654 G: 1.398 D: 0.295 
+(epoch: 79, iters: 619000, time: 0.091) G: 0.933 D: 0.532 CX: 0.169 
+(epoch: 79, iters: 619100, time: 0.088) G: 1.621 D: 0.233 CX: 0.135 
+(epoch: 79, iters: 619200, time: 0.092) IPixel: 0.009 VGG: 0.814 G: 0.859 D: 0.564 
+(epoch: 79, iters: 619300, time: 0.099) IPixel: 0.007 VGG: 0.986 G: 0.865 D: 0.576 
+(epoch: 79, iters: 619400, time: 0.096) G: 0.941 D: 0.521 CX: 0.082 
+(epoch: 79, iters: 619500, time: 0.088) IPixel: 0.005 VGG: 1.189 G: 0.913 D: 0.528 
+(epoch: 79, iters: 619600, time: 0.092) G: 0.306 D: 1.527 CX: 0.124 
+(epoch: 79, iters: 619700, time: 0.095) IPixel: 0.005 VGG: 1.308 G: 1.941 D: 0.167 
+(epoch: 79, iters: 619800, time: 0.088) IPixel: 0.019 VGG: 1.776 G: 1.180 D: 0.383 
+(epoch: 79, iters: 619900, time: 0.088) IPixel: 0.019 VGG: 1.604 G: 0.470 D: 1.041 
+(epoch: 79, iters: 620000, time: 0.089) G: 2.320 D: 0.112 CX: 0.128 
+(epoch: 79, iters: 620100, time: 0.088) G: 1.859 D: 0.178 CX: 0.143 
+(epoch: 79, iters: 620200, time: 0.097) G: 0.352 D: 1.336 CX: 0.108 
+(epoch: 79, iters: 620300, time: 0.094) IPixel: 0.016 VGG: 1.487 G: 0.782 D: 0.660 
+(epoch: 79, iters: 620400, time: 0.095) G: 0.594 D: 0.907 CX: 0.107 
+(epoch: 79, iters: 620500, time: 0.089) G: 1.938 D: 0.164 CX: 0.093 
+(epoch: 79, iters: 620600, time: 0.088) G: 0.596 D: 0.841 CX: 0.135 
+(epoch: 79, iters: 620700, time: 0.093) G: 0.627 D: 1.080 CX: 0.130 
+(epoch: 79, iters: 620800, time: 0.087) G: 1.574 D: 0.239 CX: 0.119 
+(epoch: 79, iters: 620900, time: 0.089) G: 1.629 D: 0.226 CX: 0.100 
+(epoch: 79, iters: 621000, time: 0.090) IPixel: 0.007 VGG: 0.872 G: 0.745 D: 0.663 
+(epoch: 79, iters: 621100, time: 0.087) G: 0.992 D: 0.532 CX: 0.252 
+(epoch: 79, iters: 621200, time: 0.092) IPixel: 0.005 VGG: 1.382 G: 1.954 D: 0.156 
+(epoch: 79, iters: 621300, time: 0.092) IPixel: 0.010 VGG: 2.500 G: 3.103 D: 0.043 
+(epoch: 79, iters: 621400, time: 0.096) IPixel: 0.005 VGG: 0.805 G: 0.676 D: 0.720 
+(epoch: 79, iters: 621500, time: 0.097) IPixel: 0.007 VGG: 0.982 G: 1.058 D: 0.438 
+(epoch: 79, iters: 621600, time: 0.089) IPixel: 0.012 VGG: 1.546 G: 1.246 D: 0.357 
+(epoch: 79, iters: 621700, time: 0.096) IPixel: 0.007 VGG: 0.963 G: 0.426 D: 1.111 
+(epoch: 79, iters: 621800, time: 0.088) G: 1.243 D: 0.417 CX: 0.088 
+(epoch: 79, iters: 621900, time: 0.092) IPixel: 0.009 VGG: 1.647 G: 0.768 D: 0.706 
+(epoch: 79, iters: 622000, time: 0.085) G: 1.086 D: 0.470 CX: 0.107 
+(epoch: 79, iters: 622100, time: 0.092) IPixel: 0.010 VGG: 1.489 G: 0.394 D: 1.243 
+(epoch: 79, iters: 622200, time: 0.094) IPixel: 0.007 VGG: 1.777 G: 1.699 D: 0.212 
+(epoch: 79, iters: 622300, time: 0.087) G: 2.094 D: 0.153 CX: 0.128 
+(epoch: 79, iters: 622400, time: 0.088) IPixel: 0.006 VGG: 1.603 G: 1.674 D: 0.223 
+(epoch: 79, iters: 622500, time: 0.089) G: 1.180 D: 0.390 CX: 0.135 
+(epoch: 79, iters: 622600, time: 0.088) G: 0.614 D: 0.995 CX: 0.231 
+(epoch: 79, iters: 622700, time: 0.088) IPixel: 0.016 VGG: 2.271 G: 0.471 D: 1.203 
+(epoch: 79, iters: 622800, time: 0.088) G: 0.446 D: 1.131 CX: 0.064 
+(epoch: 79, iters: 622900, time: 0.098) IPixel: 0.005 VGG: 0.792 G: 1.259 D: 0.352 
+(epoch: 79, iters: 623000, time: 0.083) G: 1.443 D: 0.281 CX: 0.069 
+(epoch: 79, iters: 623100, time: 0.092) G: 1.810 D: 0.185 CX: 0.095 
+(epoch: 79, iters: 623200, time: 0.096) G: 0.763 D: 0.683 CX: 0.143 
+(epoch: 79, iters: 623300, time: 0.092) IPixel: 0.007 VGG: 1.137 G: 1.139 D: 0.400 
+(epoch: 79, iters: 623400, time: 0.097) G: 0.716 D: 0.682 CX: 0.104 
+(epoch: 79, iters: 623500, time: 0.090) IPixel: 0.007 VGG: 1.817 G: 0.535 D: 0.938 

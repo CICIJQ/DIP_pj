@@ -1,0 +1,8 @@
+Dataset: testdata_postcard
+Images: 179
+
+Averages
+PSNR 16.534074
+SSIM 0.717534
+NCC 0.890765
+LMSE 0.010954

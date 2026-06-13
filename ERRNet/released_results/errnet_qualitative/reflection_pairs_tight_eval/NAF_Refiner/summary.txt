@@ -1,0 +1,16 @@
+Dataset: testdata_table2
+Images: 5
+
+Averages
+PSNR 17.643307
+SSIM 0.515735
+NCC 0.724275
+LMSE 0.099067
+
+NAF refinement
+Checkpoint: checkpoints/errnet_naf_refiner_improved/naf_refiner_best.pt
+Coarse kind: improved
+Coarse checkpoint: checkpoints/errnet_improved_loss_v1/errnet_060_00463920.pt
+TTA: False
+baseline PSNR 17.413763 SSIM 0.493022 NCC 0.717611 LMSE 0.109450
+improved PSNR 17.645965 SSIM 0.516221 NCC 0.724198 LMSE 0.098360

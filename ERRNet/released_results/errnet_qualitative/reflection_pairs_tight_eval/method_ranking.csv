@@ -1,0 +1,12 @@
+Rank,Method,Images,PSNR,SSIM,NCC,LMSE,Note,Summary
+1,Realistic Cascade,5,17.902448,0.523148,0.749647,0.093149,,ERRNet/results/reflection_pairs_tight_eval/Realistic_Cascade/summary.txt
+2,DSRNet-S max512,5,17.837561,0.521176,0.705743,0.107186,external model; GPU0; max_long_edge=512,ERRNet/results/reflection_pairs_tight_eval/DSRNet-S_max512/ceilnet_table2/summary.txt
+3,Attn Rebalanced + TTA,5,17.804679,0.528286,0.757739,0.089025,,ERRNet/results/reflection_pairs_tight_eval/Attn_Rebalanced_TTA/summary.txt
+4,Improved Loss + TTA,5,17.783222,0.524961,0.730215,0.094298,,ERRNet/results/reflection_pairs_tight_eval/Improved_Loss_TTA/summary.txt
+5,Attn Rebalanced,5,17.720207,0.521157,0.753897,0.090567,,ERRNet/results/reflection_pairs_tight_eval/Attn_Rebalanced/summary.txt
+6,Improved Loss,5,17.645949,0.516219,0.724199,0.09836,,ERRNet/results/reflection_pairs_tight_eval/Improved_Loss/summary.txt
+7,NAFNet Refiner,5,17.643307,0.515735,0.724275,0.099067,,ERRNet/results/reflection_pairs_tight_eval/NAF_Refiner/summary.txt
+8,ERRNet Baseline + TTA,5,17.584607,0.502747,0.725858,0.10453,,ERRNet/results/reflection_pairs_tight_eval/Baseline_TTA/summary.txt
+9,Transformer Cascade v2,5,17.506734,0.501353,0.706161,0.111429,,ERRNet/results/reflection_pairs_tight_eval/Transformer_Cascade_v2/summary.txt
+10,Reflection Prior Branch,5,17.424864,0.493097,0.718332,0.108619,,ERRNet/results/reflection_pairs_tight_eval/Reflection_Prior_Branch/summary.txt
+11,ERRNet Baseline,5,17.413774,0.493025,0.717618,0.109448,,ERRNet/results/reflection_pairs_tight_eval/Baseline/summary.txt

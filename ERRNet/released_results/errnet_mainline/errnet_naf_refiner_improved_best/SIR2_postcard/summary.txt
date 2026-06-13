@@ -1,0 +1,16 @@
+Dataset: testdata_postcard
+Images: 179
+
+Averages
+PSNR 21.507993
+SSIM 0.869789
+NCC 0.922206
+LMSE 0.006408
+
+NAF refinement
+Checkpoint: checkpoints/errnet_naf_refiner_improved/naf_refiner_best.pt
+Coarse kind: improved
+Coarse checkpoint: checkpoints/errnet_improved_loss_v1/errnet_060_00463920.pt
+TTA: False
+baseline PSNR 22.121376 SSIM 0.878942 NCC 0.948417 LMSE 0.004276
+improved PSNR 21.552529 SSIM 0.867926 NCC 0.921857 LMSE 0.006257

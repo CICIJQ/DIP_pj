@@ -1,0 +1,16 @@
+Dataset: real20
+Stage 1 checkpoint: checkpoints/errnet/errnet_latest.pt
+Stage 2 checkpoint: checkpoints/errnet_unaligned_ft/errnet_latest.pt
+Images: 20
+
+Averages
+Stage1 PSNR 22.7717, SSIM 0.7996, LMSE 0.0252, NCC 0.8687
+Stage2 PSNR 23.0081, SSIM 0.8118, LMSE 0.0227, NCC 0.8707
+Delta  PSNR +0.2364, SSIM +0.0123, LMSE -0.0025, NCC +0.0020
+
+Overview examples selected by largest PSNR gain:
+12: dPSNR +5.4372, dSSIM +0.3055
+47: dPSNR +2.3637, dSSIM +0.0035
+103: dPSNR +1.3339, dSSIM +0.0088
+93: dPSNR +0.6001, dSSIM -0.0124
+3: dPSNR +0.5335, dSSIM +0.0060

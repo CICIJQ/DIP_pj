@@ -1,0 +1,8 @@
+Dataset: testdata_objects
+Images: 200
+
+Averages
+PSNR 24.815466
+SSIM 0.901884
+NCC 0.981850
+LMSE 0.002895

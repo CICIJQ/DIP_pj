@@ -1,0 +1,8 @@
+Dataset: testdata_real
+Images: 20
+
+Averages
+PSNR 22.534595
+SSIM 0.793275
+NCC 0.864968
+LMSE 0.026340

@@ -1,0 +1,8 @@
+Dataset: testdata_wild
+Images: 101
+
+Averages
+PSNR 25.439620
+SSIM 0.895670
+NCC 0.938842
+LMSE 0.007071

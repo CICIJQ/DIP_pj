@@ -1,0 +1,8 @@
+Dataset: testdata_sir2
+Images: 480
+
+Averages
+PSNR 23.321356
+SSIM 0.888592
+NCC 0.942197
+LMSE 0.004782
