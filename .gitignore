@@ -1,0 +1,38 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.py[cod]
+*.so
+
+# Common training artifacts
+checkpoints/
+results/
+runs/
+logs/
+wandb/
+tensorboard/
+*.log
+events.out.tfevents.*
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.bin
+*.safetensors
+
+# Data
+datasets/
+raw_data/
+processed_data/
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz

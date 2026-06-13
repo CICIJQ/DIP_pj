@@ -1,0 +1,21 @@
+pair,column,label,source_path,copied_path,PSNR_dB
+pair1,input,Input,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair1/m_input.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair1/input.png,
+pair1,errnet,ERRNet,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair1/rpt_gpu_baseline.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair1/errnet.png,18.64
+pair1,best_realistic_cascade,Realistic Cascade (Best),ERRNet/results/reflection_pairs_tight_eval/Realistic_Cascade/pair1/rpt_gpu_realistic_cascade.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair1/best_realistic_cascade.png,19.16
+pair1,gt,Ground Truth,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair1/t_label.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair1/gt.png,
+pair2,input,Input,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair2/m_input.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair2/input.png,
+pair2,errnet,ERRNet,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair2/rpt_gpu_baseline.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair2/errnet.png,16.19
+pair2,best_realistic_cascade,Realistic Cascade (Best),ERRNet/results/reflection_pairs_tight_eval/Realistic_Cascade/pair2/rpt_gpu_realistic_cascade.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair2/best_realistic_cascade.png,17.15
+pair2,gt,Ground Truth,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair2/t_label.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair2/gt.png,
+pair3,input,Input,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair3/m_input.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair3/input.png,
+pair3,errnet,ERRNet,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair3/rpt_gpu_baseline.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair3/errnet.png,19.05
+pair3,best_realistic_cascade,Realistic Cascade (Best),ERRNet/results/reflection_pairs_tight_eval/Realistic_Cascade/pair3/rpt_gpu_realistic_cascade.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair3/best_realistic_cascade.png,19.76
+pair3,gt,Ground Truth,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair3/t_label.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair3/gt.png,
+pair4,input,Input,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair4/m_input.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair4/input.png,
+pair4,errnet,ERRNet,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair4/rpt_gpu_baseline.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair4/errnet.png,15.57
+pair4,best_realistic_cascade,Realistic Cascade (Best),ERRNet/results/reflection_pairs_tight_eval/Realistic_Cascade/pair4/rpt_gpu_realistic_cascade.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair4/best_realistic_cascade.png,16.03
+pair4,gt,Ground Truth,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair4/t_label.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair4/gt.png,
+pair5,input,Input,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair5/m_input.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair5/input.png,
+pair5,errnet,ERRNet,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair5/rpt_gpu_baseline.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair5/errnet.png,17.62
+pair5,best_realistic_cascade,Realistic Cascade (Best),ERRNet/results/reflection_pairs_tight_eval/Realistic_Cascade/pair5/rpt_gpu_realistic_cascade.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair5/best_realistic_cascade.png,17.42
+pair5,gt,Ground Truth,ERRNet/results/reflection_pairs_tight_eval/Baseline/pair5/t_label.png,ERRNet/paper_visuals/selected_images/reflection_pairs_tight_best_vs_errnet/pair5/gt.png,
