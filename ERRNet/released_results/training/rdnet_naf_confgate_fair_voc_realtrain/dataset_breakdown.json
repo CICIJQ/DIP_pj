@@ -1,0 +1,12 @@
+{
+  "train_total": 6959,
+  "val_total": 773,
+  "train_by_dataset": {
+    "real_train": 80,
+    "rdnet_refiner_voc_synth_train": 6879
+  },
+  "val_by_dataset": {
+    "real_train": 9,
+    "rdnet_refiner_voc_synth_train": 764
+  }
+}
