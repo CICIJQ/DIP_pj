@@ -1,0 +1,8 @@
+dataset,images,psnr_wins,ssim_wins,ncc_wins,lmse_wins
+CEILNet synthetic,100,53,13,40,9
+real20,20,6,7,1,1
+SIR2 with GT,480,154,43,59,45
+SIR2 Objects,200,99,22,26,34
+SIR2 Postcard,179,3,0,2,0
+SIR2 Wild,101,52,21,31,11
+self-collected 5,5,1,1,1,0

@@ -7,7 +7,10 @@ Included here:
 
 - full-resolution tiled evaluation summary on the ERRNet-processed benchmarks
 - `max_long_edge=512` evaluation summary on the same benchmark suite
+- per-dataset `summary.txt` and `per_image_metrics.csv` exports for both
+  evaluation modes
 - the saved training loss log from the local fine-tuning run
+- the lightweight checkpoint `DSRNet/weights/dsrnet_s_epoch14.pt`
 
-Large generated outputs, checkpoints, and datasets are intentionally excluded
-from this GitHub export.
+Large generated image dumps and datasets are intentionally excluded from this
+GitHub export.

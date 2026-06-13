@@ -1,0 +1,20 @@
+Dataset: testdata_wild
+Images: 101
+
+Averages
+PSNR 25.288721
+SSIM 0.910400
+NCC 0.953828
+LMSE 0.005058
+
+DSRNet
+Checkpoint: ./weights/dsrnet_s_epoch14.pt
+Architecture: dsrnet_s
+Hypercolumn: True
+Align 32x: True
+Max long edge: -1
+Split intro devices: 0,1
+AMP: True
+Tile size: 512
+Tile overlap: 64
+Save images: False

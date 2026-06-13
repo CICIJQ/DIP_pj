@@ -1,0 +1,20 @@
+Dataset: testdata_sir2
+Images: 480
+
+Averages
+PSNR 25.307032
+SSIM 0.911311
+NCC 0.968997
+LMSE 0.003217
+
+DSRNet
+Checkpoint: ./weights/dsrnet_s_epoch14.pt
+Architecture: dsrnet_s
+Hypercolumn: True
+Align 32x: True
+Max long edge: -1
+Split intro devices: 0,1
+AMP: True
+Tile size: 512
+Tile overlap: 64
+Save images: False

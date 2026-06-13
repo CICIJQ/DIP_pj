@@ -1,0 +1,20 @@
+Dataset: testdata_postcard
+Images: 179
+
+Averages
+PSNR 24.458009
+SSIM 0.909026
+NCC 0.959632
+LMSE 0.003017
+
+DSRNet
+Checkpoint: ./weights/dsrnet_s_epoch14.pt
+Architecture: dsrnet_s
+Hypercolumn: True
+Align 32x: True
+Max long edge: -1
+Split intro devices: 0,1
+AMP: True
+Tile size: 512
+Tile overlap: 64
+Save images: False

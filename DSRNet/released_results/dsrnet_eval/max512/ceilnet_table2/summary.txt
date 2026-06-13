@@ -1,0 +1,16 @@
+Dataset: testdata_table2
+Images: 100
+
+Averages
+PSNR 24.430280
+SSIM 0.902807
+NCC 0.961038
+LMSE 0.007967
+
+DSRNet
+Checkpoint: ./weights/dsrnet_s_epoch14.pt
+Architecture: dsrnet_s
+Hypercolumn: True
+Align 32x: True
+Max long edge: 512
+Save images: False

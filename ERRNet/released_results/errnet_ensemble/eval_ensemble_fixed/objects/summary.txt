@@ -1,0 +1,23 @@
+Dataset: testdata_objects
+Images: 200
+
+Averages
+PSNR 24.754255
+SSIM 0.898643
+NCC 0.983202
+LMSE 0.003092
+
+Ensemble
+Fusion: weighted
+Spatial alignment: top-left crop to common input/output/target height and width
+Search score: equal mean of candidate-wise min-max normalized PSNR, SSIM, NCC, and inverted LMSE
+Active models: baseline,improved,attn,transformer
+Weight models: baseline,improved,attn,transformer
+Weights: 0.25,0.25,0.25,0.25
+TTA models: 
+
+Individual model averages
+baseline PSNR 24.824362 SSIM 0.899274 NCC 0.981937 LMSE 0.002972
+improved PSNR 24.622366 SSIM 0.896152 NCC 0.982508 LMSE 0.003286
+attn PSNR 24.532794 SSIM 0.898057 NCC 0.982069 LMSE 0.003231
+transformer PSNR 24.304078 SSIM 0.890524 NCC 0.982710 LMSE 0.003426

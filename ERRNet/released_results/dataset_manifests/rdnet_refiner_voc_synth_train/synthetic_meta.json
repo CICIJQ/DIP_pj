@@ -1,0 +1,10 @@
+{
+  "count": 7643,
+  "seed": 42,
+  "voc_dir": "/mnt/user4/dip_pj/ERRNet/datasets/processed_data/VOCdevkit/VOC2012/PNGImages",
+  "voc_list": "/mnt/user4/dip_pj/ERRNet/VOC2012_224_train_png.txt",
+  "low_sigma": 2.0,
+  "high_sigma": 5.0,
+  "low_gamma": 1.3,
+  "high_gamma": 1.3
+}

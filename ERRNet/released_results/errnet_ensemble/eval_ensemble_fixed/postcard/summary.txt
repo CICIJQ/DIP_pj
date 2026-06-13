@@ -1,0 +1,23 @@
+Dataset: testdata_postcard
+Images: 179
+
+Averages
+PSNR 21.975967
+SSIM 0.886548
+NCC 0.941421
+LMSE 0.004002
+
+Ensemble
+Fusion: weighted
+Spatial alignment: top-left crop to common input/output/target height and width
+Search score: equal mean of candidate-wise min-max normalized PSNR, SSIM, NCC, and inverted LMSE
+Active models: baseline,improved,attn,transformer
+Weight models: baseline,improved,attn,transformer
+Weights: 0.25,0.25,0.25,0.25
+TTA models: 
+
+Individual model averages
+baseline PSNR 22.121345 SSIM 0.878942 NCC 0.948417 LMSE 0.004276
+improved PSNR 21.552506 SSIM 0.867926 NCC 0.921857 LMSE 0.006257
+attn PSNR 20.642398 SSIM 0.869237 NCC 0.896845 LMSE 0.005940
+transformer PSNR 21.971272 SSIM 0.882338 NCC 0.949730 LMSE 0.004334
