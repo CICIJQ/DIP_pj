@@ -16,9 +16,4 @@
 - `ERRNet/`：基于 ERRNet 的去反射实验、消融、RDNet 接入，以及 RDNet-refiner 代码
 - `DSRNet/`：同一项目工作区中使用到的 DSRNet 训练与评测代码
 
-当前仓库遵循的结果发布原则：
-
-- 保留 benchmark-fair 的 RDNet refiner 结果
-- 明确排除非公平的 `all_paired` / 混入测试集训练版本
-
-具体的使用方式、结果说明和子项目背景，请分别查看各子目录下的 `README.md` 与 released results 说明文件。
+具体的使用方式、结果说明和子项目背景，查看各子目录下的 `README.md` 与 released results 说明文件。
